@@ -30,7 +30,7 @@
       "id": "barttracks",
       "class": "",
       "Datasource": {
-        "file": "/Users/alan/Dropbox/transit_star_maps/bart_tracks.geojson",
+        "file": "data/bart/bart_tracks.geojson",
         "layer": "OGRGeoJSON"
       },
       "layer": "OGRGeoJSON",
@@ -50,7 +50,7 @@
       "id": "bartstations",
       "class": "",
       "Datasource": {
-        "file": "/Users/alan/Dropbox/transit_star_maps/bart_stations.geojson",
+        "file": "data/bart/bart_stations.geojson",
         "layer": "OGRGeoJSON"
       },
       "layer": "OGRGeoJSON",
