@@ -17,7 +17,7 @@ Map {
 }
 
 
-.stations[Name!='Broadway Station'] {
+.stations {
 
   //second/marker-file: url("maki_icons/star-stroked-24.svg");
   //second/marker-width:12;

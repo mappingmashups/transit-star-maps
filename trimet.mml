@@ -1,13 +1,13 @@
 {
   "bounds": [
-    -123.2206,
-    49.1458,
-    -122.799,
-    49.3081
+    -123.0324,
+    45.3912,
+    -122.3609,
+    45.6328
   ],
   "center": [
-    -123.0104,
-    49.2353,
+    -122.6822,
+    45.504,
     10
   ],
   "format": "png8",
@@ -22,48 +22,40 @@
     {
       "geometry": "linestring",
       "extent": [
-        -123.17956,
-        49.1675,
-        -122.84471,
-        49.28715
+        -122.98164567756494,
+        45.30687210352114,
+        -122.4221624486947,
+        45.61015087573172
       ],
-      "id": "skytrainlines",
+      "id": "trimet_lines",
       "class": "lines",
       "Datasource": {
-        "file": "/Users/alan/github/transit-star-maps/data/bc_translink/skytrain_lines.geojson",
-        "layer": "OGRGeoJSON",
-        "id": "skytrainlines",
-        "project": "transit-star-maps",
-        "srs": ""
+        "file": "/Users/alan/github/transit-star-maps/data/trimet/tm_rail_lines/tm_rail_lines.shp"
       },
       "layer": null,
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "skytrainlines"
+      "name": "trimet_lines"
     },
     {
       "geometry": "point",
       "extent": [
-        -123.179741,
-        49.166679,
-        -122.84469,
-        49.285863
+        -122.98160944781684,
+        45.30687288906033,
+        -122.42216257273338,
+        45.61015087298911
       ],
-      "id": "skytrainstations",
+      "id": "trimet_stations",
       "class": "stations",
       "Datasource": {
-        "file": "/Users/alan/github/transit-star-maps/data/bc_translink/skytrain_stations.geojson",
-        "layer": "OGRGeoJSON",
-        "id": "skytrainstations",
-        "project": "transit-star-maps",
-        "srs": ""
+        "file": "/Users/alan/github/transit-star-maps/data/trimet/tm_rail_stops/tm_rail_stops.shp"
       },
       "layer": null,
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "skytrainstations"
+      "name": "trimet_stations"
     }
   ],
   "scale": 1,

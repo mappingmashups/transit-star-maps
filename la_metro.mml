@@ -1,0 +1,218 @@
+{
+  "bounds": [
+    -118.5301,
+    33.7398,
+    -117.9313,
+    34.209
+  ],
+  "center": [
+    -118.2458,
+    34.0157,
+    10
+  ],
+  "format": "png8",
+  "interactivity": false,
+  "minzoom": 10,
+  "maxzoom": 14,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "linestring",
+      "extent": [
+        -118.27057985376065,
+        33.76807028526215,
+        -118.18925259938861,
+        34.049220392760766
+      ],
+      "id": "blueline0412",
+      "class": "lines",
+      "Datasource": {
+        "file": "/Users/alan/github/transit-star-maps/data/la_metro/RailLines0614/BlueLine0412.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "blueline0412"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -118.38991659837448,
+        34.01822346868269,
+        -118.25827157955496,
+        34.04922039276079
+      ],
+      "id": "expoline0512",
+      "class": "lines",
+      "Datasource": {
+        "file": "/Users/alan/github/transit-star-maps/data/la_metro/RailLines0614/ExpoLine0512.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "expoline0512"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -118.23792895883767,
+        34.03325738589547,
+        -118.0806682337395,
+        34.152554504614486
+      ],
+      "id": "goldlineapr12",
+      "class": "lines",
+      "Datasource": {
+        "file": "/Users/alan/github/transit-star-maps/data/la_metro/RailLines0614/GoldLineApr12.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "goldlineapr12"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -118.38757280439472,
+        33.89407775266126,
+        -118.10430898797415,
+        33.933657002921045
+      ],
+      "id": "greenline0412",
+      "class": "lines",
+      "Datasource": {
+        "file": "/Users/alan/github/transit-star-maps/data/la_metro/RailLines0614/GreenLine0412.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "greenline0412"
+    },
+    {
+      "geometry": "linestring",
+      "extent": [
+        -118.37714214387563,
+        34.04662375798823,
+        -118.23351696334738,
+        34.1690581016427
+      ],
+      "id": "rplines0414",
+      "class": "lines",
+      "Datasource": {
+        "file": "/Users/alan/github/transit-star-maps/data/la_metro/RailLines0614/RPLines0414.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "rplines0414"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -118.26933291246236,
+        33.768070989,
+        -118.18936247797785,
+        34.048610350906856
+      ],
+      "id": "bluelinesta0412",
+      "class": "stations",
+      "Datasource": {
+        "file": "/Users/alan/github/transit-star-maps/data/la_metro/RailStations1212/BlueLineSta0412.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "bluelinesta0412"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -118.3888949781903,
+        34.018227231,
+        -118.25882209736746,
+        34.048610350042075
+      ],
+      "id": "expolinesta0512",
+      "class": "stations",
+      "Datasource": {
+        "file": "/Users/alan/github/transit-star-maps/data/la_metro/RailStations1212/ExpoLineSta0512.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "expolinesta0512"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -118.23790089509967,
+        34.03329981347531,
+        -118.0812120170782,
+        34.15241681889329
+      ],
+      "id": "goldlinesta0412",
+      "class": "stations",
+      "Datasource": {
+        "file": "/Users/alan/github/transit-star-maps/data/la_metro/RailStations1212/GoldLineSta0412.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "goldlinesta0412"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -118.3875721127093,
+        33.89464,
+        -118.104717,
+        33.933408
+      ],
+      "id": "greenlinesta0412",
+      "class": "stations",
+      "Datasource": {
+        "file": "/Users/alan/github/transit-star-maps/data/la_metro/RailStations1212/GreenLineSta0412.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "greenlinesta0412"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -118.376808008,
+        34.048634,
+        -118.23424885775745,
+        34.168503997
+      ],
+      "id": "rplinessta0412",
+      "class": "stations",
+      "Datasource": {
+        "file": "/Users/alan/github/transit-star-maps/data/la_metro/RailStations1212/RPLinesSta0412.shp"
+      },
+      "layer": null,
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "rplinessta0412"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "Transit Star Maps",
+  "description": "",
+  "attribution": ""
+}
