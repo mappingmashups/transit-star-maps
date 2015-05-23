@@ -1,0 +1,72 @@
+{
+  "bounds": [
+    -122.5978,
+    37.4956,
+    -121.7999,
+    38.0535
+  ],
+  "center": [
+    -122.1872,
+    37.7924,
+    10
+  ],
+  "format": "png8",
+  "interactivity": false,
+  "minzoom": 10,
+  "maxzoom": 14,
+  "srs": "+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over",
+  "Stylesheet": [
+    "style.mss"
+  ],
+  "Layer": [
+    {
+      "geometry": "linestring",
+      "extent": [
+        -122.471085,
+        37.557353,
+        -121.900354,
+        38.023844
+      ],
+      "id": "barttracks",
+      "class": "",
+      "Datasource": {
+        "file": "data/bart/bart_tracks.geojson",
+        "layer": "OGRGeoJSON",
+        "id": "barttracks",
+        "project": "transit-star-maps",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "barttracks"
+    },
+    {
+      "geometry": "point",
+      "extent": [
+        -122.469081,
+        37.557355,
+        -121.900367,
+        38.018914
+      ],
+      "id": "bartstations",
+      "class": "",
+      "Datasource": {
+        "file": "data/bart/bart_stations.geojson",
+        "layer": "OGRGeoJSON",
+        "id": "bartstations",
+        "project": "transit-star-maps",
+        "srs": ""
+      },
+      "srs-name": "autodetect",
+      "srs": "",
+      "advanced": {},
+      "name": "bartstations"
+    }
+  ],
+  "scale": 1,
+  "metatile": 2,
+  "name": "Transit Star Maps",
+  "description": "",
+  "attribution": ""
+}
