@@ -1,4 +1,4 @@
-@background: #104;
+@background: black;
 //@background: transparent;
 @starcolor: #ffa;
 
@@ -13,24 +13,35 @@ Map {
   line-width: 8;
   //line-color:lighten(@starcolor,10%);
   line-color: lightgray;
+  line-cap: round;
 }
 
 
 #bartstations {
 
-  //second/marker-file: url("star_icon_3307/icon_3307.svg");
+  //second/marker-file: url("maki_icons/star-stroked-24.svg");
   //second/marker-width:12;
-  second/marker-width:50;
+  
+  // for the same icon
+  second/marker-file: url("star_icon_3307/icon_3307_stroke.svg");
+  second/marker-width:60;
   second/marker-fill:@background;
-  second/marker-line-width: 0;
-  //second/marker-line-color:@background;
+  
+  /*
+  // for just a circle
+  second/marker-width:75;
+  second/marker-transform:translate(1.5,1.5);
+  */
+  
+  second/marker-fill:@background;
+  second/marker-line-width: 35;
   second/marker-allow-overlap:true;
 
-  first/marker-file: url("star_icon_3307/icon_3307.svg");
-  //first/marker-width:10;  
-  first/marker-width:30;  
+  first/marker-file: url("star_icon_3307/icon_3307.svg"); 
+  first/marker-width:60;  
   first/marker-fill:@starcolor;
   first/marker-allow-overlap:true;
+
 
 
 }
