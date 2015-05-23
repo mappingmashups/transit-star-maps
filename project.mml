@@ -1,13 +1,13 @@
 {
   "bounds": [
-    -122.5978,
-    37.4956,
-    -121.7999,
-    38.0535
+    -123.0324,
+    45.3912,
+    -122.3609,
+    45.6328
   ],
   "center": [
-    -122.1872,
-    37.7924,
+    -122.6822,
+    45.504,
     10
   ],
   "format": "png8",
@@ -22,46 +22,40 @@
     {
       "geometry": "linestring",
       "extent": [
-        -122.471085,
-        37.557353,
-        -121.900354,
-        38.023844
+        -122.98164567756494,
+        45.30687210352114,
+        -122.4221624486947,
+        45.61015087573172
       ],
-      "id": "barttracks",
-      "class": "",
+      "id": "trimet_lines",
+      "class": "lines",
       "Datasource": {
-        "file": "data/bart/bart_tracks.geojson",
-        "layer": "OGRGeoJSON",
-        "id": "barttracks",
-        "project": "transit-star-maps",
-        "srs": ""
+        "file": "/Users/alan/github/transit-star-maps/data/trimet/tm_rail_lines/tm_rail_lines.shp"
       },
+      "layer": null,
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "barttracks"
+      "name": "trimet_lines"
     },
     {
       "geometry": "point",
       "extent": [
-        -122.469081,
-        37.557355,
-        -121.900367,
-        38.018914
+        -122.98160944781684,
+        45.30687288906033,
+        -122.42216257273338,
+        45.61015087298911
       ],
-      "id": "bartstations",
-      "class": "",
+      "id": "trimet_stations",
+      "class": "stations",
       "Datasource": {
-        "file": "data/bart/bart_stations.geojson",
-        "layer": "OGRGeoJSON",
-        "id": "bartstations",
-        "project": "transit-star-maps",
-        "srs": ""
+        "file": "/Users/alan/github/transit-star-maps/data/trimet/tm_rail_stops/tm_rail_stops.shp"
       },
+      "layer": null,
       "srs-name": "autodetect",
       "srs": "",
       "advanced": {},
-      "name": "bartstations"
+      "name": "trimet_stations"
     }
   ],
   "scale": 1,
