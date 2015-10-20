@@ -1,0 +1,1560 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-10-20T09:30:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/25991311",
+      "properties": {
+        "@id": "node/25991311",
+        "name": "Christie",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Christie (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4186266,
+          43.6640471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25991312",
+      "properties": {
+        "@id": "node/25991312",
+        "name": "Bathurst",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Bathurst (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.411884,
+          43.6655206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25991313",
+      "properties": {
+        "@id": "node/25991313",
+        "name": "Spadina",
+        "note": "Wheelchair access on Bloor-Danforth line only",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "limited",
+        "wikipedia": "en:Spadina (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4038442,
+          43.6673027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25991314",
+      "properties": {
+        "@id": "node/25991314",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bay",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Bay (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3902412,
+          43.6701822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25991461",
+      "properties": {
+        "@id": "node/25991461",
+        "name": "Dufferin",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Dufferin (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4354578,
+          43.6602329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25991462",
+      "properties": {
+        "@id": "node/25991462",
+        "name": "Lansdowne",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Lansdowne (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4429106,
+          43.6589192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/25991463",
+      "properties": {
+        "@id": "node/25991463",
+        "name": "Dundas West",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Dundas West (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4529159,
+          43.6569391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26240971",
+      "properties": {
+        "@id": "node/26240971",
+        "name": "St. Patrick",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:St. Patrick (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3882951,
+          43.6548393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26240972",
+      "properties": {
+        "@id": "node/26240972",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "3",
+        "addr:province": "ON",
+        "addr:street": "Dundas Street East",
+        "name": "Dundas",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "opendata:type": "108001",
+        "operator": "Toronto Transit Commission",
+        "presto": "yes",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Dundas (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3808808,
+          43.6563388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/32472142",
+      "properties": {
+        "@id": "node/32472142",
+        "name": "Ellesmere",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Ellesmere (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.27631,
+          43.7668065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/32472166",
+      "properties": {
+        "@id": "node/32472166",
+        "name": "Midland",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Midland (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2719905,
+          43.770469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/32809627",
+      "properties": {
+        "@id": "node/32809627",
+        "addr:city": "Scarborough",
+        "addr:country": "CA",
+        "addr:housenumber": "95",
+        "addr:province": "ON",
+        "addr:street": "Triton Road",
+        "name": "Scarborough Centre",
+        "opendata:type": "108002",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Scarborough Centre (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2573967,
+          43.7745371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/32809628",
+      "properties": {
+        "@id": "node/32809628",
+        "name": "McCowan",
+        "network": "Scarborough RT",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:McCowan (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2517762,
+          43.7748839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/32821214",
+      "properties": {
+        "@id": "node/32821214",
+        "name": "Main Street",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Main Street (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3015933,
+          43.6890466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/32821215",
+      "properties": {
+        "@id": "node/32821215",
+        "name": "Broadview",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Broadview (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3582604,
+          43.6769167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/32821216",
+      "properties": {
+        "@id": "node/32821216",
+        "name": "Pape",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Pape (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3447186,
+          43.6798169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/32821217",
+      "properties": {
+        "@id": "node/32821217",
+        "name": "Coxwell",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Coxwell (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3230943,
+          43.6842723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/32821218",
+      "properties": {
+        "@id": "node/32821218",
+        "name": "Woodbine",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Woodbine (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3129062,
+          43.6865006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/34710071",
+      "properties": {
+        "@id": "node/34710071",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "St. George",
+        "next_train": "yes",
+        "note": "TTC subway",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:St. George (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3990009,
+          43.6683893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/34710072",
+      "properties": {
+        "@id": "node/34710072",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Osgoode",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "presto": "no",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Osgoode (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3866214,
+          43.6508967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/34710073",
+      "properties": {
+        "@id": "node/34710073",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "St. Andrew",
+        "note": "TTC subway",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:St. Andrew (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3848386,
+          43.6476533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/34710076",
+      "properties": {
+        "@id": "node/34710076",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "King",
+        "next_train": "yes",
+        "note": "TTC subway",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:King (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3778584,
+          43.6491905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/34710077",
+      "properties": {
+        "@id": "node/34710077",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Queen",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Queen (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.379192,
+          43.6523727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/34710078",
+      "properties": {
+        "@id": "node/34710078",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "College",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "presto": "yes",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:College (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3830661,
+          43.6613331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/34710079",
+      "properties": {
+        "@id": "node/34710079",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Wellesley",
+        "note": "TTC subway; Wheelchair access to buses only (NOT to subway)",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "transfer": "no, except for 97B Yonge",
+        "wheelchair": "limited",
+        "wikipedia": "en:Wellesley (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3836724,
+          43.6652564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/34710082",
+      "properties": {
+        "@id": "node/34710082",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "746",
+        "addr:province": "ON",
+        "addr:street": "Ossington Avenue",
+        "name": "Ossington",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "website": "http://ttc.ca/Subway/Stations/Ossington/station.jsp",
+        "wheelchair": "no",
+        "wikipedia": "en:Ossington (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4260358,
+          43.6623813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/34710110",
+      "properties": {
+        "@id": "node/34710110",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Union",
+        "next_train": "yes",
+        "note": "TTC subway",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "presto": "yes",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Union (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3797939,
+          43.6457143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/48379890",
+      "properties": {
+        "@id": "node/48379890",
+        "addr:city": "Scarborough",
+        "name": "Warden",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Warden (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.278958,
+          43.7111651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55492906",
+      "properties": {
+        "@id": "node/55492906",
+        "name": "Eglinton West",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Eglinton West (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4361171,
+          43.6994142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55492958",
+      "properties": {
+        "@id": "node/55492958",
+        "name": "Lawrence West",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Lawrence West (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.443913,
+          43.7154925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55492971",
+      "properties": {
+        "@id": "node/55492971",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "50",
+        "addr:province": "ON",
+        "addr:street": "Yorkdale Road",
+        "name": "Yorkdale",
+        "opendata:type": "108001",
+        "operator": "Toronto Transit Commission",
+        "presto": "yes",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Yorkdale (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4475188,
+          43.7248357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55493012",
+      "properties": {
+        "@id": "node/55493012",
+        "name": "Wilson",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Wilson (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.450007,
+          43.7345039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55493142",
+      "properties": {
+        "@id": "node/55493142",
+        "name": "St. Clair West",
+        "note": "elevator under construction as of 2015",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:St. Clair West (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4153913,
+          43.6841231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55493182",
+      "properties": {
+        "@id": "node/55493182",
+        "name": "Dupont",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Dupont (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4070642,
+          43.674975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55493188",
+      "properties": {
+        "@id": "node/55493188",
+        "name": "Spadina",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Spadina (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.405234,
+          43.6702539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55493240",
+      "properties": {
+        "@id": "node/55493240",
+        "name": "Rosedale",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Rosedale (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3885378,
+          43.6767721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55493309",
+      "properties": {
+        "@id": "node/55493309",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "1900",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "name": "Davisville",
+        "operator": "Toronto Transit Commission",
+        "presto": "no",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Davisville (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3971559,
+          43.6977867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55493312",
+      "properties": {
+        "@id": "node/55493312",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "15",
+        "addr:province": "ON",
+        "addr:street": "Saint Clair Avenue East",
+        "name": "St. Clair",
+        "opendata:type": "108001",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:St. Clair (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3939361,
+          43.6882809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55493345",
+      "properties": {
+        "@id": "node/55493345",
+        "addr:city": "Toronto",
+        "addr:country": "CA",
+        "addr:housenumber": "2190",
+        "addr:postcode": "M4S 2C3",
+        "addr:province": "ON",
+        "addr:street": "Yonge Street",
+        "name": "Eglinton",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Eglinton (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3984898,
+          43.7059897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/55786835",
+      "properties": {
+        "@id": "node/55786835",
+        "name": "Lawrence",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Lawrence (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4021388,
+          43.7250708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/56922328",
+      "properties": {
+        "@id": "node/56922328",
+        "name": "Don Mills",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Don Mills (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.346245,
+          43.775252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/56922332",
+      "properties": {
+        "@id": "node/56922332",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "2774",
+        "addr:province": "ON",
+        "addr:street": "Old Leslie Street",
+        "name": "Leslie",
+        "next_train": "no",
+        "onestop_screen": "no",
+        "opendata:type": "108001",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Leslie (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.366807,
+          43.770903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/56922336",
+      "properties": {
+        "@id": "node/56922336",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "20",
+        "addr:province": "ON",
+        "addr:street": "Sheppard Avenue West",
+        "name": "Sheppard-Yonge",
+        "opendata:type": "108001",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Sheppard–Yonge (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4108848,
+          43.7615102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/56922354",
+      "properties": {
+        "@id": "node/56922354",
+        "addr:city": "North York",
+        "addr:country": "CA",
+        "addr:housenumber": "550",
+        "addr:province": "ON",
+        "addr:street": "Sheppard Avenue East",
+        "name": "Bayview",
+        "opendata:type": "108001",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Bayview (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3878415,
+          43.7667887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/56922357",
+      "properties": {
+        "@id": "node/56922357",
+        "name": "York Mills",
+        "operator": "Toronto Transit Commission",
+        "presto": "yes",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:York Mills (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.406716,
+          43.7445216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/56922363",
+      "properties": {
+        "@id": "node/56922363",
+        "name": "Finch",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "presto": "yes",
+        "railway": "station",
+        "vending": "public_transport_tickets",
+        "washroom": "yes",
+        "wheelchair": "yes",
+        "wikipedia": "en:Finch (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4158136,
+          43.7808543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/59980039",
+      "properties": {
+        "@id": "node/59980039",
+        "name": "Old Mill",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Old Mill (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.49437,
+          43.6498726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/59980202",
+      "properties": {
+        "@id": "node/59980202",
+        "name": "Royal York",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Royal York (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5111504,
+          43.6482374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/60355167",
+      "properties": {
+        "@id": "node/60355167",
+        "name": "North York Centre",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:North York Centre (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4126794,
+          43.7687986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/60561758",
+      "properties": {
+        "@id": "node/60561758",
+        "name": "Donlands",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Donlands (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3378179,
+          43.6811869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/60561759",
+      "properties": {
+        "@id": "node/60561759",
+        "name": "Greenwood",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Greenwood (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3303212,
+          43.6827268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/60561763",
+      "properties": {
+        "@id": "node/60561763",
+        "name": "Victoria Park",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Victoria Park (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2887341,
+          43.6948832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/70363937",
+      "properties": {
+        "@id": "node/70363937",
+        "name": "Summerhill",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Summerhill (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3906883,
+          43.6822121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/70363946",
+      "properties": {
+        "@id": "node/70363946",
+        "name": "Bessarion",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Bessarion (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3766279,
+          43.7691855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/265014680",
+      "properties": {
+        "@id": "node/265014680",
+        "name": "Lawrence East",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Lawrence East (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2701928,
+          43.7503829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/280372903",
+      "properties": {
+        "@id": "node/280372903",
+        "name": "Queen's Park",
+        "operator": "Toronto Transit Commission",
+        "presto": "yes",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Queen's Park (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3904397,
+          43.6598508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/420042465",
+      "properties": {
+        "@id": "node/420042465",
+        "name": "Broadview",
+        "operator": "Toronto Transit Commission",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3583338,
+          43.676926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/420561530",
+      "properties": {
+        "@id": "node/420561530",
+        "name": "Downsview",
+        "note": "Will be renamed \"Sheppard West\"",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Downsview (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4622078,
+          43.7492097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/424028617",
+      "properties": {
+        "@id": "node/424028617",
+        "name": "Keele",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Keele (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4595647,
+          43.6555312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/424028625",
+      "properties": {
+        "@id": "node/424028625",
+        "name": "High Park",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:High Park (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4668644,
+          43.6538668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/427723020",
+      "properties": {
+        "@id": "node/427723020",
+        "name": "Kennedy",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Kennedy (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2637872,
+          43.7324348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/432805453",
+      "properties": {
+        "@id": "node/432805453",
+        "addr:city": "Etobicoke",
+        "addr:country": "CA",
+        "addr:housenumber": "27",
+        "addr:province": "ON",
+        "addr:street": "Saint Albans Road",
+        "name": "Kipling",
+        "opendata:type": "115001",
+        "operator": "Toronto Transit Commission",
+        "presto": "yes",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Kipling (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5354809,
+          43.6375627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/536331175",
+      "properties": {
+        "@id": "node/536331175",
+        "name": "Museum",
+        "next_train": "no",
+        "note": "Pedestrians can cross Queen's Park through the subway station",
+        "onestop_screen": "no",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Museum (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3934122,
+          43.666978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/560192986",
+      "properties": {
+        "@id": "node/560192986",
+        "name": "Glencairn",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Glencairn (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4406156,
+          43.7086729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1157217363",
+      "properties": {
+        "@id": "node/1157217363",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bloor-Yonge",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "presto": "yes",
+        "railway": "station",
+        "wheelchair": "yes",
+        "wikipedia": "en:Bloor-Yonge (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.385722,
+          43.6707988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1245024026",
+      "properties": {
+        "@id": "node/1245024026",
+        "disused": "yes",
+        "name": "Downsview Park",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "status": "construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4784153,
+          43.7536661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1245024040",
+      "properties": {
+        "@id": "node/1245024040",
+        "disused": "yes",
+        "name": "York University",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "status": "construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5004743,
+          43.7737659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1245024047",
+      "properties": {
+        "@id": "node/1245024047",
+        "disused": "yes",
+        "name": "Vaughan Metropolitan Centre",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "status": "construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5245138,
+          43.7941231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1245024059",
+      "properties": {
+        "@id": "node/1245024059",
+        "disused": "yes",
+        "name": "Highway 407",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "status": "construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5233353,
+          43.786163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1245024063",
+      "properties": {
+        "@id": "node/1245024063",
+        "disused": "yes",
+        "name": "Finch West",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "status": "construction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.490987,
+          43.7634884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1570393583",
+      "properties": {
+        "@id": "node/1570393583",
+        "addr:city": "Etobicoke",
+        "addr:country": "CA",
+        "addr:housenumber": "1240",
+        "addr:province": "ON",
+        "addr:street": "Islington Avenue",
+        "name": "Islington",
+        "opendata:type": "108001",
+        "operator": "Toronto Transit Commission",
+        "presto": "yes",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Islington (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.52487,
+          43.6453376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2481423750",
+      "properties": {
+        "@id": "node/2481423750",
+        "name": "Sherbourne",
+        "next_train": "yes",
+        "onestop_screen": "yes",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Sherbourne (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.376394,
+          43.6722828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2707352285",
+      "properties": {
+        "@id": "node/2707352285",
+        "name": "Castle Frank",
+        "operator": "Toronto Transit Commission",
+        "railway": "station",
+        "wheelchair": "no",
+        "wikipedia": "en:Castle Frank (TTC)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.368649,
+          43.6737856
+        ]
+      }
+    }
+  ]
+}

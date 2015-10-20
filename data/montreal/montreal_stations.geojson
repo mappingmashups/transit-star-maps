@@ -1,0 +1,1280 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-10-20T10:06:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/26232890",
+      "properties": {
+        "@id": "node/26232890",
+        "name": "Viau",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5471772,
+          45.5612061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/26233453",
+      "properties": {
+        "@id": "node/26233453",
+        "alt_name": "Île-Sainte-Hélène",
+        "name": "Jean-Drapeau",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "stop_position",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5332474,
+          45.5124696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/29482323",
+      "properties": {
+        "@id": "node/29482323",
+        "name": "Université-de-Montréal",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6176819,
+          45.5035379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/208949374",
+      "properties": {
+        "@id": "node/208949374",
+        "name": "Guy-Concordia",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5798146,
+          45.4953505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/208949381",
+      "properties": {
+        "@id": "node/208949381",
+        "name": "Peel",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5750245,
+          45.5005644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/208949385",
+      "properties": {
+        "@id": "node/208949385",
+        "name": "McGill",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5715335,
+          45.5040687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/208949390",
+      "properties": {
+        "@id": "node/208949390",
+        "name": "Place-des-Arts",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5683367,
+          45.5080372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/208949406",
+      "properties": {
+        "@id": "node/208949406",
+        "name": "Saint-Laurent",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5648225,
+          45.5109236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/213329687",
+      "properties": {
+        "@id": "node/213329687",
+        "name": "Atwater",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5863732,
+          45.4896934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/213331953",
+      "properties": {
+        "@id": "node/213331953",
+        "name": "Charlevoix",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5693747,
+          45.4783949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/213403939",
+      "properties": {
+        "@id": "node/213403939",
+        "name": "Papineau",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5529443,
+          45.5240492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/213403941",
+      "properties": {
+        "@id": "node/213403941",
+        "name": "Beaudry",
+        "operator": "Société de transport de Montréal",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5571887,
+          45.519546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/213481727",
+      "properties": {
+        "@id": "node/213481727",
+        "name": "Côte-des-Neiges",
+        "operator": "Société de transport de Montréal",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6234892,
+          45.4966508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/213590782",
+      "properties": {
+        "@id": "node/213590782",
+        "addr:city": "Montréal",
+        "addr:country": "CA",
+        "addr:province": "QC",
+        "addr:street": "Chemin Queen Mary",
+        "name": "Snowdon",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6279802,
+          45.4854686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/213656965",
+      "properties": {
+        "@id": "node/213656965",
+        "name": "Édouard-Montpetit",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6125634,
+          45.5101309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/214042695",
+      "properties": {
+        "@id": "node/214042695",
+        "name": "Acadie",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6237717,
+          45.5232203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/214052252",
+      "properties": {
+        "@id": "node/214052252",
+        "name": "Parc",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6244545,
+          45.5304337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/214052255",
+      "properties": {
+        "@id": "node/214052255",
+        "name": "De Castelnau",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6200292,
+          45.5352841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/214052275",
+      "properties": {
+        "@id": "node/214052275",
+        "name": "Fabre",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.607922,
+          45.5467272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/214052280",
+      "properties": {
+        "@id": "node/214052280",
+        "name": "D’Iberville",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6022739,
+          45.5530778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/218271645",
+      "properties": {
+        "@id": "node/218271645",
+        "addr:city": "Montréal",
+        "addr:street": "Boulevard Saint-Michel",
+        "name": "Saint-Michel",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5999419,
+          45.559813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/218283857",
+      "properties": {
+        "@id": "node/218283857",
+        "name": "Frontenac",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.552479,
+          45.5329932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/218356337",
+      "properties": {
+        "@id": "node/218356337",
+        "name": "Préfontaine",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5542209,
+          45.541717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/218356349",
+      "properties": {
+        "@id": "node/218356349",
+        "name": "Joliette",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5511268,
+          45.5468903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/225689808",
+      "properties": {
+        "@id": "node/225689808",
+        "name": "Jolicoeur",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5820639,
+          45.4569139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/225690774",
+      "properties": {
+        "@id": "node/225690774",
+        "name": "Monk",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5932592,
+          45.4511612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/246654576",
+      "properties": {
+        "@id": "node/246654576",
+        "name": "Assomption",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5469123,
+          45.5688192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/246655684",
+      "properties": {
+        "@id": "node/246655684",
+        "name": "Cadillac",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5466803,
+          45.5766343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/246656707",
+      "properties": {
+        "@id": "node/246656707",
+        "name": "Langelier",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5427799,
+          45.5828922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/246656708",
+      "properties": {
+        "@id": "node/246656708",
+        "name": "Radisson",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5389771,
+          45.5894863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/246656713",
+      "properties": {
+        "@id": "node/246656713",
+        "name": "Honoré-Beaugrand",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5349182,
+          45.5962423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/264271702",
+      "properties": {
+        "@id": "node/264271702",
+        "name": "Pie IX",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5515224,
+          45.5541798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311564344",
+      "properties": {
+        "@id": "node/311564344",
+        "name": "LaSalle",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5661442,
+          45.4709055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311564349",
+      "properties": {
+        "@id": "node/311564349",
+        "name": "De l'Église",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5669594,
+          45.4628739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/311564466",
+      "properties": {
+        "@id": "node/311564466",
+        "name": "Angrignon",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6036218,
+          45.4462383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437670450",
+      "properties": {
+        "@id": "node/437670450",
+        "name": "Lionel-Groulx",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5798415,
+          45.4826858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437808230",
+      "properties": {
+        "@id": "node/437808230",
+        "name": "Champ-de-Mars",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5564161,
+          45.510082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811718",
+      "properties": {
+        "@id": "node/437811718",
+        "name": "Côte-Vertu",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6833019,
+          45.5144643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811723",
+      "properties": {
+        "@id": "node/437811723",
+        "name": "Du Collège",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6728468,
+          45.5086018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811737",
+      "properties": {
+        "@id": "node/437811737",
+        "name": "De La Savane",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6616085,
+          45.5002999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811746",
+      "properties": {
+        "@id": "node/437811746",
+        "name": "Namur",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6529005,
+          45.4948911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811771",
+      "properties": {
+        "@id": "node/437811771",
+        "name": "Plamondon",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6378267,
+          45.4943764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811772",
+      "properties": {
+        "@id": "node/437811772",
+        "name": "Côte-Sainte-Catherine",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6328648,
+          45.4923068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811806",
+      "properties": {
+        "@id": "node/437811806",
+        "name": "Villa-Maria",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6197073,
+          45.4796502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811839",
+      "properties": {
+        "@id": "node/437811839",
+        "name": "Vendôme",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6037345,
+          45.4739214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811884",
+      "properties": {
+        "@id": "node/437811884",
+        "name": "Place Saint-Henri",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5866584,
+          45.4771907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811924",
+      "properties": {
+        "@id": "node/437811924",
+        "name": "Georges-Vanier",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5765137,
+          45.488977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811944",
+      "properties": {
+        "@id": "node/437811944",
+        "name": "Lucien L'Allier",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5713549,
+          45.4945704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811946",
+      "properties": {
+        "@id": "node/437811946",
+        "name": "Bonaventure",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5670909,
+          45.4982692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811948",
+      "properties": {
+        "@id": "node/437811948",
+        "name": "Square-Victoria-OACI",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5631239,
+          45.5020325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811950",
+      "properties": {
+        "@id": "node/437811950",
+        "name": "Place d’Armes",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5597607,
+          45.5060634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811969",
+      "properties": {
+        "@id": "node/437811969",
+        "name": "Sherbrooke",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.568089,
+          45.5186543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811971",
+      "properties": {
+        "@id": "node/437811971",
+        "name": "Mont-Royal",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5814435,
+          45.5247175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811977",
+      "properties": {
+        "@id": "node/437811977",
+        "name": "Laurier",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.588854,
+          45.5279907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811986",
+      "properties": {
+        "@id": "node/437811986",
+        "name": "Rosemont",
+        "operator": "Société de transport de Montréal",
+        "platforms": "2",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5975345,
+          45.5313739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811988",
+      "properties": {
+        "@id": "node/437811988",
+        "name": "Beaubien",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6045785,
+          45.5351456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437811993",
+      "properties": {
+        "@id": "node/437811993",
+        "name": "Jean-Talon",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6134985,
+          45.5391623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437812001",
+      "properties": {
+        "@id": "node/437812001",
+        "name": "Jarry",
+        "operator": "Société de transport de Montréal",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6286287,
+          45.543239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437812003",
+      "properties": {
+        "@id": "node/437812003",
+        "name": "Crémazie",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6388212,
+          45.5460935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437812008",
+      "properties": {
+        "@id": "node/437812008",
+        "name": "Sauvé",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6556979,
+          45.5508621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437812011",
+      "properties": {
+        "@id": "node/437812011",
+        "name": "Henri-Bourassa",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6681515,
+          45.5544766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/437812017",
+      "properties": {
+        "@id": "node/437812017",
+        "name": "Cartier",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6820184,
+          45.5598434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/438843513",
+      "properties": {
+        "@id": "node/438843513",
+        "name": "Berri-UQAM",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5609668,
+          45.5153717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1299955161",
+      "properties": {
+        "@id": "node/1299955161",
+        "alt_name": "Longueuil",
+        "name": "Longueuil–Université-de-Sherbrooke",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "short_name": "Longueuil-UdeS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.521988,
+          45.5249658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1600467249",
+      "properties": {
+        "@id": "node/1600467249",
+        "name": "Montmorency",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7215259,
+          45.5582856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1611063665",
+      "properties": {
+        "@id": "node/1611063665",
+        "name": "De la Concorde",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7095564,
+          45.5606846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1765620875",
+      "properties": {
+        "@id": "node/1765620875",
+        "name": "Outremont",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6148897,
+          45.5201103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2471652365",
+      "properties": {
+        "@id": "node/2471652365",
+        "name": "Verdun",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5718356,
+          45.4593608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3676828784",
+      "properties": {
+        "@id": "node/3676828784",
+        "name": "Lionel-Groulx",
+        "operator": "Société de transport de Montréal",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5799317,
+          45.4827568
+        ]
+      }
+    }
+  ]
+}
