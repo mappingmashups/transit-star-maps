@@ -55,7 +55,7 @@ Choose your region and hit the Run button above!
 [out:json][timeout:25];
 // gather results
 (
-  //node["railway"="station"]["operator"="Toronto Transit Commission"]({{bbox}});
+  //node["railway"="station"][disused!='yes'][status!='construction']["operator"="Toronto Transit Commission"]({{bbox}});
   way["railway"="subway"]["service"!="siding"]["service"!="yard"]({{bbox}});
   relation["railway"="subway"]["service"!="siding"]["service"!="yard"]({{bbox}});
 );

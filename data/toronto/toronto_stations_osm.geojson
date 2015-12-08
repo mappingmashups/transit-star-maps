@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-turbo",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2015-10-20T09:30:02Z",
+  "timestamp": "2015-12-08T12:32:02Z",
   "features": [
     {
       "type": "Feature",
@@ -751,8 +751,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.405234,
-          43.6702539
+          -79.4052396,
+          43.6703031
         ]
       }
     },
@@ -1392,101 +1392,6 @@
         "coordinates": [
           -79.385722,
           43.6707988
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1245024026",
-      "properties": {
-        "@id": "node/1245024026",
-        "disused": "yes",
-        "name": "Downsview Park",
-        "operator": "Toronto Transit Commission",
-        "railway": "station",
-        "status": "construction"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4784153,
-          43.7536661
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1245024040",
-      "properties": {
-        "@id": "node/1245024040",
-        "disused": "yes",
-        "name": "York University",
-        "operator": "Toronto Transit Commission",
-        "railway": "station",
-        "status": "construction"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5004743,
-          43.7737659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1245024047",
-      "properties": {
-        "@id": "node/1245024047",
-        "disused": "yes",
-        "name": "Vaughan Metropolitan Centre",
-        "operator": "Toronto Transit Commission",
-        "railway": "station",
-        "status": "construction"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5245138,
-          43.7941231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1245024059",
-      "properties": {
-        "@id": "node/1245024059",
-        "disused": "yes",
-        "name": "Highway 407",
-        "operator": "Toronto Transit Commission",
-        "railway": "station",
-        "status": "construction"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.5233353,
-          43.786163
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1245024063",
-      "properties": {
-        "@id": "node/1245024063",
-        "disused": "yes",
-        "name": "Finch West",
-        "operator": "Toronto Transit Commission",
-        "railway": "station",
-        "status": "construction"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.490987,
-          43.7634884
         ]
       }
     },
