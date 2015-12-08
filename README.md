@@ -44,7 +44,7 @@ Getting the Data:
 
 Where possible, find existing GeoJSON, KML, or shapefiles. These are mostly likely to be cleanest and appropriately simplified. Public data is best especially if there are no attribution requirements.
 
-You can also source the data from OSM using an overpass query, like so:
+You can also source the data from OSM using an [overpass query](http://overpass-turbo.eu/), like so:
 
 ```
 /*
@@ -56,8 +56,8 @@ Choose your region and hit the Run button above!
 // gather results
 (
   //node["railway"="station"]["operator"="Toronto Transit Commission"]({{bbox}});
-  way["railway"="subway"]({{bbox}});
-  relation["railway"="subway"]({{bbox}});
+  way["railway"="subway"]["service"!="siding"]["service"!="yard"]({{bbox}});
+  relation["railway"="subway"]["service"!="siding"]["service"!="yard"]({{bbox}});
 );
 // print results
 out body;
