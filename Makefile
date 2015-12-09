@@ -18,6 +18,11 @@ la_metro:
 	cp -f la_metro.mml project.mml
 	../tilemill/index.js export transit-star-maps output.png --format=png --static_zoom=13 --width=3000 --height=3000
 
+montreal:
+	rm -f output.png
+	cp -f montreal.mml project.mml
+	../tilemill/index.js export transit-star-maps output.png --format=png --static_zoom=13 --width=3000 --height=3000
+
 toronto:
 	rm -f output.png
 	cp -f toronto.mml project.mml
