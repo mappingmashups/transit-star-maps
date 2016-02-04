@@ -3,6 +3,9 @@ transit-star-maps
 
 transit maps that look like constellations because trains + stars = &lt;3
 
+Buy t-shirts at [transitstarmaps.com](https://transitstarmaps.com/)
+Follow us at [@transitstarmaps](https://twitter.com/transitstarmaps) and [facebook.com/transitstarmaps](https://facebook.com/transitstarmaps/)
+
 What makes a good transit star chart?
 -------------------------------------
  * The transit system needs to be complicated enough to be interesting. Sorry, [one-line systems](http://en.wikipedia.org/wiki/Link_Light_Rail) are boring.
