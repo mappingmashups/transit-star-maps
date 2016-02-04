@@ -13,7 +13,7 @@ What makes a good transit star chart?
  * Preferably organic-looking. Systems that follow a lot of straight lines are less interesting and look less like real constellations. [This](outputs/bart_v0.2.png) is more interesting than [this](outputs/trimet_max_v0.1.png)
  * Ideally some hierarchy of stations so we can use different sizes of stars. Maybe express vs local stops, or transfer stations could be larger stars, etc. So far all the maps just use the same size of star.
 
-![BART map](outputs/bart_v0.1.png)
+![BART map](outputs/bart_v0.2.png)
 
 Workflow:
 ---------
