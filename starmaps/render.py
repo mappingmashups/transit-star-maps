@@ -12,6 +12,8 @@ import re
 from html import escape
 from pathlib import Path
 
+from shapely.geometry import LineString
+
 from .config import OUTPUT_DIR, STAR_SVG
 
 VARIANTS = ("black", "transparent")
@@ -56,10 +58,65 @@ def layout(stations, segments, cfg):
     return to_px, width, height
 
 
+def declutter(stations, segments, min_px, px_per_m):
+    """Combine stars that would sit closer than `min_px` on the page.
+
+    Clusters grow greedily from the closest pair, and only while their
+    centers stay `min_px` apart, so a long row of evenly spaced stations
+    doesn't collapse into one star. Lines are reattached to the new stars.
+    """
+    if min_px <= 0:
+        return stations, segments
+    limit = min_px / px_per_m
+    clusters = [[s] for s in stations]
+
+    def center(c):
+        return (sum(s["x"] for s in c) / len(c), sum(s["y"] for s in c) / len(c))
+
+    while True:
+        best = None
+        centers = [center(c) for c in clusters]
+        for i in range(len(clusters)):
+            for j in range(i + 1, len(clusters)):
+                d = math.dist(centers[i], centers[j])
+                if d < limit and (best is None or d < best[0]):
+                    best = (d, i, j)
+        if best is None:
+            break
+        _, i, j = best
+        clusters[i] += clusters.pop(j)
+
+    new_stations, rep = [], {}
+    for c in clusters:
+        x, y = center(c)
+        main = max(c, key=lambda s: (s["rank"], s.get("degree", 0)))
+        new_stations.append({**main, "x": x, "y": y, "rank": max(s["rank"] for s in c)})
+        for s in c:
+            rep[s["id"]] = new_stations[-1]
+    new_segments = []
+    for seg in segments:
+        a, b = rep.get(seg["from"]), rep.get(seg["to"])
+        if a is not None and a is b:
+            continue
+        coords = list(seg["geometry"].coords)
+        for end, idx in ((a, 0), (b, -1)):
+            if end is None:
+                continue
+            # Pin whichever end of the line is nearer this star.
+            near = 0 if math.dist(coords[0], (end["x"], end["y"])) < math.dist(coords[-1], (end["x"], end["y"])) else -1
+            coords[near] = (end["x"], end["y"])
+        new_segments.append({**seg, "geometry": LineString(coords)})
+    return new_stations, new_segments
+
+
 def svg(stations, segments, cfg, variant: str = "black") -> str:
     st = cfg["style"]
     dpi = cfg["map"]["dpi"]
     to_px, W, H = layout(stations, segments, cfg)
+    p0, p1 = to_px(0, 0), to_px(1000, 0)
+    stations, segments = declutter(
+        stations, segments, st["min_star_spacing_in"] * dpi, math.dist(p0, p1) / 1000
+    )
     line_w = st["line_width_in"] * dpi
     gap = st["gap_in"] * dpi
     sizes = {1: st["star_size_in"] * dpi, 2: st["large_star_size_in"] * dpi}

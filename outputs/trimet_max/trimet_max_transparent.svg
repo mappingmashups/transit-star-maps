@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="1420" viewBox="0 0 3000 1420">
+  <title>TriMet MAX</title>
+  <defs>
+    <path id="star" d="M100,39.332c0-3.332-2.636-6.029-5.935-6.169c0.004-0.012,0.004-0.024,0.009-0.035H65.461L55.863,4.341 c-0.004,0-0.009,0.001-0.014,0.001C55.058,1.833,52.738,0,49.967,0c-2.938,0-5.384,2.048-6.023,4.789 c-0.007-0.001-0.015,0-0.021-0.002l-9.45,28.341H6.336c-0.048-0.001-0.092-0.014-0.139-0.014C2.773,33.113,0,35.888,0,39.31 c0,1.884,0.857,3.55,2.185,4.687c-0.007,0.01-0.011,0.021-0.019,0.031L26.24,62.535l-8.961,28.683 c-0.364,0.789-0.582,1.659-0.582,2.587c0,3.422,2.775,6.195,6.198,6.195c1.405,0,2.687-0.484,3.727-1.272 c0.011,0.01,0.025,0.017,0.036,0.026L50.027,80.84l22.536,17.317C73.688,99.294,75.245,100,76.97,100 c3.424,0,6.198-2.773,6.198-6.195c0-0.748-0.154-1.456-0.397-2.121c0.016-0.002,0.029-0.01,0.045-0.012l-9.077-29.016l23.718-18.332 c-0.002-0.001-0.005-0.003-0.007-0.005C98.988,43.192,100,41.386,100,39.332z"/>
+    <mask id="gaps" maskUnits="userSpaceOnUse" x="0" y="0" width="3000" height="1420">
+      <rect width="3000" height="1420" fill="#fff"/>
+      <g fill="#000" stroke="#000" stroke-linejoin="round">
+    <use href="#star" transform="translate(1820.3 1295.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2148.6 1260.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1796.5 1222.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2119.9 1138.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1807.6 1073.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2153.7 1038) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1795.8 989.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2152.8 950.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1754.4 878.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(995.1 877.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2155.4 860.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(911.1 848) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1756.1 830.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(855 812.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2875.5 800.9) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1643.5 796.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1731.4 796.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2833.8 795.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2153.4 791.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(810.7 778.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1684.9 770.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2776.3 765.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1591.4 749) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(765.4 746) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1108.6 744.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1421.6 741.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2163.9 716.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2672 702.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(674.2 695.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1543.2 678.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(190.5 666.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2604.6 666.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(147.3 665.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(99.7 662.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2545.2 661.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2495 660.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2425.8 660) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2293.8 658.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2193.8 658.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(583.6 653.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1625.3 645.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(304.4 626.9) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1975.8 616.9) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1717.7 606.9) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1673.4 606.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(379.5 606.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(452.1 604.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1888 587.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1622.7 541.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1595.9 478.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1589.6 433) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1589.8 381.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1590.3 331.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2194.6 314.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1590.5 281.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2150 280.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1571.9 234.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2023.6 208.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1573.3 149.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1572.9 85.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1605.3 681.6) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(2159.9 589.6) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(2089.6 576.5) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(2150.1 398.6) scale(0.5400)" stroke-width="38.89"/>
+      </g>
+    </mask>
+  </defs>
+  
+  <g mask="url(#gaps)" fill="none" stroke="#d3d3d3" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1839.8 1315 L1839 1307.7 L1838.4 1303.9 L1837.8 1301.2 L1837 1298.7 L1836.1 1296.6 L1834.4 1293.7 L1831.9 1290.1 L1828.5 1285.7 L1824.2 1280.6 L1820.6 1276.1 L1817.6 1272 L1815.2 1268.4 L1813.4 1265.4 L1812 1262.9 L1811.1 1260.9 L1810.7 1259.5 L1810.7 1258.6 L1811 1257 L1811.6 1254.7 L1813 1250.7 L1816 1242.3"/>
+    <path d="M2186.9 616.6 L2187.6 625.6 L2187.6 627.6 L2187.4 629.6 L2187 632.1 L2186.4 634.9 L2185.9 639.3 L2185.4 645.2 L2185 652.7 L2184.6 661.8 L2184.5 668.7 L2184.7 673.5 L2185.2 676.1 L2186 676.7 L2188.2 677.1 L2191.9 677.3 L2198.6 677.5 L2213.3 677.6"/>
+    <path d="M2186.9 616.6 L2187.6 625.7 L2187.6 627.5 L2187.5 628.9 L2187.3 630.4 L2187 631.9 L2186.7 633.2 L2186.4 634.2 L2186.1 635 L2185.9 635.5 L2185.6 636 L2185.3 636.3 L2184.9 636.6 L2184.4 636.7 L2184 636.7 L2183.6 636.6 L2183.2 636.4 L2182.8 636 L2182.6 635.3 L2182.3 634.4 L2182.2 633.1 L2182.2 631.6 L2182.2 629.3 L2182.3 626.1 L2182.5 622 L2182.8 617.2 L2183.2 612.5 L2183.7 607.9 L2184.4 603.4 L2185.2 599.1 L2186.4 593.5 L2188 586.7 L2190.1 578.7 L2192.7 569.5 L2194.6 561.5 L2195.8 554.6 L2196.4 549.1 L2196.3 544.7 L2196.6 540 L2197.3 535 L2198.5 529.7 L2200 524.1 L2201.2 519.3 L2202.1 515.4 L2202.6 512.3 L2202.8 510 L2202.8 507.7 L2202.6 505.4 L2202.3 503.2 L2201.9 500.9 L2201.3 498.8 L2200.6 496.8 L2199.9 494.9 L2199 493.1 L2197.1 490.4 L2194.1 486.7 L2190.1 482.2 L2185.1 476.7 L2180.9 471.9 L2177.7 467.7 L2175.3 464.1 L2173.8 461.2 L2172.6 458.5 L2171.7 456.1 L2171 454 L2170.7 452.2 L2170.4 450.3 L2170.2 448.3 L2170.2 446.3 L2170.2 444.2 L2170.4 442.1 L2170.7 440.1 L2171.1 438.2 L2171.6 436.3 L2172.3 434.4 L2173.2 432.5 L2174.5 430 L2177.1 425.6"/>
+    <path d="M2186.9 616.6 L2187.8 625.7 L2187.9 627.9 L2187.7 630.2 L2187.3 633 L2186.7 636.3 L2186 641.1 L2185.3 647.3 L2184.5 655.1 L2183.7 664.2 L2183.1 672.4 L2182.9 679.6 L2182.9 685.8 L2183.2 691 L2183.4 697.2 L2183.5 704.4 L2183.5 715 L2183.4 735.7"/>
+    <path d="M1644.8 665.3 L1638.2 647.2 L1637.5 646.5 L1637.2 645.6 L1637.1 644.6 L1637.1 643.4 L1637.4 642.4 L1638 641.6 L1638.9 641.1 L1640.1 640.8 L1641.6 640.9 L1643.4 641.4 L1645.4 642.4 L1647.7 643.7 L1649.6 644.9 L1651 646.1 L1651.9 647.1 L1652.3 648 L1653.4 648.7 L1655.2 649.2 L1657.7 649.4 L1660.8 649.4 L1664 648.7 L1667.4 647.5 L1670.9 645.7 L1674.6 643.3 L1677.6 641.2 L1679.8 639.6 L1681.2 638.4 L1681.9 637.6 L1682.6 636.6 L1683.1 635.4 L1683.6 633.9 L1683.9 632.3 L1683.9 630.8 L1683.5 629.5 L1682.3 628.1 L1692.9 626.2"/>
+    <path d="M1632.3 708.6 L1618.2 729.7 L1616.8 731.4 L1615.3 734.4 L1613.4 738.7 L1611.2 744.5 L1609.7 748.9 L1608.9 752 L1609 753.8 L1610.9 768.5"/>
+    <path d="M1644.8 665.3 L1635.7 683.5 L1634.4 685 L1633 687.8 L1630.8 693.2 L1632.3 708.6"/>
+    <path d="M784.9 765.5 L830.2 798.3"/>
+    <path d="M784.9 765.5 L765.5 751.9 L753.4 744.2 L742 737.9 L725.6 729.7 L693.7 714.8"/>
+    <path d="M693.7 714.8 L603.1 673.3"/>
+    <path d="M603.1 673.3 L548.1 648.2 L522.8 636.9 L508.8 630.8 L500.1 627.3 L496.5 626.4 L492.7 625.6 L488.4 625 L482.7 624.5 L471.6 623.9"/>
+    <path d="M323.9 646.4 L399 625.9"/>
+    <path d="M471.6 623.9 L437.3 624.1 L421.3 624.2 L412.2 624.5 L405.5 624.9 L399 625.9"/>
+    <path d="M323.9 646.4 L300.5 653.2 L288.2 657.5 L279.1 661.6 L270.6 666.3 L262.8 671.5 L255.9 675.8 L250 679.3 L245 681.9 L241.1 683.6 L237.5 685 L234.4 686 L231.8 686.6 L229.6 686.9 L226.9 687 L223.8 687 L219.1 686.9 L210 686.3"/>
+    <path d="M210 686.3 L166.8 685.2"/>
+    <path d="M166.8 685.2 L119.2 681.7"/>
+    <path d="M1644.8 665.3 L1662.1 658.1 L1662.2 655.9 L1662.5 654.4 L1662.8 653.1 L1663.4 652 L1664.8 650.5 L1667.2 648.4 L1670.4 646 L1674.7 643 L1678.1 640.3 L1680.7 637.7 L1682.5 635.3 L1683.5 633.1 L1684.5 631.2 L1685.4 629.6 L1686.2 628.5 L1687 627.6 L1687.8 626.9 L1688.7 626.5 L1690 626.3 L1692.9 626.2"/>
+    <path d="M2214.1 333.9 L2210.4 332 L2207.8 331.2 L2205.3 330.9 L2202.3 330.7 L2198.8 330.8 L2195.3 330.4 L2191.8 329.4 L2188.2 328 L2184.7 326 L2181.6 324 L2179 322 L2176.9 320 L2175.3 317.9 L2173.9 315.5 L2172.6 312.6 L2171.4 308.4 L2169.5 300.2"/>
+    <path d="M1562.7 697.6 L1544.7 706.4 L1540.4 704.8 L1537.4 703.9 L1534.7 703.1 L1532.3 702.7 L1530.3 702.3 L1528.6 702.1 L1527.3 702.1 L1526.4 702.3 L1525.5 702.6 L1524.6 703.2 L1523.6 704.1 L1522.6 705.1 L1521.4 707.2 L1520 710.1 L1518.4 714.1 L1516.5 719 L1514.7 723.1 L1513 726.5 L1511.4 729 L1509.9 730.7 L1507.1 732.9 L1503.1 735.6 L1497.9 738.9 L1491.5 742.7 L1485.4 746.1 L1479.6 749.3 L1474.3 752.1 L1469.3 754.6 L1464.9 756.6 L1461 758.1 L1457.8 759.2 L1455.2 759.8 L1452.5 760.3 L1450 760.7 L1446.8 761 L1441.1 761.3"/>
+    <path d="M1692.9 626.2 L1737.2 626.4"/>
+    <path d="M1737.2 626.4 L1761 626.9 L1771.1 626.8 L1782.1 626.3 L1795.4 625.5 L1811.2 624.3 L1823.3 623.3 L1831.8 622.4 L1836.8 621.7 L1838.2 621.1 L1839.4 620.5 L1840.6 619.8 L1841.7 619.1 L1842.6 618.3 L1844.1 616.6 L1846.1 614 L1848.6 610.5 L1851.6 606.1 L1854.1 602.6 L1856 600.1 L1857.5 598.5 L1858.4 597.9 L1859.4 597.3 L1860.6 596.8 L1861.8 596.3 L1863.1 595.9 L1864.5 595.7 L1866.1 595.6 L1867.8 595.6 L1869.7 595.8 L1873.3 596.6 L1878.6 598.1 L1887.8 600.9 L1907.5 607.2"/>
+    <path d="M1907.5 607.2 L1919.8 612 L1926.7 615.5 L1932.3 619.1 L1937.8 623.6 L1943.4 628.8 L1948.3 633.1 L1952.3 636.4 L1955.6 638.8 L1958.1 640.2 L1960.5 641.4 L1962.8 642.3 L1965 642.9 L1967.1 643.3 L1969.2 643.5 L1971.4 643.6 L1973.5 643.6 L1975.7 643.5 L1978 643.2 L1980.2 642.7 L1982.5 642.2 L1984.8 641.5 L1987 640.7 L1989 639.8 L1991.4 638.7 L1995.3 636.4"/>
+    <path d="M2186.9 616.6 L2185.6 612.6 L2184.3 613.3 L2182.5 613.4 L2180 613.1 L2176.8 612.4 L2173.4 612 L2169.7 612 L2165.7 612.3 L2161.4 613 L2157.6 613.5 L2154.3 613.8 L2151.4 614 L2148.9 614 L2146.4 613.8 L2143.8 613.5 L2141.1 613.1 L2138.3 612.5 L2135.1 611.5 L2131.6 610.2 L2126.5 608 L2116.6 603.5"/>
+    <path d="M2186.9 616.6 L2185.8 618.6 L2184.8 616.5 L2183.7 615.3 L2182.4 614.3 L2180.8 613.5 L2179.2 612.9 L2177.4 612.4 L2175.6 612.1 L2173.7 611.9 L2171.2 611.9 L2168.2 612.1 L2164.6 612.6 L2160.6 613.3 L2156.8 613.8 L2153.3 614.1 L2150 614.2 L2147.1 614.1 L2144.3 613.9 L2141.4 613.4 L2138.6 612.8 L2135.8 612 L2132.8 611 L2129.5 609.7 L2125.1 607.7 L2116.6 603.5"/>
+    <path d="M2445.3 679.5 L2514.5 680.2"/>
+    <path d="M2514.5 680.2 L2564.7 680.6"/>
+    <path d="M2624.1 686 L2691.5 722.2"/>
+    <path d="M2691.5 722.2 L2795.8 784.7"/>
+    <path d="M2795.8 784.7 L2824.8 801.9 L2832.8 806.5 L2838.4 809.3 L2844.2 811.7 L2853.3 814.8"/>
+    <path d="M2895 820.4 L2888.5 819.2 L2884.5 818.6 L2880.8 818.3 L2876.6 818.1 L2872.1 818 L2868 817.8 L2864.2 817.3 L2860.1 816.6 L2853.3 814.8"/>
+    <path d="M2624.1 686 L2564.7 680.6"/>
+    <path d="M2445.3 679.5 L2313.3 678.3"/>
+    <path d="M2313.3 678.3 L2213.3 677.6"/>
+    <path d="M2116.6 603.5 L2098.6 594.8 L2090 590.8 L2084.9 588.7 L2081.1 587.4 L2078.7 587 L2076.3 586.8 L2073.8 586.8 L2071.3 587 L2068.7 587.3 L2066.2 587.9 L2063.6 588.6 L2061 589.6 L2058.4 590.8 L2052.7 594.5 L2044 600.6 L2028.6 611.8 L1995.3 636.4"/>
+    <path d="M1644.8 665.3 L1662.8 673.2 L1662.7 679 L1662.1 683.2 L1660.8 688 L1632.3 708.6"/>
+    <path d="M1441.1 761.3 L1389.6 763.9 L1365.8 765.2 L1352.5 766 L1344.1 766.6 L1340.4 767 L1337.1 767.5 L1334.2 767.9 L1331.7 768.4 L1329.5 768.9 L1324.2 770.6 L1315.8 773.4 L1304.4 777.4 L1289.9 782.5 L1276.8 786.6 L1265.2 789.7 L1255.1 791.8 L1246.4 792.8 L1238 793.5 L1229.8 793.9 L1221.9 793.8 L1214.3 793.4 L1206.9 792.7 L1199.7 791.9 L1192.8 790.8 L1186.1 789.4 L1180 788 L1174.4 786.5 L1169.3 784.9 L1164.6 783.2 L1159.3 780.9 L1153.3 778 L1144.8 773.4 L1128.1 764"/>
+    <path d="M2186.9 616.6 L2186.6 603.2 L2186.8 598.9 L2187.1 595 L2187.5 590.7 L2188.1 586.1 L2188.9 581.1 L2190.1 575.6 L2191.6 569.7 L2193.4 563.2 L2194.7 557.5 L2195.6 552.3 L2196 547.8 L2196 543.9 L2196.3 539.6 L2197.1 534.9 L2198.2 529.7 L2199.8 524.1 L2201 519.3 L2201.8 515.3 L2202.3 512.2 L2202.5 510 L2202.5 507.7 L2202.4 505.5 L2202.1 503.2 L2201.6 501 L2201.1 498.9 L2200.4 496.9 L2199.6 495 L2198.7 493.2 L2196.9 490.5 L2194 487 L2190.2 482.7 L2185.3 477.5 L2181.3 472.8 L2178 468.6 L2175.6 464.9 L2173.9 461.7 L2172.5 458.7 L2171.5 455.9 L2170.7 453.3 L2170.3 450.9 L2170 448.6 L2169.9 446.4 L2169.9 444.3 L2170.1 442.3 L2170.4 440.3 L2170.8 438.3 L2171.3 436.3 L2172 434.3 L2172.8 432.4 L2173.6 430.7 L2174.8 428.8 L2177.1 425.6"/>
+    <path d="M2214.1 333.9 L2216.9 335.7 L2218.4 336.7 L2219.2 337.7 L2219.9 338.7 L2220.4 339.8 L2220.7 342.8 L2220.9 347.9 L2220.8 355 L2220.6 364.1 L2220.3 371.2 L2219.9 376.2 L2219.3 379.2 L2218.7 380.3 L2215.6 383.8 L2210.2 389.7 L2199.9 400.9 L2177.1 425.6"/>
+    <path d="M2043.1 227.8 L2047.8 234.7 L2051 238.4 L2054.2 241.2 L2058 243.8 L2062.3 246.2 L2066.1 248.1 L2069.2 249.5 L2071.8 250.3 L2073.7 250.6 L2075.9 250.6 L2078.3 250.2 L2080.9 249.5 L2083.6 248.4 L2086 247.6 L2088 247.1 L2089.6 246.9 L2090.8 247 L2095.8 249.3 L2104.6 253.9 L2117.3 260.7 L2133.8 269.8 L2146.7 277 L2155.8 282.3 L2161.3 285.9 L2163.1 287.5 L2164.7 289.4 L2166.1 291.5 L2167.4 294.5 L2169.5 300.2"/>
+    <path d="M2168.1 1280 L2139.4 1157.6"/>
+    <path d="M2139.4 1157.6 L2138 1143.8 L2137.7 1136.5 L2138 1131.1 L2138.8 1126 L2140.1 1121.4 L2141.7 1116.5 L2143.6 1111.6 L2145.7 1106.5 L2148.2 1101.3 L2150.8 1096.2 L2153.6 1091.2 L2156.7 1086.3 L2159.9 1081.6 L2162.8 1077 L2165.5 1072.5 L2168.4 1067 L2173.2 1057.5"/>
+    <path d="M2173.2 1057.5 L2174.6 1051.5 L2175.2 1048.1 L2175.6 1045.2 L2175.8 1042.4 L2175.9 1039.4 L2175.8 1035 L2175.7 1029.3 L2175.4 1022.2 L2174.9 1013.7 L2174.4 1006.2 L2173.8 999.6 L2173.2 994 L2172.5 989.3 L2172 985.1 L2171.8 981.2 L2171.8 977 L2172.3 970.1"/>
+    <path d="M2172.3 970.1 L2174.9 880.1"/>
+    <path d="M2174.9 880.1 L2173.5 841.9 L2172.9 831.2 L2172.6 824.6 L2172.6 818.8 L2172.9 811.2"/>
+    <path d="M2172.9 811.2 L2173.5 800.2 L2174.1 794.6 L2175.1 790.7 L2176.4 787.2 L2178 784.2 L2179.3 781.6 L2180.3 779.5 L2181 777.8 L2181.4 776.4 L2181.6 774.4 L2181.6 771.6 L2181.4 768 L2181 763.7 L2180.9 759.1 L2181.1 754.3 L2181.7 747.8 L2183.4 735.7"/>
+    <path d="M1610.9 768.5 L1628.3 779.9 L1633.2 779.8 L1636 779.9 L1637.9 780.1 L1638.9 780.4 L1640.5 782.9 L1642.9 787.4 L1646 794.1 L1649.7 802.9 L1652.7 809.6 L1654.9 814.2 L1656.2 816.6 L1656.8 816.9 L1657.6 817.1 L1658.5 817.1 L1660 816.9 L1663 816.1"/>
+    <path d="M1663 816.1 L1667.9 813.6 L1671.6 811.1 L1675.6 807.9 L1680.6 803.5 L1686.4 798.1 L1691.2 794 L1694.9 791.2 L1697.5 789.6 L1699 789.4 L1700.3 789.3 L1701.5 789.2 L1702.6 789.3 L1704.4 789.7"/>
+    <path d="M1704.4 789.7 L1709.4 789.5 L1712.1 789.5 L1714.1 789.8 L1716 790.1 L1717.8 790.7 L1721 792.6 L1725.7 796 L1733.7 802.2 L1750.9 815.9"/>
+    <path d="M1750.9 815.9 L1761.5 824.6 L1766.5 829.1 L1769.6 832.2 L1771.8 835 L1773.1 837.4 L1774.2 839.8 L1774.9 842.1 L1775.4 845.1 L1775.6 850.3"/>
+    <path d="M1775.6 850.3 L1773.9 898.1"/>
+    <path d="M1773.9 898.1 L1774.5 914.1 L1776 922.3 L1778.7 927.9 L1782.5 932.7 L1787.5 936.8 L1791.6 940.3 L1794.9 943.3 L1797.2 945.8 L1798.7 947.8 L1800.1 949.9 L1801.5 952.3 L1803 955 L1804.4 957.9 L1805.7 960.5 L1806.7 962.8 L1807.5 965 L1808.2 966.8 L1809 970.7 L1810.1 976.6 L1811.8 986.9 L1815.3 1009"/>
+    <path d="M1815.3 1009 L1820.9 1042.1 L1823.3 1057.5 L1824.6 1066.1 L1825.3 1071.6 L1825.5 1074.2 L1825.5 1076.7 L1825.4 1079.4 L1825.3 1082.1 L1825 1084.9 L1825 1087.3 L1825.2 1089.1 L1825.7 1090.7 L1827.1 1092.7"/>
+    <path d="M1827.1 1092.7 L1828.9 1094.7 L1829.9 1097.5 L1830.8 1101.8 L1831.8 1107.8 L1832.7 1115.5 L1833.6 1121.9 L1834.5 1127.2 L1835.2 1131.2 L1836 1133.9 L1836.4 1137.5 L1836.7 1141.8 L1836.7 1146.8 L1836.5 1152.7 L1836.1 1159.1 L1835.4 1165.9 L1834.6 1173.3 L1833.6 1181.2 L1832.5 1188.3 L1831.3 1194.8 L1829.9 1200.6 L1828.5 1205.7 L1826.7 1211.4 L1824.7 1217.5 L1821.8 1226 L1816 1242.3"/>
+    <path d="M1591.4 254 L1589.7 252.7 L1588.9 251.9 L1588.3 251.2 L1587.9 250.5 L1587.6 249.6 L1587.4 246.7 L1587.4 241.6 L1587.4 234.5 L1587.6 225.2 L1588 217.1 L1588.6 210.4 L1589.3 204.9 L1590.1 200.7 L1590.7 196.6 L1591.1 192.6 L1591.3 188.8 L1591.2 185 L1591.3 181.5 L1591.5 178.4 L1591.9 174.8 L1592.8 169"/>
+    <path d="M1591.4 254 L1600 258.4 L1604.1 260.6 L1606.4 262 L1607.9 263.2 L1608.6 264.1 L1609.2 266.9 L1609.6 271.8 L1609.9 280.9 L1610 300.7"/>
+    <path d="M1610 300.7 L1609.8 350.9"/>
+    <path d="M1615.4 497.6 L1615.4 479 L1615.1 470.2 L1614.5 465.1 L1613.4 461.6 L1612 459.7 L1610.9 458 L1610.1 456.5 L1609.6 455 L1609.1 452.5"/>
+    <path d="M1692.9 626.2 L1673.4 621.2 L1669.9 618.2 L1667.1 615.2 L1664.3 611.8 L1661.3 608 L1658.6 604 L1656 599.8 L1653.5 595.5 L1651.2 591.1 L1649.4 586.6 L1648.1 582 L1647.3 577.4 L1647.1 572.8 L1646.8 569.1 L1646.5 566.4 L1646.1 564.7 L1645.7 564 L1645.2 563.4 L1644.7 562.8 L1643.9 562.1 L1642.2 561"/>
+    <path d="M1615.4 497.6 L1616 504.8 L1617.1 508.6 L1618.8 511.5 L1621.2 514.1 L1624.2 516.6 L1626.8 518.8 L1628.8 520.7 L1630.2 522.2 L1631.2 523.5 L1631.9 524.7 L1632.6 525.9 L1633 527.2 L1633.3 528.4 L1633.6 530.8 L1633.8 534.3 L1634 539 L1634.1 544.9 L1634.3 549.4 L1634.5 552.6 L1634.8 554.5 L1635.1 555.1 L1635.7 555.8 L1636.7 556.7 L1638.5 558.1 L1642.2 561"/>
+    <path d="M1609.1 452.5 L1609.3 400.8"/>
+    <path d="M1609.8 350.9 L1609.3 400.8"/>
+    <path d="M1592.4 105 L1591.2 108.6 L1590.7 110.4 L1590.5 111.7 L1590.4 112.7 L1590.4 113.6 L1590.5 114.5 L1590.8 115.3 L1591.1 116 L1591.5 116.7 L1592.3 117.5 L1593.3 118.5 L1594.5 119.5 L1596.1 120.7 L1597.4 122 L1598.4 123.2 L1599.1 124.5 L1599.6 125.9 L1599.5 129.5 L1598.8 135.3 L1597.1 145.9 L1592.8 169"/>
+    <path d="M1632.3 708.6 L1611.3 700.9 L1608.6 700.5 L1603.7 699 L1596.4 696.3 L1586.8 692.6 L1579.5 689.8 L1574.7 687.7 L1572.3 686.4 L1562.7 697.6"/>
+    <path d="M874.5 831.7 L886.8 840.9 L894.5 846.2 L901.5 850.7 L911.4 856.6 L930.6 867.5"/>
+    <path d="M1128.1 764 L1124.9 763.1 L1123.4 762.8 L1122.5 762.8 L1121.8 763 L1121.3 763.4 L1120.9 763.8 L1120.6 764.4 L1120.4 765 L1120.3 765.7 L1120.3 766.3 L1120.4 766.9 L1120.7 767.5 L1121.1 768 L1122.1 769 L1123.7 770.3 L1126.1 771.9 L1129 773.9 L1131.3 775.7 L1133 777.2 L1133.9 778.5 L1134.2 779.6 L1134.3 780.7 L1134.3 781.9 L1134.1 783 L1133.7 784.2 L1132.5 786.3 L1130.6 789.1 L1127.8 792.7 L1124.3 797.1 L1119.6 802 L1113.9 807.3 L1107.1 813 L1099.2 819.2 L1092.9 824.3 L1088.2 828.2 L1085.1 831.1 L1083.7 832.8 L1082.3 834.8 L1081 837 L1079.7 839.5 L1078.6 842.2 L1077.6 845.9 L1076.7 850.5 L1075.9 855.9 L1075.3 862.3 L1074.6 867.7 L1073.8 872 L1073 875.3 L1072.1 877.6 L1071.1 879.6 L1070 881.4 L1068.9 882.8 L1067.6 884 L1066.4 885 L1065.1 885.9 L1063.8 886.6 L1062.4 887.2 L1059.8 887.7 L1056 888 L1050.8 888.3 L1044.5 888.5 L1039.3 888.9 L1035.3 889.6 L1032.1 890.9 L1014.6 897.3"/>
+    <path d="M1014.6 897.3 L997.6 902 L996 902.5 L994.8 902.6 L993.8 902.7 L992.9 902.5 L988.4 900.3 L980.4 895.9 L964.9 887.1 L930.6 867.5"/>
+    <path d="M874.5 831.7 L830.2 798.3"/>
+  </g>
+  <g fill="#ffffaa">
+    <use href="#star" transform="translate(1820.3 1295.5) scale(0.3900)"><title>SE Park Ave MAX Station</title></use>
+    <use href="#star" transform="translate(2148.6 1260.5) scale(0.3900)"><title>Clackamas Town Center TC MAX Station</title></use>
+    <use href="#star" transform="translate(1796.5 1222.8) scale(0.3900)"><title>Milwaukie/Main St MAX Station</title></use>
+    <use href="#star" transform="translate(2119.9 1138.1) scale(0.3900)"><title>SE Fuller Rd MAX Station</title></use>
+    <use href="#star" transform="translate(1807.6 1073.2) scale(0.3900)"><title>SE Tacoma/Johnson Creek MAX Station</title></use>
+    <use href="#star" transform="translate(2153.7 1038) scale(0.3900)"><title>SE Flavel St MAX Station</title></use>
+    <use href="#star" transform="translate(1795.8 989.5) scale(0.3900)"><title>SE Bybee Blvd MAX Station</title></use>
+    <use href="#star" transform="translate(2152.8 950.6) scale(0.3900)"><title>Lents Town Center/SE Foster Rd MAX Station</title></use>
+    <use href="#star" transform="translate(1754.4 878.6) scale(0.3900)"><title>SE 17th Ave &amp; Holgate Blvd MAX Station</title></use>
+    <use href="#star" transform="translate(995.1 877.8) scale(0.3900)"><title>Beaverton TC MAX Station</title></use>
+    <use href="#star" transform="translate(2155.4 860.6) scale(0.3900)"><title>SE Holgate Blvd MAX Station</title></use>
+    <use href="#star" transform="translate(911.1 848) scale(0.3900)"><title>Millikan Way MAX Station</title></use>
+    <use href="#star" transform="translate(1756.1 830.8) scale(0.3900)"><title>SE 17th Ave &amp; Rhine St MAX Station</title></use>
+    <use href="#star" transform="translate(855 812.2) scale(0.3900)"><title>Beaverton Creek MAX Station</title></use>
+    <use href="#star" transform="translate(2875.5 800.9) scale(0.3900)"><title>Cleveland Ave MAX Station</title></use>
+    <use href="#star" transform="translate(1643.5 796.6) scale(0.3900)"><title>South Waterfront/S Moody MAX Station</title></use>
+    <use href="#star" transform="translate(1731.4 796.4) scale(0.3900)"><title>Clinton St/SE 12th Ave MAX Station</title></use>
+    <use href="#star" transform="translate(2833.8 795.3) scale(0.3900)"><title>Gresham Central TC MAX Station</title></use>
+    <use href="#star" transform="translate(2153.4 791.7) scale(0.3900)"><title>SE Division St MAX Station</title></use>
+    <use href="#star" transform="translate(810.7 778.8) scale(0.3900)"><title>Merlo Rd/SW 158th Ave MAX Station</title></use>
+    <use href="#star" transform="translate(1684.9 770.2) scale(0.3900)"><title>OMSI/SE Water MAX Station</title></use>
+    <use href="#star" transform="translate(2776.3 765.2) scale(0.3900)"><title>Gresham City Hall MAX Station</title></use>
+    <use href="#star" transform="translate(1591.4 749) scale(0.3900)"><title>PSU South/SW 6th &amp; College MAX Stn</title></use>
+    <use href="#star" transform="translate(765.4 746) scale(0.3900)"><title>Elmonica/SW 170th Ave MAX Station</title></use>
+    <use href="#star" transform="translate(1108.6 744.5) scale(0.3900)"><title>Sunset TC MAX Station</title></use>
+    <use href="#star" transform="translate(1421.6 741.8) scale(0.3900)"><title>Washington Park MAX Station</title></use>
+    <use href="#star" transform="translate(2163.9 716.2) scale(0.3900)"><title>SE Main St MAX Station</title></use>
+    <use href="#star" transform="translate(2672 702.7) scale(0.3900)"><title>Ruby Junction/E 197th Ave MAX Station</title></use>
+    <use href="#star" transform="translate(674.2 695.3) scale(0.3900)"><title>Willow Creek/SW 185th Ave TC MAX Station</title></use>
+    <use href="#star" transform="translate(1543.2 678.1) scale(0.3900)"><title>Goose Hollow/SW Jefferson St MAX Station</title></use>
+    <use href="#star" transform="translate(190.5 666.8) scale(0.3900)"><title>Washington/SE 12th Ave MAX Station</title></use>
+    <use href="#star" transform="translate(2604.6 666.5) scale(0.3900)"><title>E 181st Ave MAX Station</title></use>
+    <use href="#star" transform="translate(147.3 665.7) scale(0.3900)"><title>Hillsboro Health District MAX Station</title></use>
+    <use href="#star" transform="translate(99.7 662.2) scale(0.3900)"><title>Hillsboro Central/SE 3rd TC MAX Station</title></use>
+    <use href="#star" transform="translate(2545.2 661.1) scale(0.3900)"><title>E 172nd Ave MAX Station</title></use>
+    <use href="#star" transform="translate(2495 660.7) scale(0.3900)"><title>E 162nd Ave MAX Station</title></use>
+    <use href="#star" transform="translate(2425.8 660) scale(0.3900)"><title>E 148th Ave MAX Station</title></use>
+    <use href="#star" transform="translate(2293.8 658.8) scale(0.3900)"><title>E 122nd Ave MAX Station</title></use>
+    <use href="#star" transform="translate(2193.8 658.1) scale(0.3900)"><title>E 102nd Ave MAX Station</title></use>
+    <use href="#star" transform="translate(583.6 653.8) scale(0.3900)"><title>Quatama MAX Station</title></use>
+    <use href="#star" transform="translate(1625.3 645.8) scale(0.3900)"><title>Union Station/NW 6th &amp; Hoyt MAX Stn</title></use>
+    <use href="#star" transform="translate(304.4 626.9) scale(0.3900)"><title>Hillsboro Airport/Fairgrounds MAX Station</title></use>
+    <use href="#star" transform="translate(1975.8 616.9) scale(0.3900)"><title>NE 60th Ave MAX Station</title></use>
+    <use href="#star" transform="translate(1717.7 606.9) scale(0.3900)"><title>NE 7th Ave MAX Station</title></use>
+    <use href="#star" transform="translate(1673.4 606.7) scale(0.3900)"><title>Convention Center MAX Station</title></use>
+    <use href="#star" transform="translate(379.5 606.4) scale(0.3900)"><title>Hawthorn Farm MAX Station</title></use>
+    <use href="#star" transform="translate(452.1 604.4) scale(0.3900)"><title>Orenco MAX Station</title></use>
+    <use href="#star" transform="translate(1888 587.7) scale(0.3900)"><title>Hollywood/NE 42nd Ave MAX Station</title></use>
+    <use href="#star" transform="translate(1622.7 541.5) scale(0.3900)"><title>Albina/Mississippi MAX Station</title></use>
+    <use href="#star" transform="translate(1595.9 478.1) scale(0.3900)"><title>Overlook Park MAX Station</title></use>
+    <use href="#star" transform="translate(1589.6 433) scale(0.3900)"><title>N Prescott St MAX Station</title></use>
+    <use href="#star" transform="translate(1589.8 381.3) scale(0.3900)"><title>N Killingsworth St MAX Station</title></use>
+    <use href="#star" transform="translate(1590.3 331.4) scale(0.3900)"><title>Rosa Parks MAX Station</title></use>
+    <use href="#star" transform="translate(2194.6 314.4) scale(0.3900)"><title>Cascades MAX Station</title></use>
+    <use href="#star" transform="translate(1590.5 281.2) scale(0.3900)"><title>N Lombard TC MAX Station</title></use>
+    <use href="#star" transform="translate(2150 280.7) scale(0.3900)"><title>Mt Hood Ave MAX Station</title></use>
+    <use href="#star" transform="translate(1571.9 234.5) scale(0.3900)"><title>Kenton/N Denver Ave MAX Station</title></use>
+    <use href="#star" transform="translate(2023.6 208.3) scale(0.3900)"><title>Portland Int&#x27;l Airport MAX Station</title></use>
+    <use href="#star" transform="translate(1573.3 149.5) scale(0.3900)"><title>Delta Park/Vanport MAX Station</title></use>
+    <use href="#star" transform="translate(1572.9 85.5) scale(0.3900)"><title>Expo Center MAX Station</title></use>
+    <use href="#star" transform="translate(1605.3 681.6) scale(0.5400)"><title>Pioneer Square South MAX Station</title></use>
+    <use href="#star" transform="translate(2159.9 589.6) scale(0.5400)"><title>Gateway Transit Center</title></use>
+    <use href="#star" transform="translate(2089.6 576.5) scale(0.5400)"><title>NE 82nd Ave MAX Station</title></use>
+    <use href="#star" transform="translate(2150.1 398.6) scale(0.5400)"><title>Parkrose/Sumner TC MAX Station</title></use>
+  </g>
+</svg>

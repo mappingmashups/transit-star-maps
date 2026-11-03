@@ -68,6 +68,9 @@ DEFAULTS = {
         "star_size_in": 0.17,  # rank 1
         "large_star_size_in": 0.23,  # rank 2
         "gap_in": 0.035,  # clear space cut out of the lines around each star
+        # Stars closer than this on the page are drawn as one (0 = keep all).
+        # For systems with a dense downtown core.
+        "min_star_spacing_in": 0,
     },
 }
 

@@ -1,0 +1,3374 @@
+{
+ "type": "FeatureCollection",
+ "name": "Métro de Montréal",
+ "projection": {
+  "lon_0": -73.6222,
+  "lat_0": 45.5214
+ },
+ "source": {
+  "url": "https://www.stm.info/sites/default/files/gtfs/gtfs_stm.zip",
+  "fetched": "2026-11-03T21:01:58+00:00",
+  "sha256": "ce03a0a0b1fe5fbb9fb4d74ed574185b2400b00e469de4bb59e58820dab4609b",
+  "bytes": 69093778,
+  "routes": [
+   "1",
+   "2",
+   "4",
+   "5"
+  ]
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M118",
+    "to": "STATION_M120",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.603293,
+      45.446397
+     ],
+     [
+      -73.593265,
+      45.451166
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M120",
+    "to": "STATION_M122",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.593265,
+      45.451166
+     ],
+     [
+      -73.581991,
+      45.456783
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M122",
+    "to": "STATION_M124",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.581991,
+      45.456783
+     ],
+     [
+      -73.581822,
+      45.456911
+     ],
+     [
+      -73.58112,
+      45.457119
+     ],
+     [
+      -73.579828,
+      45.45745
+     ],
+     [
+      -73.5773,
+      45.45807
+     ],
+     [
+      -73.571654,
+      45.459432
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M124",
+    "to": "STATION_M126",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.571654,
+      45.459432
+     ],
+     [
+      -73.567107,
+      45.461911
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M126",
+    "to": "STATION_M128",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.567107,
+      45.461911
+     ],
+     [
+      -73.566281,
+      45.470631
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M128",
+    "to": "STATION_M130",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.566281,
+      45.470631
+     ],
+     [
+      -73.566273,
+      45.470874
+     ],
+     [
+      -73.566463,
+      45.471445
+     ],
+     [
+      -73.566849,
+      45.472424
+     ],
+     [
+      -73.567623,
+      45.474302
+     ],
+     [
+      -73.569366,
+      45.478467
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M130",
+    "to": "STATION_M132",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.569366,
+      45.478467
+     ],
+     [
+      -73.579721,
+      45.482818
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M132",
+    "to": "STATION_M134",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.579721,
+      45.482818
+     ],
+     [
+      -73.579979,
+      45.482644
+     ],
+     [
+      -73.580441,
+      45.483038
+     ],
+     [
+      -73.581192,
+      45.48394
+     ],
+     [
+      -73.582608,
+      45.485803
+     ],
+     [
+      -73.585731,
+      45.490038
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M132",
+    "to": "STATION_M244",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.579721,
+      45.482818
+     ],
+     [
+      -73.586418,
+      45.477363
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M132",
+    "to": "STATION_M248",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.579721,
+      45.482818
+     ],
+     [
+      -73.578107,
+      45.486237
+     ],
+     [
+      -73.577364,
+      45.487761
+     ],
+     [
+      -73.576953,
+      45.488529
+     ],
+     [
+      -73.57667,
+      45.488925
+     ],
+     [
+      -73.576435,
+      45.488962
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M134",
+    "to": "STATION_M136",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.585731,
+      45.490038
+     ],
+     [
+      -73.57925,
+      45.495692
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M136",
+    "to": "STATION_M138",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.57925,
+      45.495692
+     ],
+     [
+      -73.57471,
+      45.500895
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M138",
+    "to": "STATION_M140",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.57471,
+      45.500895
+     ],
+     [
+      -73.571793,
+      45.504137
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M140",
+    "to": "STATION_M142",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.571793,
+      45.504137
+     ],
+     [
+      -73.571677,
+      45.504096
+     ],
+     [
+      -73.57142,
+      45.504335
+     ],
+     [
+      -73.570985,
+      45.504839
+     ],
+     [
+      -73.570154,
+      45.505862
+     ],
+     [
+      -73.568313,
+      45.508173
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M142",
+    "to": "STATION_M144",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.568313,
+      45.508173
+     ],
+     [
+      -73.56534,
+      45.51059
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M144",
+    "to": "STATION_M146",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.56534,
+      45.51059
+     ],
+     [
+      -73.562945,
+      45.513198
+     ],
+     [
+      -73.561819,
+      45.514333
+     ],
+     [
+      -73.561165,
+      45.514866
+     ],
+     [
+      -73.560655,
+      45.515062
+     ],
+     [
+      -73.560106,
+      45.514852
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M146",
+    "to": "STATION_M148",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.560106,
+      45.514852
+     ],
+     [
+      -73.557705,
+      45.51709
+     ],
+     [
+      -73.556642,
+      45.518094
+     ],
+     [
+      -73.556118,
+      45.518609
+     ],
+     [
+      -73.555869,
+      45.518892
+     ],
+     [
+      -73.55591,
+      45.518971
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M146",
+    "to": "STATION_M258",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.560106,
+      45.514852
+     ],
+     [
+      -73.556462,
+      45.510031
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M146",
+    "to": "STATION_M262",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.560106,
+      45.514852
+     ],
+     [
+      -73.568263,
+      45.518407
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M146",
+    "to": "STATION_M452",
+    "routes": [
+     "4"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.560106,
+      45.514852
+     ],
+     [
+      -73.532703,
+      45.512335
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M148",
+    "to": "STATION_M150",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.55591,
+      45.518971
+     ],
+     [
+      -73.552073,
+      45.523717
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M150",
+    "to": "STATION_M152",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.552073,
+      45.523717
+     ],
+     [
+      -73.552427,
+      45.523869
+     ],
+     [
+      -73.552551,
+      45.524509
+     ],
+     [
+      -73.552561,
+      45.525686
+     ],
+     [
+      -73.552465,
+      45.527989
+     ],
+     [
+      -73.552158,
+      45.533133
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M152",
+    "to": "STATION_M154",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.552158,
+      45.533133
+     ],
+     [
+      -73.554543,
+      45.54177
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M154",
+    "to": "STATION_M156",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.554543,
+      45.54177
+     ],
+     [
+      -73.551427,
+      45.546819
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M156",
+    "to": "STATION_M158",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.551427,
+      45.546819
+     ],
+     [
+      -73.551696,
+      45.553658
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M158",
+    "to": "STATION_M160",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.551696,
+      45.553658
+     ],
+     [
+      -73.549353,
+      45.557612
+     ],
+     [
+      -73.54828,
+      45.559387
+     ],
+     [
+      -73.547697,
+      45.560302
+     ],
+     [
+      -73.547311,
+      45.560813
+     ],
+     [
+      -73.54703,
+      45.560976
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M160",
+    "to": "STATION_M162",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.54703,
+      45.560976
+     ],
+     [
+      -73.546845,
+      45.569167
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M162",
+    "to": "STATION_M164",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.546845,
+      45.569167
+     ],
+     [
+      -73.547121,
+      45.569233
+     ],
+     [
+      -73.547204,
+      45.569736
+     ],
+     [
+      -73.547184,
+      45.570698
+     ],
+     [
+      -73.547053,
+      45.572599
+     ],
+     [
+      -73.54669,
+      45.576859
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M164",
+    "to": "STATION_M166",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.54669,
+      45.576859
+     ],
+     [
+      -73.543101,
+      45.582784
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M166",
+    "to": "STATION_M168",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.543101,
+      45.582784
+     ],
+     [
+      -73.540946,
+      45.586523
+     ],
+     [
+      -73.540018,
+      45.588196
+     ],
+     [
+      -73.539599,
+      45.58905
+     ],
+     [
+      -73.539481,
+      45.589511
+     ],
+     [
+      -73.539753,
+      45.589614
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M168",
+    "to": "STATION_M170",
+    "routes": [
+     "1"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.539753,
+      45.589614
+     ],
+     [
+      -73.535053,
+      45.596495
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M224",
+    "to": "STATION_M222",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.682766,
+      45.514244
+     ],
+     [
+      -73.673282,
+      45.508356
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M228",
+    "to": "STATION_M224",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.673282,
+      45.508356
+     ],
+     [
+      -73.661537,
+      45.50033
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M230",
+    "to": "STATION_M228",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.661537,
+      45.50033
+     ],
+     [
+      -73.661538,
+      45.500173
+     ],
+     [
+      -73.660989,
+      45.499765
+     ],
+     [
+      -73.659891,
+      45.499053
+     ],
+     [
+      -73.657695,
+      45.497682
+     ],
+     [
+      -73.652755,
+      45.494637
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M232",
+    "to": "STATION_M230",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.652755,
+      45.494637
+     ],
+     [
+      -73.638166,
+      45.494609
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M234",
+    "to": "STATION_M232",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.638166,
+      45.494609
+     ],
+     [
+      -73.633146,
+      45.49236
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M236",
+    "to": "STATION_M234",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.633146,
+      45.49236
+     ],
+     [
+      -73.630099,
+      45.488464
+     ],
+     [
+      -73.62875,
+      45.48672
+     ],
+     [
+      -73.628083,
+      45.485831
+     ],
+     [
+      -73.627763,
+      45.48535
+     ],
+     [
+      -73.627806,
+      45.485244
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M236",
+    "to": "STATION_M534",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.627806,
+      45.485244
+     ],
+     [
+      -73.62339,
+      45.496808
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M238",
+    "to": "STATION_M236",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.627806,
+      45.485244
+     ],
+     [
+      -73.61979,
+      45.479559
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M242",
+    "to": "STATION_M238",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.61979,
+      45.479559
+     ],
+     [
+      -73.603865,
+      45.473861
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M244",
+    "to": "STATION_M242",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.603865,
+      45.473861
+     ],
+     [
+      -73.603776,
+      45.473996
+     ],
+     [
+      -73.602655,
+      45.47426
+     ],
+     [
+      -73.600475,
+      45.474698
+     ],
+     [
+      -73.596143,
+      45.475528
+     ],
+     [
+      -73.586418,
+      45.477363
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M250",
+    "to": "STATION_M248",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.576435,
+      45.488962
+     ],
+     [
+      -73.571215,
+      45.494814
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M252",
+    "to": "STATION_M250",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.571215,
+      45.494814
+     ],
+     [
+      -73.567129,
+      45.498053
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M254",
+    "to": "STATION_M252",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.567129,
+      45.498053
+     ],
+     [
+      -73.563188,
+      45.501874
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M256",
+    "to": "STATION_M254",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.563188,
+      45.501874
+     ],
+     [
+      -73.559505,
+      45.506277
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M258",
+    "to": "STATION_M256",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.559505,
+      45.506277
+     ],
+     [
+      -73.556462,
+      45.510031
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M264",
+    "to": "STATION_M262",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.568263,
+      45.518407
+     ],
+     [
+      -73.5688,
+      45.518774
+     ],
+     [
+      -73.569834,
+      45.519305
+     ],
+     [
+      -73.571546,
+      45.52012
+     ],
+     [
+      -73.573995,
+      45.521262
+     ],
+     [
+      -73.57718,
+      45.52273
+     ],
+     [
+      -73.579587,
+      45.523817
+     ],
+     [
+      -73.581214,
+      45.524524
+     ],
+     [
+      -73.582079,
+      45.524837
+     ],
+     [
+      -73.582234,
+      45.524716
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M266",
+    "to": "STATION_M264",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.582234,
+      45.524716
+     ],
+     [
+      -73.586858,
+      45.527388
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M268",
+    "to": "STATION_M266",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.586858,
+      45.527388
+     ],
+     [
+      -73.598493,
+      45.531023
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M270",
+    "to": "STATION_M268",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.598493,
+      45.531023
+     ],
+     [
+      -73.6044,
+      45.535236
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M272",
+    "to": "STATION_M270",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.6044,
+      45.535236
+     ],
+     [
+      -73.613814,
+      45.539074
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M272",
+    "to": "STATION_M546",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.613814,
+      45.539074
+     ],
+     [
+      -73.619871,
+      45.535483
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M272",
+    "to": "STATION_M552",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.613814,
+      45.539074
+     ],
+     [
+      -73.607055,
+      45.547921
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M274",
+    "to": "STATION_M272",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.613814,
+      45.539074
+     ],
+     [
+      -73.622224,
+      45.54139
+     ],
+     [
+      -73.625956,
+      45.542435
+     ],
+     [
+      -73.627813,
+      45.54298
+     ],
+     [
+      -73.628725,
+      45.543299
+     ],
+     [
+      -73.628674,
+      45.543438
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M276",
+    "to": "STATION_M274",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.628674,
+      45.543438
+     ],
+     [
+      -73.63887,
+      45.545972
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M278",
+    "to": "STATION_M276",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.63887,
+      45.545972
+     ],
+     [
+      -73.65593,
+      45.550819
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M280",
+    "to": "STATION_M278",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.65593,
+      45.550819
+     ],
+     [
+      -73.668199,
+      45.55522
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M280",
+    "to": "STATION_M282",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.668199,
+      45.55522
+     ],
+     [
+      -73.681719,
+      45.560398
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M282",
+    "to": "STATION_M286",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.681719,
+      45.560398
+     ],
+     [
+      -73.682051,
+      45.560172
+     ],
+     [
+      -73.683888,
+      45.560107
+     ],
+     [
+      -73.687341,
+      45.560125
+     ],
+     [
+      -73.694134,
+      45.560237
+     ],
+     [
+      -73.709337,
+      45.560544
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M286",
+    "to": "STATION_M288",
+    "routes": [
+     "2"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.709337,
+      45.560544
+     ],
+     [
+      -73.709366,
+      45.560631
+     ],
+     [
+      -73.710194,
+      45.560528
+     ],
+     [
+      -73.71183,
+      45.560264
+     ],
+     [
+      -73.715092,
+      45.559708
+     ],
+     [
+      -73.722423,
+      45.558434
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M452",
+    "to": "STATION_M454",
+    "routes": [
+     "4"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.532703,
+      45.512335
+     ],
+     [
+      -73.522036,
+      45.524574
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M536",
+    "to": "STATION_M534",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.62339,
+      45.496808
+     ],
+     [
+      -73.620189,
+      45.500397
+     ],
+     [
+      -73.618815,
+      45.502022
+     ],
+     [
+      -73.618201,
+      45.50288
+     ],
+     [
+      -73.61804,
+      45.503399
+     ],
+     [
+      -73.618478,
+      45.503671
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M538",
+    "to": "STATION_M536",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.618478,
+      45.503671
+     ],
+     [
+      -73.615317,
+      45.507186
+     ],
+     [
+      -73.61388,
+      45.508767
+     ],
+     [
+      -73.613113,
+      45.509586
+     ],
+     [
+      -73.612633,
+      45.510051
+     ],
+     [
+      -73.612344,
+      45.51022
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M540",
+    "to": "STATION_M538",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.612344,
+      45.51022
+     ],
+     [
+      -73.615012,
+      45.520363
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M542",
+    "to": "STATION_M540",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.615012,
+      45.520363
+     ],
+     [
+      -73.623211,
+      45.523467
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M544",
+    "to": "STATION_M542",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.623211,
+      45.523467
+     ],
+     [
+      -73.624583,
+      45.530197
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M546",
+    "to": "STATION_M544",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.624583,
+      45.530197
+     ],
+     [
+      -73.619871,
+      45.535483
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M554",
+    "to": "STATION_M552",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.607055,
+      45.547921
+     ],
+     [
+      -73.602038,
+      45.553612
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "STATION_M556",
+    "to": "STATION_M554",
+    "routes": [
+     "5"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -73.602038,
+      45.553612
+     ],
+     [
+      -73.600167,
+      45.559708
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M118",
+    "name": "STATION ANGRIGNON",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "STATION_M118"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.603293,
+     45.446397
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M120",
+    "name": "STATION MONK",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M120"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.593265,
+     45.451166
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M122",
+    "name": "STATION JOLICOEUR",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M122"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.581991,
+     45.456783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M124",
+    "name": "STATION VERDUN",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M124"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.571654,
+     45.459432
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M126",
+    "name": "STATION DE L'ÉGLISE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M126"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.567107,
+     45.461911
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M128",
+    "name": "STATION LASALLE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M128"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.566281,
+     45.470631
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M130",
+    "name": "STATION CHARLEVOIX",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M130"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.569366,
+     45.478467
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M132",
+    "name": "STATION LIONEL-GROULX",
+    "rank": 2,
+    "degree": 4,
+    "members": [
+     "STATION_M132"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.579721,
+     45.482818
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M134",
+    "name": "STATION ATWATER",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M134"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.585731,
+     45.490038
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M136",
+    "name": "STATION GUY-CONCORDIA",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M136"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.57925,
+     45.495692
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M138",
+    "name": "STATION PEEL",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M138"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.57471,
+     45.500895
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M140",
+    "name": "STATION MCGILL",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M140"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.571793,
+     45.504137
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M142",
+    "name": "STATION PLACE DES ARTS",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M142"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.568313,
+     45.508173
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M144",
+    "name": "STATION ST-LAURENT",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M144"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.56534,
+     45.51059
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M146",
+    "name": "STATION BERRI-UQAM",
+    "rank": 2,
+    "degree": 5,
+    "members": [
+     "STATION_M146"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.560106,
+     45.514852
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M148",
+    "name": "STATION BEAUDRY",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M148"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.55591,
+     45.518971
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M150",
+    "name": "STATION PAPINEAU",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M150"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.552073,
+     45.523717
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M152",
+    "name": "STATION FRONTENAC",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M152"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.552158,
+     45.533133
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M154",
+    "name": "STATION PRÉFONTAINE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M154"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.554543,
+     45.54177
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M156",
+    "name": "STATION JOLIETTE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M156"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.551427,
+     45.546819
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M158",
+    "name": "STATION PIE IX",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M158"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.551696,
+     45.553658
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M160",
+    "name": "STATION VIAU",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M160"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.54703,
+     45.560976
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M162",
+    "name": "STATION DE L'ASSOMPTION",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M162"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.546845,
+     45.569167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M164",
+    "name": "STATION CADILLAC",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M164"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.54669,
+     45.576859
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M166",
+    "name": "STATION LANGELIER",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M166"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.543101,
+     45.582784
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M168",
+    "name": "STATION RADISSON",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M168"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.539753,
+     45.589614
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M170",
+    "name": "STATION HONORÉ-BEAUGRAND",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "STATION_M170"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.535053,
+     45.596495
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M222",
+    "name": "STATION CÔTE-VERTU",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "STATION_M222"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.682766,
+     45.514244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M224",
+    "name": "STATION DU COLLÈGE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M224"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.673282,
+     45.508356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M228",
+    "name": "STATION DE LA SAVANE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M228"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.661537,
+     45.50033
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M230",
+    "name": "STATION NAMUR",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M230"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.652755,
+     45.494637
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M232",
+    "name": "STATION PLAMONDON",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M232"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.638166,
+     45.494609
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M234",
+    "name": "STATION CÔTE-STE-CATHERINE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M234"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.633146,
+     45.49236
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M236",
+    "name": "STATION SNOWDON",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "STATION_M236"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.627806,
+     45.485244
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M238",
+    "name": "STATION VILLA-MARIA",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M238"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.61979,
+     45.479559
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M242",
+    "name": "STATION VENDÔME",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M242"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.603865,
+     45.473861
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M244",
+    "name": "STATION PLACE ST-HENRI",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M244"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.586418,
+     45.477363
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M248",
+    "name": "STATION GEORGES-VANIER",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M248"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.576435,
+     45.488962
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M250",
+    "name": "STATION LUCIEN-L'ALLIER",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M250"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.571215,
+     45.494814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M252",
+    "name": "STATION BONAVENTURE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M252"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.567129,
+     45.498053
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M254",
+    "name": "STATION SQUARE VICTORIA-OACI",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M254"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.563188,
+     45.501874
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M256",
+    "name": "STATION PLACE D'ARMES",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M256"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.559505,
+     45.506277
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M258",
+    "name": "STATION CHAMPS DE MARS",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M258"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.556462,
+     45.510031
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M262",
+    "name": "STATION SHERBROOKE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M262"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.568263,
+     45.518407
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M264",
+    "name": "STATION MONT-ROYAL",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M264"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.582234,
+     45.524716
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M266",
+    "name": "STATION LAURIER",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M266"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.586858,
+     45.527388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M268",
+    "name": "STATION ROSEMONT",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M268"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.598493,
+     45.531023
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M270",
+    "name": "STATION BEAUBIEN",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M270"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6044,
+     45.535236
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M272",
+    "name": "STATION JEAN-TALON",
+    "rank": 2,
+    "degree": 4,
+    "members": [
+     "STATION_M272"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.613814,
+     45.539074
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M274",
+    "name": "STATION JARRY",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M274"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.628674,
+     45.543438
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M276",
+    "name": "STATION CRÉMAZIE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M276"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.63887,
+     45.545972
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M278",
+    "name": "STATION SAUVÉ",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M278"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.65593,
+     45.550819
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M280",
+    "name": "STATION HENRI-BOURASSA",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M280"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.668199,
+     45.55522
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M282",
+    "name": "STATION CARTIER",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M282"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.681719,
+     45.560398
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M286",
+    "name": "STATION DE LA CONCORDE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M286"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.709337,
+     45.560544
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M288",
+    "name": "STATION MONTMORENCY",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "STATION_M288"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.722423,
+     45.558434
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M452",
+    "name": "STATION JEAN-DRAPEAU",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M452"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.532703,
+     45.512335
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M454",
+    "name": "STATION LONGUEUIL- U. de SHERBROOKE",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "STATION_M454"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.522036,
+     45.524574
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M534",
+    "name": "STATION CÔTE-DES-NEIGES",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M534"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.62339,
+     45.496808
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M536",
+    "name": "STATION UNIVERSITÉ DE MONTREAL",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M536"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.618478,
+     45.503671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M538",
+    "name": "STATION ÉDOUARD-MONTPETIT",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M538"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.612344,
+     45.51022
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M540",
+    "name": "STATION OUTREMONT",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M540"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.615012,
+     45.520363
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M542",
+    "name": "STATION ACADIE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M542"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.623211,
+     45.523467
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M544",
+    "name": "STATION  DU PARC",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M544"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.624583,
+     45.530197
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M546",
+    "name": "STATION DE CASTELNAU",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M546"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.619871,
+     45.535483
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M552",
+    "name": "STATION FABRE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M552"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.607055,
+     45.547921
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M554",
+    "name": "STATION IBERVILLE",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "STATION_M554"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.602038,
+     45.553612
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "STATION_M556",
+    "name": "STATION SAINT-MICHEL",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "STATION_M556"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.600167,
+     45.559708
+    ]
+   }
+  }
+ ]
+}

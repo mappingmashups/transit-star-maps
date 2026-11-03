@@ -1,12 +1,12 @@
 # Subway lines 1, 2 and 4 plus the Line 5 and Line 6 LRTs. Streetcars share
 # route_type 0 with the LRTs, so routes are picked by number. Line 3
 # (Scarborough RT) closed in 2023 and is no longer in the feed.
-# TODO: confirm this download link on Toronto Open Data
-# ("TTC Routes and Schedules"); the portal changes its URLs now and then.
+# If the download breaks, the portal has renamed the file; the current link is
+# in https://ckan0.cf.opendata.inter.prod-toronto.ca/api/3/action/package_show?id=ttc-routes-and-schedules
 name: TTC Subway
 source:
   type: gtfs
-  url: https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/7795b45e-e65a-4465-81fc-c36b9dfff169/resource/cfb6b2b8-6191-41e3-bda1-b175c51148cb/download/TTC%20Routes%20and%20Schedules%20Data.zip
+  url: https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/7795b45e-e65a-4465-81fc-c36b9dfff169/resource/cfb6b2b8-6191-41e3-bda1-b175c51148cb/download/opendata_ttc_schedules.zip
   route_types: [0, 1]
   include_routes: ["^(1|2|4|5|6)$", "^Line [1-6]\\b"]
 style:

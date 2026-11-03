@@ -9,3 +9,18 @@ source:
 style:
   star_size_in: 0.13
   large_star_size_in: 0.18
+  min_star_spacing_in: 0.12
+stations:
+  # Downtown, MAX runs on one-way couplets (5th/6th Avenues, Yamhill/Morrison),
+  # so each stop is two stations a block apart. One star per pair.
+  merge:
+    - [Pioneer Square South MAX Station, Pioneer Square North MAX Station,
+       Pioneer Courthouse/SW 6th Ave MAX Stn, Pioneer Place/SW 5th Ave MAX Station]
+    - [Library/SW 9th Ave MAX Station, Galleria/SW 10th Ave MAX Station]
+    - [Morrison/SW 3rd Ave MAX Station, Yamhill District MAX Station]
+    - [SW 6th & Madison MAX Station, City Hall/SW 5th & Jefferson MAX Station]
+    - [SW 5th & Oak St MAX Station, SW 6th & Pine MAX Station]
+    - [NW 5th & Couch MAX Station, NW 6th & Davis MAX Station]
+    - [PSU Urban Center/SW 5th & Mill MAX Station, PSU Urban Center/SW 6th & Montgomery MAX Stn]
+    - [Union Station/NW 5th & Glisan MAX Stn, Union Station/NW 6th & Hoyt MAX Stn]
+    - [PSU South/SW 6th & College MAX Stn, PSU South/SW 5th & Jackson MAX Stn]

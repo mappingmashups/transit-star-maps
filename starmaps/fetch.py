@@ -12,6 +12,7 @@ import hashlib
 import json
 import shutil
 import urllib.request
+import zipfile
 from pathlib import Path
 
 from .config import RAW_DIR
@@ -48,6 +49,14 @@ def fetch(cfg: dict, refresh: bool = False) -> Path | None:
     req = urllib.request.Request(src["url"], headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=300) as resp, tmp.open("wb") as out:
         shutil.copyfileobj(resp, out)
+    try:
+        with zipfile.ZipFile(tmp) as zf:
+            names = {n.rsplit("/", 1)[-1] for n in zf.namelist()}
+    except zipfile.BadZipFile:
+        names = set()
+    if not {"stops.txt", "routes.txt", "trips.txt", "stop_times.txt"} <= names:
+        tmp.unlink()
+        raise SystemExit(f"[{cfg['id']}] {src['url']} did not return a GTFS zip (got {sorted(names)[:8]})")
     digest = sha256(tmp)
     if src.get("sha256") and src["sha256"] != digest:
         print(

@@ -13,7 +13,7 @@ What makes a good transit star chart?
  * Preferably organic-looking. Systems that follow a lot of straight lines are less interesting and look less like real constellations. [This](legacy/outputs/bart_v0.2.png) is more interesting than [this](legacy/outputs/trimet_max_v0.1.png)
  * Ideally some hierarchy of stations so we can use different sizes of stars. The new pipeline draws a larger star wherever lines branch or cross.
 
-![BART map](outputs/bart_2016/bart_2016_black.png)
+![BART map](outputs/bart/bart_black.png)
 
 How it works
 ------------
@@ -27,6 +27,7 @@ A Python pipeline turns a transit agency's GTFS feed into a constellation, in th
    * **Express runs** that skip stations are dropped when the local line already connects the same stations.
    * **Smoothing:** lines are simplified and lightly smoothed.
    * **Star size:** stations where three or more lines meet get a larger star.
+   * **Dense cores:** in a city with a crowded downtown (Portland, LA), `style.min_star_spacing_in` combines stars that would overlap on the page into one.
 3. **Render** writes `outputs/<city>/<city>_black.svg` and `<city>_transparent.svg`, plus PNGs of each, sized for printing (10 in wide at 300 dpi by default, with the dpi recorded in the PNG). The lines are cut away around every star with an SVG mask rather than a black outline, so the transparent version needs no Photoshop work.
 
 Each city has a config in `cities/<city>.yaml`. Anything the code doesn't decide on its own goes there: the feed URL, which routes to include, stations to merge, drop or resize, rotation, page size, star and line sizes, and colors. `starmaps/config.py` lists every setting with its default.
@@ -60,8 +61,8 @@ make test
 | `la_metro` | LA Metro rail GTFS | A, B, C, D, E, K |
 | `trimet_max` | TriMet GTFS | MAX only (no streetcar or WES) |
 | `bc_skytrain` | TransLink GTFS | Expo, Millennium, Canada |
-| `toronto` | TTC GTFS | Lines 1, 2, 4, 5, 6 |
-| `montreal` | STM GTFS | Métro (green, orange, yellow, blue) |
+| `toronto` | TTC GTFS | Lines 1, 2, 4, 5, 6. Not built yet: in Nov 2026 Toronto Open Data was serving an empty zip for this feed |
+| `montreal` | STM GTFS | Métro (green, orange, yellow, blue). STM's route shapes are very coarse, so the lines are nearly straight between stations |
 
 The `*_2016` configs rebuild each map from the data the TileMill project used (in `legacy/data/`), through a second input path that reads plain station and line files. This path also works for OpenStreetMap extracts or agency shapefiles when there's no usable GTFS feed.
 
