@@ -48,6 +48,9 @@ DEFAULTS = {
         "drop": [],  # station names/ids to leave out
         "rank": {},  # name -> star rank (1 regular, 2 large) overrides
         "transfer_degree": 3,  # stations with this many neighbors get a large star
+        # Regexes for GTFS fare areas (stop_areas.txt) whose stations are minor
+        # stops, drawn with style.minor_star_size_in (rank 0).
+        "minor_areas": [],
     },
     "lines": {
         "simplify_m": 12,  # Douglas-Peucker tolerance in meters
@@ -68,6 +71,7 @@ DEFAULTS = {
         "line_width_in": 0.028,
         "star_size_in": 0.17,  # rank 1
         "large_star_size_in": 0.23,  # rank 2
+        "minor_star_size_in": 0.07,  # rank 0; 0 hides minor stops entirely
         "gap_in": 0.035,  # clear space cut out of the lines around each star
         # Stars closer than this on the page are drawn as one (0 = keep all).
         # For systems with a dense downtown core.

@@ -113,13 +113,15 @@ def svg(stations, segments, cfg, variant: str = "black") -> str:
     st = cfg["style"]
     dpi = cfg["map"]["dpi"]
     to_px, W, H = layout(stations, segments, cfg)
+    if st["minor_star_size_in"] <= 0:
+        stations = [s for s in stations if s["rank"] != 0]
     p0, p1 = to_px(0, 0), to_px(1000, 0)
     stations, segments = declutter(
         stations, segments, st["min_star_spacing_in"] * dpi, math.dist(p0, p1) / 1000
     )
     line_w = st["line_width_in"] * dpi
     gap = st["gap_in"] * dpi
-    sizes = {1: st["star_size_in"] * dpi, 2: st["large_star_size_in"] * dpi}
+    sizes = {0: st["minor_star_size_in"] * dpi, 1: st["star_size_in"] * dpi, 2: st["large_star_size_in"] * dpi}
 
     def star_transform(s):
         size = sizes.get(s["rank"], sizes[1])
@@ -132,7 +134,9 @@ def svg(stations, segments, cfg, variant: str = "black") -> str:
     for s in ordered:
         size, tf = star_transform(s)
         # The stroke is centered on the outline, so it is twice the gap, in star units.
-        cut.append(f'<use href="#star" transform="{tf}" stroke-width="{2 * gap * 100 / size:.2f}"/>')
+        # Smaller stars get a proportionally smaller gap.
+        g = gap * min(1.0, size / sizes[1])
+        cut.append(f'<use href="#star" transform="{tf}" stroke-width="{2 * g * 100 / size:.2f}"/>')
         stars.append(f'<use href="#star" transform="{tf}"><title>{escape(s["name"])}</title></use>')
 
     paths = []

@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import json
 import math
+import re
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -130,7 +131,10 @@ def merge_stations(stations: dict, cfg: dict, proj: LocalProjection):
                 mapping[m] = None
             continue
         xy = np.mean([pts[m] for m in members], axis=0)
-        stars[root] = {"name": name, "x": float(xy[0]), "y": float(xy[1]), "members": sorted(members)}
+        areas = sorted({a for m in members for a in stations[m].get("areas", [])})
+        stars[root] = {
+            "name": name, "x": float(xy[0]), "y": float(xy[1]), "members": sorted(members), "areas": areas,
+        }
         for m in members:
             mapping[m] = root
     return mapping, stars
@@ -394,6 +398,12 @@ def rank_stations(G, scfg):
         nbs = set(G.neighbors(n))
         d["degree"] = len(nbs)
         d["rank"] = 2 if len(nbs) >= scfg["transfer_degree"] else 1
+        # Minor stops (rank 0) are matched by fare area, but line ends and
+        # branch points always stay full stars.
+        if d["rank"] == 1 and len(nbs) == 2 and any(
+            re.search(p, a) for p in scfg["minor_areas"] for a in d.get("areas", [])
+        ):
+            d["rank"] = 0
         d["rank"] = overrides.get(_key(d["name"]), overrides.get(_key(n), d["rank"]))
 
 

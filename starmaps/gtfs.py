@@ -109,6 +109,15 @@ def read(zip_path, src: dict):
         if "parent_station" not in stops:
             stops["parent_station"] = ""
 
+        # Fare areas (GTFS-Fares v2). Agencies use them to set apart stops
+        # with different fare handling, e.g. MBTA's street-running Green Line.
+        stop_areas = _read(zf, "stop_areas.txt", ["area_id", "stop_id"], required=False)
+        areas_of = (
+            stop_areas.groupby("stop_id")["area_id"].apply(set).to_dict()
+            if stop_areas is not None and not stop_areas.empty
+            else {}
+        )
+
         trips = trips.set_index("trip_id")
         trips["seq"] = seqs
         trips = trips.dropna(subset=["seq"])
@@ -142,10 +151,13 @@ def read(zip_path, src: dict):
         for sid in ids:
             if sid not in stations:
                 row = stops.loc[sid]
+                kids = stops.index[stops["parent_station"] == sid]
+                areas = set(areas_of.get(sid, set())).union(*(areas_of.get(k, set()) for k in kids))
                 stations[sid] = {
                     "name": row["stop_name"],
                     "lon": float(row["stop_lon"]),
                     "lat": float(row["stop_lat"]),
+                    "areas": sorted(areas),
                 }
         patterns.append(
             {"route": label[route_id], "stations": ids, "shape": shapes.get(shape_id), "trips": int(n)}

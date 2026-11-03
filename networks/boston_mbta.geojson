@@ -6992,7 +6992,7 @@
     "kind": "station",
     "id": "place-alsgr",
     "name": "Allston Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-alsgr"
@@ -7012,7 +7012,7 @@
     "kind": "station",
     "id": "place-amory",
     "name": "Amory Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-amory"
@@ -7152,7 +7152,7 @@
     "kind": "station",
     "id": "place-babck",
     "name": "Babcock Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-babck"
@@ -7212,7 +7212,7 @@
     "kind": "station",
     "id": "place-bckhl",
     "name": "Back of the Hill",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-bckhl"
@@ -7252,7 +7252,7 @@
     "kind": "station",
     "id": "place-bcnwa",
     "name": "Washington Square",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-bcnwa"
@@ -7272,7 +7272,7 @@
     "kind": "station",
     "id": "place-bland",
     "name": "Blandford Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-bland"
@@ -7312,7 +7312,7 @@
     "kind": "station",
     "id": "place-bndhl",
     "name": "Brandon Hall",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-bndhl"
@@ -7392,7 +7392,7 @@
     "kind": "station",
     "id": "place-brico",
     "name": "Packard's Corner",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-brico"
@@ -7432,7 +7432,7 @@
     "kind": "station",
     "id": "place-brmnl",
     "name": "Fenwood Road",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-brmnl",
@@ -7473,7 +7473,7 @@
     "kind": "station",
     "id": "place-bucen",
     "name": "Boston University Central",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-bucen"
@@ -7493,7 +7493,7 @@
     "kind": "station",
     "id": "place-buest",
     "name": "Boston University East",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-buest"
@@ -7653,7 +7653,7 @@
     "kind": "station",
     "id": "place-chill",
     "name": "Chestnut Hill Avenue",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-chill"
@@ -7713,7 +7713,7 @@
     "kind": "station",
     "id": "place-chswk",
     "name": "Chiswick Road",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-chswk"
@@ -7793,7 +7793,7 @@
     "kind": "station",
     "id": "place-cool",
     "name": "Coolidge Corner",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-cool"
@@ -7833,7 +7833,7 @@
     "kind": "station",
     "id": "place-denrd",
     "name": "Dean Road",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-denrd"
@@ -7893,7 +7893,7 @@
     "kind": "station",
     "id": "place-engav",
     "name": "Englewood Avenue",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-engav"
@@ -7933,7 +7933,7 @@
     "kind": "station",
     "id": "place-fbkst",
     "name": "Fairbanks Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-fbkst"
@@ -8053,7 +8053,7 @@
     "kind": "station",
     "id": "place-grigg",
     "name": "Griggs Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-grigg"
@@ -8133,7 +8133,7 @@
     "kind": "station",
     "id": "place-harvd",
     "name": "Harvard Avenue",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-harvd"
@@ -8173,7 +8173,7 @@
     "kind": "station",
     "id": "place-hwsst",
     "name": "Hawes Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-hwsst"
@@ -8293,7 +8293,7 @@
     "kind": "station",
     "id": "place-kntst",
     "name": "Kent Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-kntst"
@@ -8353,7 +8353,7 @@
     "kind": "station",
     "id": "place-lngmd",
     "name": "Longwood Medical Area",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-lngmd"
@@ -8453,7 +8453,7 @@
     "kind": "station",
     "id": "place-mfa",
     "name": "Museum of Fine Arts",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-mfa"
@@ -8513,7 +8513,7 @@
     "kind": "station",
     "id": "place-mispk",
     "name": "Mission Park",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-mispk"
@@ -8653,7 +8653,7 @@
     "kind": "station",
     "id": "place-nuniv",
     "name": "Northeastern University",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-nuniv"
@@ -8913,7 +8913,7 @@
     "kind": "station",
     "id": "place-rvrwy",
     "name": "Riverway",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-rvrwy"
@@ -8993,7 +8993,7 @@
     "kind": "station",
     "id": "place-smary",
     "name": "Saint Mary's Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-smary"
@@ -9033,7 +9033,7 @@
     "kind": "station",
     "id": "place-sougr",
     "name": "South Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-sougr"
@@ -9113,7 +9113,7 @@
     "kind": "station",
     "id": "place-sthld",
     "name": "Sutherland Road",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-sthld"
@@ -9133,7 +9133,7 @@
     "kind": "station",
     "id": "place-stpul",
     "name": "Saint Paul Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-stpul"
@@ -9173,7 +9173,7 @@
     "kind": "station",
     "id": "place-sumav",
     "name": "Summit Avenue",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-sumav"
@@ -9213,7 +9213,7 @@
     "kind": "station",
     "id": "place-tapst",
     "name": "Tappan Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-tapst"
@@ -9313,7 +9313,7 @@
     "kind": "station",
     "id": "place-wascm",
     "name": "Washington Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-wascm"
@@ -9433,7 +9433,7 @@
     "kind": "station",
     "id": "place-wrnst",
     "name": "Warren Street",
-    "rank": 1,
+    "rank": 0,
     "degree": 2,
     "members": [
      "place-wrnst"
