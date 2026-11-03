@@ -6,3 +6,5 @@ source:
   url: https://gtfs.sound.obaweb.org/prod/40_gtfs.zip  # www.soundtransit.org/GTFS-rail/40_gtfs.zip redirects here
   route_types: [0, 1]
   include_routes: ["^1 Line$", "^2 Line$", "^1$", "^2$", "100479", "2LINE"]
+style:
+  min_star_spacing_in: 0.15
