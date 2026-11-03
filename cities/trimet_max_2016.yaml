@@ -1,0 +1,13 @@
+# Portland MAX from the 2016 TileMill project's data (TriMet shapefiles), for
+# comparing with legacy/outputs/trimet_max_v0.1.png.
+name: TriMet MAX (2016 data)
+source:
+  type: linework
+  station_name_field: STATION
+  stations: legacy/data/trimet/tm_rail_stops/tm_rail_stops.shp
+  stations_query: TYPE == 'MAX'
+  lines: legacy/data/trimet/tm_rail_lines/tm_rail_lines.shp
+  lines_query: TYPE in ['MAX', 'MAX/SC']
+style:
+  star_size_in: 0.13
+  large_star_size_in: 0.18

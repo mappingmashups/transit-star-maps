@@ -1,0 +1,7 @@
+# BART from the 2016 TileMill project's data, for comparing the new renderer
+# with the old map (legacy/outputs/bart_v0.2.png).
+name: BART (2016 data)
+source:
+  type: linework
+  stations: legacy/data/bart/bart_stations.geojson
+  lines: legacy/data/bart/bart_tracks.geojson

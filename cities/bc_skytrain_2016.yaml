@@ -1,0 +1,9 @@
+# Vancouver SkyTrain from the 2016 TileMill project's data, for comparing with
+# legacy/outputs/bc_skytrain_v0.1.png.
+name: SkyTrain (2016 data)
+source:
+  type: linework
+  station_name_field: Name
+  stations: legacy/data/bc_translink/skytrain_stations.geojson
+  stations_query: Name != 'Broadway Station'
+  lines: legacy/data/bc_translink/skytrain_lines.geojson

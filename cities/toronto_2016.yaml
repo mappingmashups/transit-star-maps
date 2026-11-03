@@ -1,0 +1,10 @@
+# Toronto subway from the 2016 TileMill project's OSM extract, for comparing
+# with legacy/outputs/toronto_v0.1.png.
+name: TTC Subway (2016 data)
+source:
+  type: linework
+  stations: legacy/data/toronto/toronto_stations_osm.geojson
+  lines: legacy/data/toronto/toronto_tracks_osm.geojson
+style:
+  star_size_in: 0.15
+  large_star_size_in: 0.2

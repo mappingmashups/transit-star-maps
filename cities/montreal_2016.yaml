@@ -1,0 +1,7 @@
+# Montréal Métro from the 2016 TileMill project's OSM extract, for comparing
+# with legacy/outputs/montreal_v0.1.png.
+name: Métro de Montréal (2016 data)
+source:
+  type: linework
+  stations: legacy/data/montreal/montreal_stations.geojson
+  lines: legacy/data/montreal/montreal_lines.geojson
