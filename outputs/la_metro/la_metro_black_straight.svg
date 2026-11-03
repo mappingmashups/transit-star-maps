@@ -1,0 +1,308 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="2027" viewBox="0 0 3000 2027">
+  <title>LA Metro Rail</title>
+  <defs>
+    <path id="star" d="M100,39.332c0-3.332-2.636-6.029-5.935-6.169c0.004-0.012,0.004-0.024,0.009-0.035H65.461L55.863,4.341 c-0.004,0-0.009,0.001-0.014,0.001C55.058,1.833,52.738,0,49.967,0c-2.938,0-5.384,2.048-6.023,4.789 c-0.007-0.001-0.015,0-0.021-0.002l-9.45,28.341H6.336c-0.048-0.001-0.092-0.014-0.139-0.014C2.773,33.113,0,35.888,0,39.31 c0,1.884,0.857,3.55,2.185,4.687c-0.007,0.01-0.011,0.021-0.019,0.031L26.24,62.535l-8.961,28.683 c-0.364,0.789-0.582,1.659-0.582,2.587c0,3.422,2.775,6.195,6.198,6.195c1.405,0,2.687-0.484,3.727-1.272 c0.011,0.01,0.025,0.017,0.036,0.026L50.027,80.84l22.536,17.317C73.688,99.294,75.245,100,76.97,100 c3.424,0,6.198-2.773,6.198-6.195c0-0.748-0.154-1.456-0.397-2.121c0.016-0.002,0.029-0.01,0.045-0.012l-9.077-29.016l23.718-18.332 c-0.002-0.001-0.005-0.003-0.007-0.005C98.988,43.192,100,41.386,100,39.332z"/>
+    <mask id="gaps" maskUnits="userSpaceOnUse" x="0" y="0" width="3000" height="2027">
+      <rect width="3000" height="2027" fill="#fff"/>
+      <g fill="#000" stroke="#000" stroke-linejoin="round">
+    <use href="#star" transform="translate(1219.2 1892.2) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1226.7 1841.5) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1226.8 1808.6) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1225.1 1727.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1201.5 1669.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1145.1 1540.4) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1101.7 1414.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(547.1 1329) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1095.2 1317) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(494.6 1280.5) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1411.5 1246.5) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1547.2 1242.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(481.8 1231.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(477.9 1199.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1149.4 1192.8) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(708.6 1190.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(940.5 1180.9) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(840.3 1175.2) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(880.5 1175.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(517.5 1170.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(614 1153.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1024 1114.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1023.9 1035.2) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(528.3 1023.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(614.8 1000.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1023.7 971.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(673.1 963.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(693.1 905.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1023.3 903) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1023.7 838.8) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(682.4 820.9) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(87 786.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(852.6 769.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(776.1 768.5) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1024.7 762.9) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(892.4 751.5) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(128.7 744.9) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(635.7 742.6) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(601.5 738.8) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(537.5 731.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(977.8 730.4) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(473.8 724.5) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(171.3 723.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(416.2 717.9) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(917.6 710.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(232.6 706.5) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1307.7 701.2) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1346.6 700.9) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1216.9 696.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(303.1 690) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(339.6 683.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1149.5 653.8) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1101.4 637.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1003.3 612.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(904.9 596.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(790.8 571.8) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(646.1 569.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(579.3 565.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1052.2 562.5) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(528.2 557.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(841.6 504.8) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1110.5 485.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1137.7 456.6) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(841.5 444.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(2877 423.5) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(2817 409.2) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(841.5 408.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1162.3 406.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(665 391) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(715.4 390.7) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(779.8 390.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(2674.6 373.4) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1215.6 348.1) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1346.5 330) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(2196.5 266.5) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(2446.1 253) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(2063.8 251) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1928.8 248.2) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1383.4 246.8) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(2294 235.4) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(2350.5 230.9) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(574.3 216.4) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1831.8 204.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1384.4 194.2) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1635.7 182.3) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1446.5 163.9) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1510.7 161.2) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(521.4 87) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1037.6 1170.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(504.4 1080.2) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(670.3 742.7) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(930.3 659.7) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(957.9 624) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1033.7 623.1) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1050.7 589.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(840 560) scale(0.5100)" stroke-width="41.18"/>
+      </g>
+    </mask>
+  </defs>
+  <rect width="3000" height="2027" fill="#000000"/>
+  <g mask="url(#gaps)" fill="none" stroke="#d3d3d3" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1237.2 1910.2 L1244.7 1859.5"/>
+    <path d="M1244.7 1859.5 L1244.8 1826.6"/>
+    <path d="M1244.7 1859.5 L1237.2 1910.2"/>
+    <path d="M1244.8 1826.6 L1243.1 1745.1"/>
+    <path d="M1243.1 1745.1 L1219.5 1687.1"/>
+    <path d="M1219.5 1687.1 L1163.1 1558.4"/>
+    <path d="M1163.1 1558.4 L1119.7 1432.1"/>
+    <path d="M2464.1 271 L2692.6 391.4"/>
+    <path d="M2692.6 391.4 L2835 427.2"/>
+    <path d="M2835 427.2 L2895 441.5"/>
+    <path d="M1119.7 1432.1 L1113.2 1335"/>
+    <path d="M1113.2 1335 L1063.1 1196.3"/>
+    <path d="M1063.1 1196.3 L1042 1132.1"/>
+    <path d="M1063.1 1196.3 L958.5 1198.9"/>
+    <path d="M1063.1 1196.3 L1167.4 1210.8"/>
+    <path d="M1042 1132.1 L1041.9 1053.2"/>
+    <path d="M1041.9 1053.2 L1041.7 989.1"/>
+    <path d="M1041.7 989.1 L1041.3 921"/>
+    <path d="M1041.3 921 L1041.7 856.8"/>
+    <path d="M1041.7 856.8 L1042.7 780.9"/>
+    <path d="M1042.7 780.9 L995.8 748.4"/>
+    <path d="M995.8 748.4 L935.6 728.7"/>
+    <path d="M935.6 728.7 L955.8 685.2"/>
+    <path d="M955.8 685.2 L983.4 649.5"/>
+    <path d="M955.8 685.2 L935.6 728.7"/>
+    <path d="M983.4 649.5 L922.9 614.3"/>
+    <path d="M983.4 649.5 L1021.3 630.7"/>
+    <path d="M983.4 649.5 L1021.3 630.7"/>
+    <path d="M935.6 728.7 L910.4 769.5"/>
+    <path d="M910.4 769.5 L870.6 787.1"/>
+    <path d="M870.6 787.1 L794.1 786.5"/>
+    <path d="M794.1 786.5 L695.8 768.2"/>
+    <path d="M695.8 768.2 L700.4 838.9"/>
+    <path d="M695.8 768.2 L653.7 760.6"/>
+    <path d="M653.7 760.6 L619.5 756.8"/>
+    <path d="M619.5 756.8 L555.5 749.7"/>
+    <path d="M555.5 749.7 L491.8 742.5"/>
+    <path d="M491.8 742.5 L434.2 735.9"/>
+    <path d="M434.2 735.9 L357.6 701.7"/>
+    <path d="M357.6 701.7 L321.1 708"/>
+    <path d="M321.1 708 L250.6 724.5"/>
+    <path d="M250.6 724.5 L189.3 741.1"/>
+    <path d="M189.3 741.1 L146.7 762.9"/>
+    <path d="M146.7 762.9 L105 804.3"/>
+    <path d="M539.4 105 L592.3 234.4"/>
+    <path d="M592.3 234.4 L683 409"/>
+    <path d="M683 409 L733.4 408.7"/>
+    <path d="M733.4 408.7 L797.8 408.3"/>
+    <path d="M797.8 408.3 L859.5 426.7"/>
+    <path d="M859.5 426.7 L859.5 462.1"/>
+    <path d="M859.5 462.1 L859.6 522.8"/>
+    <path d="M859.6 522.8 L865.5 585.5"/>
+    <path d="M865.5 585.5 L922.9 614.3"/>
+    <path d="M865.5 585.5 L808.8 589.8"/>
+    <path d="M1021.3 630.7 L1076.2 615.3"/>
+    <path d="M1076.2 615.3 L1070.2 580.5"/>
+    <path d="M808.8 589.8 L664.1 587.3"/>
+    <path d="M664.1 587.3 L597.3 583.7"/>
+    <path d="M597.3 583.7 L546.2 575.1"/>
+    <path d="M565.1 1347 L512.6 1298.5"/>
+    <path d="M512.6 1298.5 L499.8 1249.7"/>
+    <path d="M499.8 1249.7 L495.9 1217.3"/>
+    <path d="M535.5 1188.3 L529.9 1105.7"/>
+    <path d="M535.5 1188.3 L632 1171.3"/>
+    <path d="M632 1171.3 L726.6 1208.7"/>
+    <path d="M726.6 1208.7 L858.3 1193.2"/>
+    <path d="M858.3 1193.2 L898.5 1193.1"/>
+    <path d="M898.5 1193.1 L958.5 1198.9"/>
+    <path d="M1167.4 1210.8 L1429.5 1264.5"/>
+    <path d="M1429.5 1264.5 L1565.2 1260.1"/>
+    <path d="M1364.6 718.9 L1325.7 719.2"/>
+    <path d="M1325.7 719.2 L1234.9 714.7"/>
+    <path d="M1234.9 714.7 L1167.5 671.8"/>
+    <path d="M1167.5 671.8 L1119.4 655.1"/>
+    <path d="M1070.2 580.5 L1128.5 503.1"/>
+    <path d="M1128.5 503.1 L1155.7 474.6"/>
+    <path d="M1155.7 474.6 L1180.3 424.7"/>
+    <path d="M1180.3 424.7 L1233.6 366.1"/>
+    <path d="M1233.6 366.1 L1364.5 348"/>
+    <path d="M1364.5 348 L1401.4 264.8"/>
+    <path d="M1401.4 264.8 L1402.4 212.2"/>
+    <path d="M1402.4 212.2 L1464.5 181.9"/>
+    <path d="M1464.5 181.9 L1528.7 179.2"/>
+    <path d="M1528.7 179.2 L1653.7 200.3"/>
+    <path d="M1653.7 200.3 L1849.8 222.3"/>
+    <path d="M1849.8 222.3 L1946.8 266.2"/>
+    <path d="M1946.8 266.2 L2081.8 269"/>
+    <path d="M2081.8 269 L2214.5 284.5"/>
+    <path d="M2214.5 284.5 L2312 253.4"/>
+    <path d="M2312 253.4 L2368.5 248.9"/>
+    <path d="M2464.1 271 L2368.5 248.9"/>
+    <path d="M495.9 1217.3 L529.9 1105.7"/>
+    <path d="M529.9 1105.7 L546.3 1041.3"/>
+    <path d="M546.3 1041.3 L632.8 1018.3"/>
+    <path d="M632.8 1018.3 L691.1 981.7"/>
+    <path d="M691.1 981.7 L711.1 923.1"/>
+    <path d="M711.1 923.1 L700.4 838.9"/>
+    <path d="M1021.3 630.7 L1059.2 648.6"/>
+    <path d="M1076.2 615.3 L1059.2 648.6"/>
+    <path d="M1119.4 655.1 L1059.2 648.6"/>
+  </g>
+  <g fill="#ffffaa">
+    <use href="#star" transform="translate(1219.2 1892.2) scale(0.3600)"><title>Downtown Long Beach Station</title></use>
+    <use href="#star" transform="translate(1226.7 1841.5) scale(0.3600)"><title>Anaheim Street Station</title></use>
+    <use href="#star" transform="translate(1226.8 1808.6) scale(0.3600)"><title>Pacific Coast Hwy Station</title></use>
+    <use href="#star" transform="translate(1225.1 1727.1) scale(0.3600)"><title>Willow Street Station</title></use>
+    <use href="#star" transform="translate(1201.5 1669.1) scale(0.3600)"><title>Wardlow Station</title></use>
+    <use href="#star" transform="translate(1145.1 1540.4) scale(0.3600)"><title>Del Amo Station</title></use>
+    <use href="#star" transform="translate(1101.7 1414.1) scale(0.3600)"><title>Artesia Station</title></use>
+    <use href="#star" transform="translate(547.1 1329) scale(0.3600)"><title>Redondo Beach Station</title></use>
+    <use href="#star" transform="translate(1095.2 1317) scale(0.3600)"><title>Compton Station</title></use>
+    <use href="#star" transform="translate(494.6 1280.5) scale(0.3600)"><title>Douglas Station</title></use>
+    <use href="#star" transform="translate(1411.5 1246.5) scale(0.3600)"><title>Lakewood Blvd Station</title></use>
+    <use href="#star" transform="translate(1547.2 1242.1) scale(0.3600)"><title>Norwalk Station</title></use>
+    <use href="#star" transform="translate(481.8 1231.7) scale(0.3600)"><title>El Segundo Station</title></use>
+    <use href="#star" transform="translate(477.9 1199.3) scale(0.3600)"><title>Mariposa Station</title></use>
+    <use href="#star" transform="translate(1149.4 1192.8) scale(0.3600)"><title>Lynwood Station</title></use>
+    <use href="#star" transform="translate(708.6 1190.7) scale(0.3600)"><title>Crenshaw Station</title></use>
+    <use href="#star" transform="translate(940.5 1180.9) scale(0.3600)"><title>Avalon Station</title></use>
+    <use href="#star" transform="translate(840.3 1175.2) scale(0.3600)"><title>Vermont / Athens Station</title></use>
+    <use href="#star" transform="translate(880.5 1175.1) scale(0.3600)"><title>Harbor Freeway Station</title></use>
+    <use href="#star" transform="translate(517.5 1170.3) scale(0.3600)"><title>Aviation / Imperial Station</title></use>
+    <use href="#star" transform="translate(614 1153.3) scale(0.3600)"><title>Hawthorne / Lennox Station</title></use>
+    <use href="#star" transform="translate(1024 1114.1) scale(0.3600)"><title>103rd Street / Watts Towers Station</title></use>
+    <use href="#star" transform="translate(1023.9 1035.2) scale(0.3600)"><title>Firestone Station</title></use>
+    <use href="#star" transform="translate(528.3 1023.3) scale(0.3600)"><title>Westchester / Veterans Station</title></use>
+    <use href="#star" transform="translate(614.8 1000.3) scale(0.3600)"><title>Downtown Inglewood Station</title></use>
+    <use href="#star" transform="translate(1023.7 971.1) scale(0.3600)"><title>Florence Station</title></use>
+    <use href="#star" transform="translate(673.1 963.7) scale(0.3600)"><title>Fairview Heights Station</title></use>
+    <use href="#star" transform="translate(693.1 905.1) scale(0.3600)"><title>Hyde Park Station</title></use>
+    <use href="#star" transform="translate(1023.3 903) scale(0.3600)"><title>Slauson Station</title></use>
+    <use href="#star" transform="translate(1023.7 838.8) scale(0.3600)"><title>Vernon Station</title></use>
+    <use href="#star" transform="translate(682.4 820.9) scale(0.3600)"><title>Leimert Park Station</title></use>
+    <use href="#star" transform="translate(87 786.3) scale(0.3600)"><title>Downtown Santa Monica Station</title></use>
+    <use href="#star" transform="translate(852.6 769.1) scale(0.3600)"><title>Expo Park / USC Station</title></use>
+    <use href="#star" transform="translate(776.1 768.5) scale(0.3600)"><title>Expo / Western Station</title></use>
+    <use href="#star" transform="translate(1024.7 762.9) scale(0.3600)"><title>Washington Station</title></use>
+    <use href="#star" transform="translate(892.4 751.5) scale(0.3600)"><title>Jefferson / USC Station</title></use>
+    <use href="#star" transform="translate(128.7 744.9) scale(0.3600)"><title>17th Street / SMC Station</title></use>
+    <use href="#star" transform="translate(635.7 742.6) scale(0.3600)"><title>Farmdale Station</title></use>
+    <use href="#star" transform="translate(601.5 738.8) scale(0.3600)"><title>Expo / La Brea / Ethel Bradley Station</title></use>
+    <use href="#star" transform="translate(537.5 731.7) scale(0.3600)"><title>La Cienega / Jefferson Station</title></use>
+    <use href="#star" transform="translate(977.8 730.4) scale(0.3600)"><title>San Pedro Street Station</title></use>
+    <use href="#star" transform="translate(473.8 724.5) scale(0.3600)"><title>Culver City Station</title></use>
+    <use href="#star" transform="translate(171.3 723.1) scale(0.3600)"><title>26th Street / Bergamot Station</title></use>
+    <use href="#star" transform="translate(416.2 717.9) scale(0.3600)"><title>Palms Station</title></use>
+    <use href="#star" transform="translate(917.6 710.7) scale(0.3600)"><title>Grand / LATTC Station</title></use>
+    <use href="#star" transform="translate(232.6 706.5) scale(0.3600)"><title>Expo / Bundy Station</title></use>
+    <use href="#star" transform="translate(1307.7 701.2) scale(0.3600)"><title>Maravilla Station</title></use>
+    <use href="#star" transform="translate(1346.6 700.9) scale(0.3600)"><title>East LA Civic Center Station</title></use>
+    <use href="#star" transform="translate(1216.9 696.7) scale(0.3600)"><title>Indiana Station</title></use>
+    <use href="#star" transform="translate(303.1 690) scale(0.3600)"><title>Expo / Sepulveda Station</title></use>
+    <use href="#star" transform="translate(339.6 683.7) scale(0.3600)"><title>Westwood / Rancho Park Station</title></use>
+    <use href="#star" transform="translate(1149.5 653.8) scale(0.3600)"><title>Soto Station</title></use>
+    <use href="#star" transform="translate(1101.4 637.1) scale(0.3600)"><title>Mariachi Plaza / Boyle Heights Station</title></use>
+    <use href="#star" transform="translate(1003.3 612.7) scale(0.3600)"><title>Pershing Square Station</title></use>
+    <use href="#star" transform="translate(904.9 596.3) scale(0.3600)"><title>Westlake / MacArthur Park Station</title></use>
+    <use href="#star" transform="translate(790.8 571.8) scale(0.3600)"><title>Wilshire / Normandie Station</title></use>
+    <use href="#star" transform="translate(646.1 569.3) scale(0.3600)"><title>Wilshire / La Brea Station</title></use>
+    <use href="#star" transform="translate(579.3 565.7) scale(0.3600)"><title>Wilshire / Fairfax Station</title></use>
+    <use href="#star" transform="translate(1052.2 562.5) scale(0.3600)"><title>Chinatown Station</title></use>
+    <use href="#star" transform="translate(528.2 557.1) scale(0.3600)"><title>Wilshire / La Cienega Station</title></use>
+    <use href="#star" transform="translate(841.6 504.8) scale(0.3600)"><title>Vermont / Beverly Station</title></use>
+    <use href="#star" transform="translate(1110.5 485.1) scale(0.3600)"><title>Lincoln Heights / Cypress Park Station</title></use>
+    <use href="#star" transform="translate(1137.7 456.6) scale(0.3600)"><title>Heritage Square / Arroyo Station</title></use>
+    <use href="#star" transform="translate(841.5 444.1) scale(0.3600)"><title>Vermont / Santa Monica Station</title></use>
+    <use href="#star" transform="translate(2877 423.5) scale(0.3600)"><title>Pomona North Station</title></use>
+    <use href="#star" transform="translate(2817 409.2) scale(0.3600)"><title>La Verne / Fairplex Station</title></use>
+    <use href="#star" transform="translate(841.5 408.7) scale(0.3600)"><title>Vermont / Sunset Station</title></use>
+    <use href="#star" transform="translate(1162.3 406.7) scale(0.3600)"><title>Southwest Museum Station</title></use>
+    <use href="#star" transform="translate(665 391) scale(0.3600)"><title>Hollywood / Highland Station</title></use>
+    <use href="#star" transform="translate(715.4 390.7) scale(0.3600)"><title>Hollywood / Vine Station</title></use>
+    <use href="#star" transform="translate(779.8 390.3) scale(0.3600)"><title>Hollywood / Western Station</title></use>
+    <use href="#star" transform="translate(2674.6 373.4) scale(0.3600)"><title>San Dimas Station</title></use>
+    <use href="#star" transform="translate(1215.6 348.1) scale(0.3600)"><title>Highland Park Station</title></use>
+    <use href="#star" transform="translate(1346.5 330) scale(0.3600)"><title>South Pasadena Station</title></use>
+    <use href="#star" transform="translate(2196.5 266.5) scale(0.3600)"><title>Irwindale Station</title></use>
+    <use href="#star" transform="translate(2446.1 253) scale(0.3600)"><title>Glendora Station</title></use>
+    <use href="#star" transform="translate(2063.8 251) scale(0.3600)"><title>Duarte / City of Hope Station</title></use>
+    <use href="#star" transform="translate(1928.8 248.2) scale(0.3600)"><title>Monrovia Station</title></use>
+    <use href="#star" transform="translate(1383.4 246.8) scale(0.3600)"><title>Fillmore Station</title></use>
+    <use href="#star" transform="translate(2294 235.4) scale(0.3600)"><title>Azusa Downtown Station</title></use>
+    <use href="#star" transform="translate(2350.5 230.9) scale(0.3600)"><title>APU / Citrus College Station</title></use>
+    <use href="#star" transform="translate(574.3 216.4) scale(0.3600)"><title>Universal / Studio City Station</title></use>
+    <use href="#star" transform="translate(1831.8 204.3) scale(0.3600)"><title>Arcadia Station</title></use>
+    <use href="#star" transform="translate(1384.4 194.2) scale(0.3600)"><title>Del Mar Station</title></use>
+    <use href="#star" transform="translate(1635.7 182.3) scale(0.3600)"><title>Sierra Madre Villa Station</title></use>
+    <use href="#star" transform="translate(1446.5 163.9) scale(0.3600)"><title>Lake Station</title></use>
+    <use href="#star" transform="translate(1510.7 161.2) scale(0.3600)"><title>Allen Station</title></use>
+    <use href="#star" transform="translate(521.4 87) scale(0.3600)"><title>North Hollywood Station</title></use>
+    <use href="#star" transform="translate(1037.6 1170.8) scale(0.5100)"><title>Willowbrook - Rosa Parks Station</title></use>
+    <use href="#star" transform="translate(504.4 1080.2) scale(0.5100)"><title>Aviation / Century Station</title></use>
+    <use href="#star" transform="translate(670.3 742.7) scale(0.5100)"><title>Expo / Crenshaw E-Line Station</title></use>
+    <use href="#star" transform="translate(930.3 659.7) scale(0.5100)"><title>Pico Station</title></use>
+    <use href="#star" transform="translate(957.9 624) scale(0.5100)"><title>7th Street / Metro Center Station</title></use>
+    <use href="#star" transform="translate(1033.7 623.1) scale(0.5100)"><title>Little Tokyo / Arts District Station</title></use>
+    <use href="#star" transform="translate(1050.7 589.8) scale(0.5100)"><title>Union Station</title></use>
+    <use href="#star" transform="translate(840 560) scale(0.5100)"><title>Wilshire / Vermont Station</title></use>
+  </g>
+</svg>

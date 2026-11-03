@@ -68,6 +68,9 @@ DEFAULTS = {
         "background": "#000000",
         "star_color": "#ffffaa",
         "line_color": "#d3d3d3",
+        # "curved" follows the track; "straight" joins neighboring stars with
+        # straight strokes, like the figures drawn on star charts.
+        "line_style": "curved",
         "line_width_in": 0.028,
         "star_size_in": 0.17,  # rank 1
         "large_star_size_in": 0.23,  # rank 2

@@ -1,0 +1,365 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="3505" viewBox="0 0 3000 3505">
+  <title>MBTA Subway</title>
+  <defs>
+    <path id="star" d="M100,39.332c0-3.332-2.636-6.029-5.935-6.169c0.004-0.012,0.004-0.024,0.009-0.035H65.461L55.863,4.341 c-0.004,0-0.009,0.001-0.014,0.001C55.058,1.833,52.738,0,49.967,0c-2.938,0-5.384,2.048-6.023,4.789 c-0.007-0.001-0.015,0-0.021-0.002l-9.45,28.341H6.336c-0.048-0.001-0.092-0.014-0.139-0.014C2.773,33.113,0,35.888,0,39.31 c0,1.884,0.857,3.55,2.185,4.687c-0.007,0.01-0.011,0.021-0.019,0.031L26.24,62.535l-8.961,28.683 c-0.364,0.789-0.582,1.659-0.582,2.587c0,3.422,2.775,6.195,6.198,6.195c1.405,0,2.687-0.484,3.727-1.272 c0.011,0.01,0.025,0.017,0.036,0.026L50.027,80.84l22.536,17.317C73.688,99.294,75.245,100,76.97,100 c3.424,0,6.198-2.773,6.198-6.195c0-0.748-0.154-1.456-0.397-2.121c0.016-0.002,0.029-0.01,0.045-0.012l-9.077-29.016l23.718-18.332 c-0.002-0.001-0.005-0.003-0.007-0.005C98.988,43.192,100,41.386,100,39.332z"/>
+    <mask id="gaps" maskUnits="userSpaceOnUse" x="0" y="0" width="3000" height="3505">
+      <rect width="3000" height="3505" fill="#fff"/>
+      <g fill="#000" stroke="#000" stroke-linejoin="round">
+    <use href="#star" transform="translate(1602 1618.1) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1621.9 1585.3) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1670.9 1574.1) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1725.6 1545.4) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1261.3 1525) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1774.1 1520.2) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1158.1 1513.6) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1312.6 1509.4) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1348.6 1496) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1110 1492.9) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1404.7 1489.1) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1845.8 1481.4) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1184.3 1475.6) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1452.5 1471.3) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1232.4 1464) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1498.9 1456.8) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1544.5 1439.3) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1268.2 1431.6) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1574.4 1428.6) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1607 1416.6) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1647.6 1401.2) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1307.2 1364.5) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1352.7 1364.2) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1723.4 1353.4) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1684.6 1347) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1652.8 1342) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1391.1 1339.7) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1568.5 1328.9) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1513.2 1319.9) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1458.7 1314.9) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2776.3 3380.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2711.4 3013) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2729.7 2747.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2569.7 2536.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1852.9 2521.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1797.8 2520.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1917 2510.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2001.5 2486) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2067.6 2481.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2118.4 2451.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2470.6 2410) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2141 2347.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2104.8 2277.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2083.7 2153.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2127.2 2052.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1568.2 2044.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1638 1902.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2216.2 1891.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1671.8 1808.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(469.9 1779.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(589.4 1731.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1721.6 1721.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(321.2 1681.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1025.7 1668.9) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1607.6 1646.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(729.5 1630) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2169.8 1619.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1432 1603.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1765.8 1602.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1537 1584.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(185 1579.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1193.1 1541.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1284.8 1539.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1835.1 1530.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(85.5 1515.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1003.7 1477) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1610.8 1453.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1885.6 1447.9) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2177 1440.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1672.1 1400.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1912.7 1397.9) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1976.5 1372.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1846.4 1364.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2102.6 1338.9) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2028.1 1306.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2195.3 1301.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2105.2 1293.9) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2233.6 1193) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2030.8 1173.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2122.6 1170.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1864.7 1154.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1676.4 1111.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2062.4 1094) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2362.9 1058.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1514.6 997.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2042.4 993.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2460.4 984.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1773 940.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1859.8 909.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2540.7 906.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1962.7 844.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2734.2 802.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1751.5 787.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1512.5 781.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2815.4 749.8) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1959.8 717.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1648.7 705) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1276.1 674) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1484 661) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2866.6 648.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1599.5 615.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1961.6 579.7) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2864 500) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1535 499.1) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2873.4 419.6) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1993.1 230.3) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2025.2 85.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2218.6 1748.6) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(1761.2 1341.8) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(1950.6 1327) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(2122.8 1240.7) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(2153.9 1191.9) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(2155.1 1138.9) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(2123 1102.1) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(1959.6 1015.9) scale(0.5400)" stroke-width="38.89"/>
+      </g>
+    </mask>
+  </defs>
+  <rect width="3000" height="3505" fill="#000000"/>
+  <g mask="url(#gaps)" fill="none" stroke="#d3d3d3" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1295.6 693.5 L1503.5 680.5"/>
+    <path d="M1317.7 1375 L1363.2 1374.7"/>
+    <path d="M1579 1339.4 L1663.3 1352.5"/>
+    <path d="M2189.3 1639.3 L2245.6 1775.6"/>
+    <path d="M2479.9 1003.7 L2382.4 1077.9"/>
+    <path d="M2253.1 1212.5 L2180.9 1218.9"/>
+    <path d="M2047.6 1326.1 L2124.7 1313.4"/>
+    <path d="M2124.3 2296.6 L2160.5 2367.1"/>
+    <path d="M2124.3 2296.6 L2103.2 2172.7"/>
+    <path d="M1979.3 736.9 L1982.2 864.2"/>
+    <path d="M1579 1339.4 L1523.7 1330.4"/>
+    <path d="M1619 635.1 L1554.5 518.6"/>
+    <path d="M1996 1391.7 L1905.1 1467.4"/>
+    <path d="M1304.3 1558.7 L1212.6 1560.9"/>
+    <path d="M1359.1 1506.5 L1415.2 1499.6"/>
+    <path d="M1733.9 1363.9 L1788.2 1368.8"/>
+    <path d="M2886.1 667.9 L2834.9 769.3"/>
+    <path d="M1415.2 1499.6 L1463 1481.8"/>
+    <path d="M2124.7 1313.4 L2149.8 1267.7"/>
+    <path d="M2189.3 1639.3 L2196.5 1459.7"/>
+    <path d="M1523.7 1330.4 L1469.2 1325.4"/>
+    <path d="M1304.3 1558.7 L1451.5 1622.8"/>
+    <path d="M1681.4 1584.6 L1736.1 1555.9"/>
+    <path d="M2795.8 3400.2 L2730.9 3032.5"/>
+    <path d="M1663.3 1352.5 L1695.1 1357.5"/>
+    <path d="M1733.9 1363.9 L1695.1 1357.5"/>
+    <path d="M2137.9 2470.8 L2087.1 2500.8"/>
+    <path d="M1451.5 1622.8 L1556.5 1604.2"/>
+    <path d="M1872.4 2541 L1817.3 2540.2"/>
+    <path d="M2137.9 2470.8 L2160.5 2367.1"/>
+    <path d="M2021 2505.5 L1936.5 2529.7"/>
+    <path d="M1045.2 1688.4 L749 1649.5"/>
+    <path d="M1168.6 1524.1 L1194.8 1486.1"/>
+    <path d="M2124.7 1313.4 L2122.1 1358.4"/>
+    <path d="M1194.8 1486.1 L1242.9 1474.5"/>
+    <path d="M1212.6 1560.9 L1271.8 1535.5"/>
+    <path d="M1695.9 1130.6 L1884.2 1173.7"/>
+    <path d="M2047.6 1326.1 L1977.6 1354"/>
+    <path d="M1977.6 1354 L1932.2 1417.4"/>
+    <path d="M1509.4 1467.3 L1555 1449.8"/>
+    <path d="M1503.5 680.5 L1532 800.6"/>
+    <path d="M1271.8 1535.5 L1323.1 1519.9"/>
+    <path d="M2124.7 1313.4 L2149.8 1267.7"/>
+    <path d="M2149.8 1267.7 L2214.8 1320.7"/>
+    <path d="M489.4 1799 L340.7 1700.9"/>
+    <path d="M1879.3 929.2 L1771 807.3"/>
+    <path d="M1691.6 1419.9 L1630.3 1473.2"/>
+    <path d="M2146.7 2072.3 L2103.2 2172.7"/>
+    <path d="M1771 807.3 L1668.2 724.5"/>
+    <path d="M2142.1 1189.8 L2180.9 1218.9"/>
+    <path d="M2180.9 1218.9 L2182.1 1165.9"/>
+    <path d="M2180.9 1218.9 L2149.8 1267.7"/>
+    <path d="M1363.2 1374.7 L1401.6 1350.2"/>
+    <path d="M1587.7 2063.6 L1657.5 1922.3"/>
+    <path d="M2182.1 1165.9 L2150 1129.1"/>
+    <path d="M1695.9 1130.6 L1534.1 1017.2"/>
+    <path d="M1469.2 1325.4 L1401.6 1350.2"/>
+    <path d="M1612.5 1628.6 L1627.1 1666"/>
+    <path d="M1617.5 1427.1 L1658.1 1411.7"/>
+    <path d="M1977.6 1354 L1865.9 1384"/>
+    <path d="M1741.1 1740.7 L1691.3 1828.1"/>
+    <path d="M2245.6 1775.6 L2490.1 2429.5"/>
+    <path d="M2245.6 1775.6 L2235.7 1911"/>
+    <path d="M1691.6 1419.9 L1788.2 1368.8"/>
+    <path d="M1865.9 1384 L1788.2 1368.8"/>
+    <path d="M1788.2 1368.8 L1658.1 1411.7"/>
+    <path d="M2050.3 1192.7 L1884.2 1173.7"/>
+    <path d="M1617.5 1427.1 L1584.9 1439.1"/>
+    <path d="M1023.2 1496.5 L1120.5 1503.4"/>
+    <path d="M1879.3 929.2 L1986.6 1042.9"/>
+    <path d="M1986.6 1042.9 L1792.5 959.6"/>
+    <path d="M1736.1 1555.9 L1784.6 1530.7"/>
+    <path d="M1556.5 1604.2 L1630.3 1473.2"/>
+    <path d="M1905.1 1467.4 L1854.6 1549.9"/>
+    <path d="M1784.6 1530.7 L1856.3 1491.9"/>
+    <path d="M1619 635.1 L1668.2 724.5"/>
+    <path d="M2021 2505.5 L2087.1 2500.8"/>
+    <path d="M1681.4 1584.6 L1632.4 1595.8"/>
+    <path d="M2012.6 249.8 L1981.1 599.2"/>
+    <path d="M2253.1 1212.5 L2382.4 1077.9"/>
+    <path d="M489.4 1799 L608.9 1751.1"/>
+    <path d="M608.9 1751.1 L749 1649.5"/>
+    <path d="M2061.9 1013.3 L2150 1129.1"/>
+    <path d="M2150 1129.1 L2081.9 1113.5"/>
+    <path d="M1856.3 1491.9 L1905.1 1467.4"/>
+    <path d="M2012.6 249.8 L2044.7 105"/>
+    <path d="M2753.7 821.8 L2560.2 926.2"/>
+    <path d="M2050.3 1192.7 L2149.8 1267.7"/>
+    <path d="M1534.1 1017.2 L1532 800.6"/>
+    <path d="M2730.9 3032.5 L2749.2 2767.2"/>
+    <path d="M2749.2 2767.2 L2589.2 2555.6"/>
+    <path d="M2886.1 667.9 L2883.5 519.5"/>
+    <path d="M1741.1 1740.7 L1785.3 1621.6"/>
+    <path d="M1045.2 1688.4 L1212.6 1560.9"/>
+    <path d="M1785.3 1621.6 L1854.6 1549.9"/>
+    <path d="M1632.4 1595.8 L1612.5 1628.6"/>
+    <path d="M1657.5 1922.3 L1691.3 1828.1"/>
+    <path d="M2753.7 821.8 L2834.9 769.3"/>
+    <path d="M2146.7 2072.3 L2235.7 1911"/>
+    <path d="M1168.6 1524.1 L1120.5 1503.4"/>
+    <path d="M1986.6 1042.9 L2081.9 1113.5"/>
+    <path d="M2196.5 1459.7 L2214.8 1320.7"/>
+    <path d="M2149.8 1267.7 L2180.9 1218.9"/>
+    <path d="M2182.1 1165.9 L2180.9 1218.9"/>
+    <path d="M1242.9 1474.5 L1278.7 1442.1"/>
+    <path d="M1584.9 1439.1 L1555 1449.8"/>
+    <path d="M2061.9 1013.3 L1982.2 864.2"/>
+    <path d="M1509.4 1467.3 L1463 1481.8"/>
+    <path d="M1932.2 1417.4 L1905.1 1467.4"/>
+    <path d="M1359.1 1506.5 L1323.1 1519.9"/>
+    <path d="M1996 1391.7 L2122.1 1358.4"/>
+    <path d="M1872.4 2541 L1936.5 2529.7"/>
+    <path d="M340.7 1700.9 L204.5 1599.1"/>
+    <path d="M1278.7 1442.1 L1317.7 1375"/>
+    <path d="M1979.3 736.9 L1981.1 599.2"/>
+    <path d="M2479.9 1003.7 L2560.2 926.2"/>
+    <path d="M2490.1 2429.5 L2589.2 2555.6"/>
+    <path d="M2883.5 519.5 L2892.9 439.1"/>
+    <path d="M105 1534.8 L204.5 1599.1"/>
+  </g>
+  <g fill="#ffffaa">
+    <use href="#star" transform="translate(1602 1618.1) scale(0.2100)"><title>Back of the Hill</title></use>
+    <use href="#star" transform="translate(1621.9 1585.3) scale(0.2100)"><title>Mission Park</title></use>
+    <use href="#star" transform="translate(1670.9 1574.1) scale(0.2100)"><title>Fenwood Road</title></use>
+    <use href="#star" transform="translate(1725.6 1545.4) scale(0.2100)"><title>Longwood Medical Area</title></use>
+    <use href="#star" transform="translate(1261.3 1525) scale(0.2100)"><title>Dean Road</title></use>
+    <use href="#star" transform="translate(1774.1 1520.2) scale(0.2100)"><title>Museum of Fine Arts</title></use>
+    <use href="#star" transform="translate(1158.1 1513.6) scale(0.2100)"><title>Chestnut Hill Avenue</title></use>
+    <use href="#star" transform="translate(1312.6 1509.4) scale(0.2100)"><title>Tappan Street</title></use>
+    <use href="#star" transform="translate(1348.6 1496) scale(0.2100)"><title>Washington Square</title></use>
+    <use href="#star" transform="translate(1110 1492.9) scale(0.2100)"><title>South Street</title></use>
+    <use href="#star" transform="translate(1404.7 1489.1) scale(0.2100)"><title>Brandon Hall</title></use>
+    <use href="#star" transform="translate(1845.8 1481.4) scale(0.2100)"><title>Northeastern University</title></use>
+    <use href="#star" transform="translate(1184.3 1475.6) scale(0.2100)"><title>Chiswick Road</title></use>
+    <use href="#star" transform="translate(1452.5 1471.3) scale(0.2100)"><title>Summit Avenue</title></use>
+    <use href="#star" transform="translate(1232.4 1464) scale(0.2100)"><title>Sutherland Road</title></use>
+    <use href="#star" transform="translate(1498.9 1456.8) scale(0.2100)"><title>Coolidge Corner</title></use>
+    <use href="#star" transform="translate(1544.5 1439.3) scale(0.2100)"><title>Saint Paul Street</title></use>
+    <use href="#star" transform="translate(1268.2 1431.6) scale(0.2100)"><title>Washington Street</title></use>
+    <use href="#star" transform="translate(1574.4 1428.6) scale(0.2100)"><title>Kent Street</title></use>
+    <use href="#star" transform="translate(1607 1416.6) scale(0.2100)"><title>Hawes Street</title></use>
+    <use href="#star" transform="translate(1647.6 1401.2) scale(0.2100)"><title>Saint Mary&#x27;s Street</title></use>
+    <use href="#star" transform="translate(1307.2 1364.5) scale(0.2100)"><title>Allston Street</title></use>
+    <use href="#star" transform="translate(1352.7 1364.2) scale(0.2100)"><title>Griggs Street</title></use>
+    <use href="#star" transform="translate(1723.4 1353.4) scale(0.2100)"><title>Blandford Street</title></use>
+    <use href="#star" transform="translate(1684.6 1347) scale(0.2100)"><title>Boston University East</title></use>
+    <use href="#star" transform="translate(1652.8 1342) scale(0.2100)"><title>Boston University Central</title></use>
+    <use href="#star" transform="translate(1391.1 1339.7) scale(0.2100)"><title>Harvard Avenue</title></use>
+    <use href="#star" transform="translate(1568.5 1328.9) scale(0.2100)"><title>Amory Street</title></use>
+    <use href="#star" transform="translate(1513.2 1319.9) scale(0.2100)"><title>Babcock Street</title></use>
+    <use href="#star" transform="translate(1458.7 1314.9) scale(0.2100)"><title>Packard&#x27;s Corner</title></use>
+    <use href="#star" transform="translate(2776.3 3380.7) scale(0.3900)"><title>Braintree</title></use>
+    <use href="#star" transform="translate(2711.4 3013) scale(0.3900)"><title>Quincy Adams</title></use>
+    <use href="#star" transform="translate(2729.7 2747.7) scale(0.3900)"><title>Quincy Center</title></use>
+    <use href="#star" transform="translate(2569.7 2536.1) scale(0.3900)"><title>Wollaston</title></use>
+    <use href="#star" transform="translate(1852.9 2521.5) scale(0.3900)"><title>Capen Street</title></use>
+    <use href="#star" transform="translate(1797.8 2520.7) scale(0.3900)"><title>Mattapan</title></use>
+    <use href="#star" transform="translate(1917 2510.2) scale(0.3900)"><title>Valley Road</title></use>
+    <use href="#star" transform="translate(2001.5 2486) scale(0.3900)"><title>Central Avenue</title></use>
+    <use href="#star" transform="translate(2067.6 2481.3) scale(0.3900)"><title>Milton</title></use>
+    <use href="#star" transform="translate(2118.4 2451.3) scale(0.3900)"><title>Butler</title></use>
+    <use href="#star" transform="translate(2470.6 2410) scale(0.3900)"><title>North Quincy</title></use>
+    <use href="#star" transform="translate(2141 2347.6) scale(0.3900)"><title>Cedar Grove</title></use>
+    <use href="#star" transform="translate(2104.8 2277.1) scale(0.3900)"><title>Ashmont</title></use>
+    <use href="#star" transform="translate(2083.7 2153.2) scale(0.3900)"><title>Shawmut</title></use>
+    <use href="#star" transform="translate(2127.2 2052.8) scale(0.3900)"><title>Fields Corner</title></use>
+    <use href="#star" transform="translate(1568.2 2044.1) scale(0.3900)"><title>Forest Hills</title></use>
+    <use href="#star" transform="translate(1638 1902.8) scale(0.3900)"><title>Green Street</title></use>
+    <use href="#star" transform="translate(2216.2 1891.5) scale(0.3900)"><title>Savin Hill</title></use>
+    <use href="#star" transform="translate(1671.8 1808.6) scale(0.3900)"><title>Stony Brook</title></use>
+    <use href="#star" transform="translate(469.9 1779.5) scale(0.3900)"><title>Eliot</title></use>
+    <use href="#star" transform="translate(589.4 1731.6) scale(0.3900)"><title>Newton Highlands</title></use>
+    <use href="#star" transform="translate(1721.6 1721.2) scale(0.3900)"><title>Jackson Square</title></use>
+    <use href="#star" transform="translate(321.2 1681.4) scale(0.3900)"><title>Waban</title></use>
+    <use href="#star" transform="translate(1025.7 1668.9) scale(0.3900)"><title>Chestnut Hill</title></use>
+    <use href="#star" transform="translate(1607.6 1646.5) scale(0.3900)"><title>Heath Street</title></use>
+    <use href="#star" transform="translate(729.5 1630) scale(0.3900)"><title>Newton Centre</title></use>
+    <use href="#star" transform="translate(2169.8 1619.8) scale(0.3900)"><title>Andrew</title></use>
+    <use href="#star" transform="translate(1432 1603.3) scale(0.3900)"><title>Brookline Hills</title></use>
+    <use href="#star" transform="translate(1765.8 1602.1) scale(0.3900)"><title>Roxbury Crossing</title></use>
+    <use href="#star" transform="translate(1537 1584.7) scale(0.3900)"><title>Brookline Village</title></use>
+    <use href="#star" transform="translate(185 1579.6) scale(0.3900)"><title>Woodland</title></use>
+    <use href="#star" transform="translate(1193.1 1541.4) scale(0.3900)"><title>Reservoir</title></use>
+    <use href="#star" transform="translate(1284.8 1539.2) scale(0.3900)"><title>Beaconsfield</title></use>
+    <use href="#star" transform="translate(1835.1 1530.4) scale(0.3900)"><title>Ruggles</title></use>
+    <use href="#star" transform="translate(85.5 1515.3) scale(0.3900)"><title>Riverside</title></use>
+    <use href="#star" transform="translate(1003.7 1477) scale(0.3900)"><title>Boston College</title></use>
+    <use href="#star" transform="translate(1610.8 1453.7) scale(0.3900)"><title>Longwood</title></use>
+    <use href="#star" transform="translate(1885.6 1447.9) scale(0.3900)"><title>Massachusetts Avenue</title></use>
+    <use href="#star" transform="translate(2177 1440.2) scale(0.3900)"><title>Broadway</title></use>
+    <use href="#star" transform="translate(1672.1 1400.4) scale(0.3900)"><title>Fenway</title></use>
+    <use href="#star" transform="translate(1912.7 1397.9) scale(0.3900)"><title>Prudential</title></use>
+    <use href="#star" transform="translate(1976.5 1372.2) scale(0.3900)"><title>Back Bay</title></use>
+    <use href="#star" transform="translate(1846.4 1364.5) scale(0.3900)"><title>Hynes Convention Center</title></use>
+    <use href="#star" transform="translate(2102.6 1338.9) scale(0.3900)"><title>Tufts Medical Center</title></use>
+    <use href="#star" transform="translate(2028.1 1306.6) scale(0.3900)"><title>Arlington</title></use>
+    <use href="#star" transform="translate(2195.3 1301.2) scale(0.3900)"><title>South Station</title></use>
+    <use href="#star" transform="translate(2105.2 1293.9) scale(0.3900)"><title>Boylston</title></use>
+    <use href="#star" transform="translate(2233.6 1193) scale(0.3900)"><title>Aquarium</title></use>
+    <use href="#star" transform="translate(2030.8 1173.2) scale(0.3900)"><title>Charles/MGH</title></use>
+    <use href="#star" transform="translate(2122.6 1170.3) scale(0.3900)"><title>Bowdoin</title></use>
+    <use href="#star" transform="translate(1864.7 1154.2) scale(0.3900)"><title>Kendall/MIT</title></use>
+    <use href="#star" transform="translate(1676.4 1111.1) scale(0.3900)"><title>Central</title></use>
+    <use href="#star" transform="translate(2062.4 1094) scale(0.3900)"><title>Science Park/West End</title></use>
+    <use href="#star" transform="translate(2362.9 1058.4) scale(0.3900)"><title>Maverick</title></use>
+    <use href="#star" transform="translate(1514.6 997.7) scale(0.3900)"><title>Harvard</title></use>
+    <use href="#star" transform="translate(2042.4 993.8) scale(0.3900)"><title>Community College</title></use>
+    <use href="#star" transform="translate(2460.4 984.2) scale(0.3900)"><title>Airport</title></use>
+    <use href="#star" transform="translate(1773 940.1) scale(0.3900)"><title>Union Square</title></use>
+    <use href="#star" transform="translate(1859.8 909.7) scale(0.3900)"><title>East Somerville</title></use>
+    <use href="#star" transform="translate(2540.7 906.7) scale(0.3900)"><title>Wood Island</title></use>
+    <use href="#star" transform="translate(1962.7 844.7) scale(0.3900)"><title>Sullivan Square</title></use>
+    <use href="#star" transform="translate(2734.2 802.3) scale(0.3900)"><title>Orient Heights</title></use>
+    <use href="#star" transform="translate(1751.5 787.8) scale(0.3900)"><title>Gilman Square</title></use>
+    <use href="#star" transform="translate(1512.5 781.1) scale(0.3900)"><title>Porter</title></use>
+    <use href="#star" transform="translate(2815.4 749.8) scale(0.3900)"><title>Suffolk Downs</title></use>
+    <use href="#star" transform="translate(1959.8 717.4) scale(0.3900)"><title>Assembly</title></use>
+    <use href="#star" transform="translate(1648.7 705) scale(0.3900)"><title>Magoun Square</title></use>
+    <use href="#star" transform="translate(1276.1 674) scale(0.3900)"><title>Alewife</title></use>
+    <use href="#star" transform="translate(1484 661) scale(0.3900)"><title>Davis</title></use>
+    <use href="#star" transform="translate(2866.6 648.4) scale(0.3900)"><title>Beachmont</title></use>
+    <use href="#star" transform="translate(1599.5 615.6) scale(0.3900)"><title>Ball Square</title></use>
+    <use href="#star" transform="translate(1961.6 579.7) scale(0.3900)"><title>Wellington</title></use>
+    <use href="#star" transform="translate(2864 500) scale(0.3900)"><title>Revere Beach</title></use>
+    <use href="#star" transform="translate(1535 499.1) scale(0.3900)"><title>Medford/Tufts</title></use>
+    <use href="#star" transform="translate(2873.4 419.6) scale(0.3900)"><title>Wonderland</title></use>
+    <use href="#star" transform="translate(1993.1 230.3) scale(0.3900)"><title>Malden Center</title></use>
+    <use href="#star" transform="translate(2025.2 85.5) scale(0.3900)"><title>Oak Grove</title></use>
+    <use href="#star" transform="translate(2218.6 1748.6) scale(0.5400)"><title>JFK/UMass</title></use>
+    <use href="#star" transform="translate(1761.2 1341.8) scale(0.5400)"><title>Kenmore</title></use>
+    <use href="#star" transform="translate(1950.6 1327) scale(0.5400)"><title>Copley</title></use>
+    <use href="#star" transform="translate(2122.8 1240.7) scale(0.5400)"><title>Downtown Crossing</title></use>
+    <use href="#star" transform="translate(2153.9 1191.9) scale(0.5400)"><title>Government Center</title></use>
+    <use href="#star" transform="translate(2155.1 1138.9) scale(0.5400)"><title>Haymarket</title></use>
+    <use href="#star" transform="translate(2123 1102.1) scale(0.5400)"><title>North Station</title></use>
+    <use href="#star" transform="translate(1959.6 1015.9) scale(0.5400)"><title>Lechmere</title></use>
+  </g>
+</svg>

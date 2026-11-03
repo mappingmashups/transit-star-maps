@@ -119,6 +119,12 @@ def svg(stations, segments, cfg, variant: str = "black") -> str:
     stations, segments = declutter(
         stations, segments, st["min_star_spacing_in"] * dpi, math.dist(p0, p1) / 1000
     )
+    if st["line_style"] == "straight":
+        # Constellation-chart style: a straight stroke from star to star.
+        segments = [
+            {**seg, "geometry": LineString([seg["geometry"].coords[0], seg["geometry"].coords[-1]])}
+            for seg in segments
+        ]
     line_w = st["line_width_in"] * dpi
     gap = st["gap_in"] * dpi
     sizes = {0: st["minor_star_size_in"] * dpi, 1: st["star_size_in"] * dpi, 2: st["large_star_size_in"] * dpi}
