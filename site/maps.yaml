@@ -1,0 +1,35 @@
+# Maps shown on the website, in display order. After editing, run
+#   .venv/bin/python scripts/build_site.py
+# which copies each map's SVG into docs/ and rebuilds docs/index.html.
+#
+#   city:   a config name from cities/ (the map must already be rendered)
+#   place:  big heading on the card
+#   system: the transit system's name
+#   shop:   product URL (Zazzle etc.); leave empty to hide the button
+#   line_style: optional, "curved" or "straight" to override the city config
+#   note:   optional one-liner shown under the system name
+
+title: Transit Star Maps
+tagline: Subway and light rail networks, drawn as constellations.
+about: >
+  Every star is a station, placed where it really is. Every line follows the
+  track between neighboring stations. Bigger stars mark the places where lines
+  meet or branch. The result is a city's transit system as it might appear in
+  the night sky.
+shop_all: ""  # link to the whole store, e.g. a Zazzle store page
+links:
+  - {label: Instagram, url: ""}
+  - {label: Twitter, url: "https://twitter.com/transitstarmaps"}
+  - {label: Facebook, url: "https://facebook.com/transitstarmaps/"}
+  - {label: GitHub, url: "https://github.com/mappingmashups/transit-star-maps"}
+
+maps:
+  - {city: bart, place: San Francisco Bay Area, system: BART, shop: ""}
+  - {city: dc_metro, place: "Washington, D.C.", system: Metrorail, shop: ""}
+  - {city: boston_mbta, place: Boston, system: MBTA Subway, shop: ""}
+  - {city: montreal, place: Montréal, system: Métro, shop: ""}
+  - {city: bc_skytrain, place: Vancouver, system: SkyTrain, shop: ""}
+  - {city: la_metro, place: Los Angeles, system: Metro Rail, shop: ""}
+  # Rendered but left off the site for now:
+  # - {city: trimet_max, place: Portland, system: MAX Light Rail, shop: ""}
+  # - {city: seattle_link, place: Seattle, system: Link Light Rail, shop: ""}

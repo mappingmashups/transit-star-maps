@@ -69,6 +69,17 @@ make test
 
 The `*_2016` configs rebuild each map from the data the TileMill project used (in `legacy/data/`; Boston and DC had data but were never rendered back then), through a second input path that reads plain station and line files. This path also works for OpenStreetMap extracts or agency shapefiles when there's no usable GTFS feed.
 
+Website
+-------
+
+The site at transitstarmaps.com is a single static page in `docs/`, served by GitHub Pages (Settings → Pages → deploy from the `main` branch, `/docs` folder). It is built from `site/maps.yaml`:
+
+```sh
+.venv/bin/python scripts/build_site.py
+```
+
+To add a map, render it, add a line to `site/maps.yaml` (place, system name, Zazzle link), and rebuild. Edit `site/index.template.html`, not `docs/index.html`. For the custom domain, point transitstarmaps.com's DNS at GitHub Pages; `docs/CNAME` is already set.
+
 Printing on shirts
 ------------------
 
