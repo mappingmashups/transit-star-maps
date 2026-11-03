@@ -1,0 +1,13 @@
+# MBTA subway from the 2016 project's data (github.com/singingwolfboy/MBTA-GeoJSON),
+# never rendered back then. Silver Line (bus) left out.
+name: MBTA Subway (2016 data)
+source:
+  type: linework
+  stations: legacy/data/boston_mbta/mbta_stops.geojson
+  stations_query: lines.astype('str').str.contains('red|orange|blue|green|mattapan')
+  lines: legacy/data/boston_mbta/mbta_routes.geojson
+  lines_query: "name not in ['Washington St.', 'Airport Terminals', 'Boston Marine Industrial Park']"
+style:
+  star_size_in: 0.13
+  large_star_size_in: 0.18
+  min_star_spacing_in: 0.1

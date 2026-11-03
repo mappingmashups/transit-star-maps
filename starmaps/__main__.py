@@ -22,7 +22,7 @@ def _read_layers(paths, query=None):
     paths = [paths] if isinstance(paths, str) else paths
     frames = [gpd.read_file(config.ROOT / p).to_crs(4326) for p in paths]
     gdf = gpd.GeoDataFrame(pd.concat(frames, ignore_index=True), crs=4326)
-    return gdf.query(query) if query else gdf
+    return gdf.query(query, engine="python") if query else gdf
 
 
 def build_network(cfg):

@@ -19,7 +19,8 @@ DEFAULTS = {
     "source": {
         "type": "gtfs",  # gtfs | linework
         "url": None,
-        "sha256": None,  # optional pin; fetch warns if the download differs
+        "sha256": None,
+        "headers": {},  # extra HTTP headers; ${VAR} is read from the environment  # optional pin; fetch warns if the download differs
         # GTFS route_type values to keep: 0 tram/light rail, 1 subway/metro,
         # 2 rail, 12 monorail. Buses (3) are always left out unless listed.
         "route_types": [0, 1, 2, 12],

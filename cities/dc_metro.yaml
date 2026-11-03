@@ -1,0 +1,14 @@
+# Metrorail, including Silver Line phase 2 to Ashburn and Potomac Yard.
+# WMATA's feed needs a free API key from https://developer.wmata.com:
+#   export WMATA_API_KEY=...
+name: Metrorail
+source:
+  type: gtfs
+  url: https://api.wmata.com/gtfs/rail-gtfs-static.zip
+  headers:
+    api_key: ${WMATA_API_KEY}
+  route_types: [1]
+style:
+  star_size_in: 0.14
+  large_star_size_in: 0.19
+  min_star_spacing_in: 0.13

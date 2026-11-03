@@ -10,6 +10,7 @@ from __future__ import annotations
 import datetime as dt
 import hashlib
 import json
+import os
 import shutil
 import urllib.request
 import zipfile
@@ -46,7 +47,15 @@ def fetch(cfg: dict, refresh: bool = False) -> Path | None:
     dest.parent.mkdir(parents=True, exist_ok=True)
     tmp = dest.with_suffix(".part")
     print(f"[{cfg['id']}] downloading {src['url']}")
-    req = urllib.request.Request(src["url"], headers={"User-Agent": USER_AGENT})
+    headers = {"User-Agent": USER_AGENT}
+    for key, value in (src.get("headers") or {}).items():
+        # Values like ${WMATA_API_KEY} come from the environment, so keys stay
+        # out of the repo.
+        expanded = os.path.expandvars(str(value))
+        if "$" in expanded:
+            raise SystemExit(f"[{cfg['id']}] set the environment variable in {value!r} for header {key}")
+        headers[key] = expanded
+    req = urllib.request.Request(src["url"], headers=headers)
     with urllib.request.urlopen(req, timeout=300) as resp, tmp.open("wb") as out:
         shutil.copyfileobj(resp, out)
     try:

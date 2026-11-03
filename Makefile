@@ -1,6 +1,6 @@
 PY ?= .venv/bin/python
-CITIES := bart la_metro trimet_max bc_skytrain toronto montreal
-LEGACY := $(addsuffix _2016,$(CITIES))
+CITIES := bart la_metro trimet_max bc_skytrain toronto montreal seattle_link boston_mbta dc_metro
+LEGACY := $(addsuffix _2016,bart la_metro trimet_max bc_skytrain toronto montreal boston_mbta dc_metro)
 
 .PHONY: all legacy compare test $(CITIES) $(LEGACY)
 

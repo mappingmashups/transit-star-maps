@@ -1,0 +1,12 @@
+# The T: Red (with the Mattapan trolley), Orange, Blue and Green lines,
+# including the Green Line Extension. The Silver Line (bus) and commuter rail
+# stay out.
+name: MBTA Subway
+source:
+  type: gtfs
+  url: https://cdn.mbta.com/MBTA_GTFS.zip
+  route_types: [0, 1]
+style:
+  star_size_in: 0.13
+  large_star_size_in: 0.18
+  min_star_spacing_in: 0.1
