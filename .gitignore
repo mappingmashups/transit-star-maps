@@ -1,1 +1,5 @@
-layers/
+# Downloaded source data (rebuilt by `python -m starmaps fetch`)
+/data/
+.venv/
+__pycache__/
+.pytest_cache/

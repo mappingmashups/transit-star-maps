@@ -1,0 +1,7 @@
+# STM Métro (green, orange, yellow, blue lines). The REM is in a separate
+# feed; add it as a second source later if we want it on the map.
+name: Métro de Montréal
+source:
+  type: gtfs
+  url: https://www.stm.info/sites/default/files/gtfs/gtfs_stm.zip
+  route_types: [1]

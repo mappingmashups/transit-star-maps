@@ -1,0 +1,221 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="3000" height="3195" viewBox="0 0 3000 3195">
+  <title>Métro de Montréal (2016 data)</title>
+  <defs>
+    <path id="star" d="M100,39.332c0-3.332-2.636-6.029-5.935-6.169c0.004-0.012,0.004-0.024,0.009-0.035H65.461L55.863,4.341 c-0.004,0-0.009,0.001-0.014,0.001C55.058,1.833,52.738,0,49.967,0c-2.938,0-5.384,2.048-6.023,4.789 c-0.007-0.001-0.015,0-0.021-0.002l-9.45,28.341H6.336c-0.048-0.001-0.092-0.014-0.139-0.014C2.773,33.113,0,35.888,0,39.31 c0,1.884,0.857,3.55,2.185,4.687c-0.007,0.01-0.011,0.021-0.019,0.031L26.24,62.535l-8.961,28.683 c-0.364,0.789-0.582,1.659-0.582,2.587c0,3.422,2.775,6.195,6.198,6.195c1.405,0,2.687-0.484,3.727-1.272 c0.011,0.01,0.025,0.017,0.036,0.026L50.027,80.84l22.536,17.317C73.688,99.294,75.245,100,76.97,100 c3.424,0,6.198-2.773,6.198-6.195c0-0.748-0.154-1.456-0.397-2.121c0.016-0.002,0.029-0.01,0.045-0.012l-9.077-29.016l23.718-18.332 c-0.002-0.001-0.005-0.003-0.007-0.005C98.988,43.192,100,41.386,100,39.332z"/>
+    <mask id="gaps" maskUnits="userSpaceOnUse" x="0" y="0" width="3000" height="3195">
+      <rect width="3000" height="3195" fill="#fff"/>
+      <g fill="#000" stroke="#000" stroke-linejoin="round">
+    <use href="#star" transform="translate(1728.1 3064.9) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1873.2 2966.9) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2029.9 2852.3) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2173.1 2803.6) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2241.4 2733.6) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2252.7 2573.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1726.4 2514) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1965.4 2448.9) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2207.3 2424.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1502.8 2400.1) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2107.3 2214.3) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1969.3 2200.1) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1318.6 2148.2) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1249.2 2107) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2179.4 2103) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1038.3 2096.7) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2061 2087.5) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1449.9 2061.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2239 2029.3) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(916.5 1989.1) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2128 1983.7) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2294.5 1954.4) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1531.1 1924.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2176.8 1914) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2341.5 1874.2) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2221.5 1835) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(759.3 1823.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1602.7 1793.6) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2270.6 1777.5) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2712.3 1746.4) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(613.1 1707) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2224.8 1623.7) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2377.3 1605.9) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1570.1 1595) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1445.9 1533.1) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2436.6 1516.2) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2037.9 1503.2) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2869.5 1497.5) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1934.3 1438.1) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1436.4 1389.6) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1812.8 1370.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2442.9 1338.3) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1714.3 1295.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1498.3 1293.1) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2418.4 1164.7) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1378 1134.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1235.5 1078) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1667.5 1065.4) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2461.6 1061.7) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(999.6 983) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1746.4 939) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2455.9 916.7) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(825.5 911) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(79.5 834.5) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1779 805) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(631.8 804.1) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(246.9 787) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2516.5 776.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2520.1 625.3) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2523.2 469.8) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2577.6 345.3) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2630.6 214) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2687.1 79.5) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(2051.1 2329.8) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(1378 2275.3) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(2379.2 1785.2) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(2315.5 1680) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(1580.6 1206.9) scale(0.6900)" stroke-width="30.43"/>
+      </g>
+    </mask>
+  </defs>
+  <rect width="3000" height="3195" fill="#000000"/>
+  <g mask="url(#gaps)" fill="none" stroke="#d3d3d3" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M2542 802.3 L2560 758.8 L2567.8 738.3 L2571.3 726.4 L2572.7 718.2 L2571.9 713.8 L2569.7 707 L2566.1 697.7 L2559.6 682.5 L2545.6 650.8"/>
+    <path d="M2542 802.3 L2481.4 942.2"/>
+    <path d="M2737.8 1771.9 L2700.6 1804.2 L2682.9 1819.3 L2672.1 1828.1 L2664.2 1834.2 L2659.1 1837.4 L2654.1 1840.3 L2649 1842.8 L2644 1845 L2639 1846.8 L2632 1848.3 L2623.1 1849.5 L2612.2 1850.3 L2599.3 1850.9 L2587.6 1850.9 L2576.9 1850.4 L2567.4 1849.3 L2559 1847.7 L2549.2 1845 L2538 1841.2 L2525.3 1836.4 L2511.1 1830.6 L2497.7 1824.4 L2484.9 1817.9 L2472.9 1811.1 L2461.5 1804 L2451 1800.4 L2441.5 1800.1 L2431 1804.9 L2413.7 1819.7"/>
+    <path d="M2737.8 1771.9 L2817.1 1697.2 L2852.9 1662.8 L2871.6 1644 L2882 1632.3 L2884.1 1627.8 L2885.8 1623.6 L2887.1 1619.9 L2888 1616.6 L2888.5 1613.6 L2889.2 1606 L2890.1 1593.7 L2891.7 1571.5 L2895 1523"/>
+    <path d="M2462.1 1541.7 L2402.8 1631.4"/>
+    <path d="M2462.1 1541.7 L2492.1 1496 L2505.9 1474.2 L2513.3 1461.1 L2517.8 1451.7 L2519.4 1445.9 L2520.4 1440.1 L2521.1 1434.4 L2521.3 1428.9 L2521 1423.3 L2520 1417.8 L2518.3 1412.1 L2515.9 1406.4 L2512.8 1400.6 L2507.9 1394.5 L2501.4 1388.1 L2490.7 1379.6 L2468.4 1363.8"/>
+    <path d="M2402.8 1631.4 L2350 1714.5"/>
+    <path d="M1475.4 2087.3 L1451 2147.3 L1438.9 2181.2 L1431.1 2209 L1423.5 2244.6 L1412.5 2309.8"/>
+    <path d="M1412.5 2309.8 L1419.1 2270.5 L1421.8 2252.5 L1422.9 2242.6 L1422.9 2236.5 L1422.1 2234.3 L1420.5 2231.7 L1418.3 2228.7 L1415.4 2225.4 L1411.7 2221.7 L1405.1 2216.3 L1395.6 2209.2 L1379.1 2197.6 L1344.1 2173.7"/>
+    <path d="M1412.5 2309.8 L1419.2 2329.8 L1423 2340 L1425.9 2346.9 L1428.8 2352.8 L1431.7 2357.7 L1439.6 2365.2 L1452.6 2375.2 L1476.4 2391.6 L1528.3 2425.6"/>
+    <path d="M1628.2 1819.1 L1634.5 1801.3 L1637.4 1790.4 L1638.9 1780.6 L1639.8 1769.7 L1640.2 1757.9 L1640.2 1747.8 L1640.1 1739.5 L1639.7 1732.9 L1639 1728 L1637.1 1719.7 L1633.8 1707.9 L1629.3 1692.6 L1623.4 1673.8 L1617.9 1658.2 L1612.6 1645.6 L1606.3 1634.7 L1595.6 1620.5"/>
+    <path d="M1471.4 1558.6 L1461.2 1552.1 L1456 1548.3 L1452.3 1545.3 L1449.1 1542.1 L1446.3 1538.9 L1443.6 1534.7 L1441 1529.7 L1438.6 1523.8 L1436.3 1516.9 L1434.6 1510.3 L1433.5 1504 L1433.1 1497.8 L1433.3 1491.9 L1435.2 1483.2 L1438.9 1471.7 L1446 1453.3 L1461.9 1415.1"/>
+    <path d="M1471.4 1558.6 L1595.6 1620.5"/>
+    <path d="M1461.9 1415.1 L1467 1401.8 L1472.6 1391.4 L1480.4 1379.3 L1494.1 1359.6 L1523.8 1318.6"/>
+    <path d="M1523.8 1318.6 L1615.1 1241.4"/>
+    <path d="M1693 1090.9 L1771.9 964.5"/>
+    <path d="M1693 1090.9 L1657.5 1148 L1640.8 1176.5 L1631.1 1195.3 L1623.4 1213.9 L1615.1 1241.4"/>
+    <path d="M1771.9 964.5 L1778.2 954.8 L1781.5 949.1 L1783.8 943.9 L1785.8 938.3 L1787.6 932.3 L1788.7 924.2 L1788.9 914 L1788.3 901.7 L1786.9 887.3 L1787.2 874.4 L1788.9 862.8 L1793.5 850.3 L1804.5 830.5"/>
+    <path d="M1475.4 2087.3 L1556.6 1950.3"/>
+    <path d="M1628.2 1819.1 L1605.7 1854.7 L1594.6 1873.5 L1587.3 1887.2 L1581.3 1899.9 L1576.6 1911.6 L1572.3 1921.7 L1568.4 1930.2 L1563.9 1938.4 L1556.6 1950.3"/>
+    <path d="M2468.4 1363.8 L2443.7 1348.2 L2432.1 1340.2 L2425.5 1334.6 L2421.1 1329.6 L2418.8 1325.4 L2416.8 1321.1 L2415.1 1316.9 L2413.8 1312.7 L2412.7 1308.5 L2412 1302.8 L2411.5 1295.5 L2411.3 1286.8 L2411.3 1276.5 L2413.4 1264.3 L2417.5 1250.3 L2425.6 1230 L2443.9 1190.2"/>
+    <path d="M2443.9 1190.2 L2487.1 1087.2"/>
+    <path d="M2487.1 1087.2 L2490.8 1071 L2491.3 1059.4 L2489.8 1046.9 L2486.8 1031.7 L2482.1 1013.8 L2478.9 997.6 L2477.4 983 L2477.8 967.4 L2481.4 942.2"/>
+    <path d="M2055.4 2877.8 L2055 2887.1 L2054 2893.5 L2052.2 2900.1 L2049.6 2907.8 L2046.1 2916.9 L2041.5 2925.4 L2035.6 2933.5 L2028.6 2941.1 L2020.4 2948.3 L2012 2954.8 L2003.5 2960.6 L1994.8 2965.8 L1986 2970.3 L1974.8 2974.6 L1961.1 2978.8 L1940.4 2983.8 L1898.7 2992.4"/>
+    <path d="M2055.4 2877.8 L2057.4 2853.8 L2058.5 2842.5 L2059.5 2836 L2060.6 2831.7 L2061.7 2829.5 L2063.1 2827.6 L2064.7 2825.9 L2066.7 2824.5 L2068.9 2823.4 L2078.5 2823 L2095.4 2823.4 L2127.6 2824.9 L2198.6 2829.1"/>
+    <path d="M1898.7 2992.4 L1887.1 2997.2 L1877.3 3002.9 L1865.3 3011.2 L1849.8 3022.5 L1830.9 3036.8 L1813.7 3049.6 L1798.1 3060.7 L1781.1 3072.3 L1753.6 3090.4"/>
+    <path d="M2545.6 650.8 L2530.5 607.7 L2524.1 587.1 L2521.2 574.7 L2520.3 565.8 L2521.3 560.2 L2523.7 552.5 L2527.4 542.7 L2534.1 527.1 L2548.7 495.3"/>
+    <path d="M2548.7 495.3 L2603.1 370.8"/>
+    <path d="M2603.1 370.8 L2656.1 239.5"/>
+    <path d="M2656.1 239.5 L2712.6 105"/>
+    <path d="M2086.5 2113 L2153.5 2009.2"/>
+    <path d="M2086.5 2113 L1994.8 2225.6"/>
+    <path d="M2278.2 2599.3 L2266.9 2759.1"/>
+    <path d="M2266.9 2759.1 L2263.8 2775.2 L2262.1 2783.5 L2260.5 2789.3 L2258.8 2794.6 L2257 2799.2 L2254.9 2803.7 L2252.4 2808.2 L2249.6 2812.5 L2246.5 2816.8 L2243.3 2820.3 L2240.1 2823.3 L2236.8 2825.5 L2233.5 2827.1 L2229.1 2828.3 L2223.7 2829.1 L2215.4 2829.3 L2198.6 2829.1"/>
+    <path d="M2085.6 2364.3 L2067.6 2383.9 L2058.1 2395.3 L2051.2 2405 L2045 2415.1 L2039.3 2425.7 L2034.5 2434.3 L2030.5 2440.9 L2027.4 2445.5 L2025.2 2448.1 L2021.6 2451.5 L2016.6 2455.6 L2008.3 2461.8 L1990.9 2474.4"/>
+    <path d="M2085.6 2364.3 L2103.7 2350.1 L2112 2343.2 L2116.6 2338.8 L2119.4 2335.4 L2120.5 2332.9 L2121.8 2329 L2123.3 2323.5 L2125 2316.7 L2126.9 2308.3 L2128.3 2299.5 L2129.2 2290.3 L2129.6 2280.7 L2129.6 2270.7 L2129.8 2262.1 L2130.2 2255.1 L2131 2248.7 L2132.8 2239.8"/>
+    <path d="M2413.7 1819.7 L2367 1899.7"/>
+    <path d="M2413.7 1819.7 L2425.5 1798.6 L2430.7 1788.6 L2433.2 1782.7 L2434.2 1778.5 L2434 1775.9 L2428.5 1770.5 L2417.9 1762 L2397 1746.9 L2350 1714.5"/>
+    <path d="M638.6 1732.5 L784.8 1849.3"/>
+    <path d="M784.8 1849.3 L787.1 1856.8 L794.1 1865.6 L806.7 1878.4 L825.1 1895.9 L849.3 1918.1 L870.9 1938.7 L890.1 1957.7 L910.2 1979 L942 2014.6"/>
+    <path d="M942 2014.6 L1063.8 2122.2"/>
+    <path d="M2153.5 2009.2 L2202.3 1939.5"/>
+    <path d="M1063.8 2122.2 L1079.1 2131.8 L1086.9 2136.4 L1092.2 2139.1 L1096.9 2141 L1100.9 2142.2 L1105.3 2143.1 L1110.2 2143.8 L1115.5 2144.2 L1121.4 2144.4 L1130.2 2143.3 L1142.1 2141 L1157 2137.5 L1175 2132.7 L1190.6 2128.8 L1203.8 2125.8 L1214.7 2123.7 L1223.2 2122.4 L1231.9 2122.2 L1241 2123.1 L1252.9 2125.8 L1274.7 2132.5"/>
+    <path d="M1274.7 2132.5 L1344.1 2173.7"/>
+    <path d="M1528.3 2425.6 L1543.5 2432.9 L1560.1 2442.4 L1583.1 2456.6 L1614.2 2476.1 L1653.5 2501.1 L1684.5 2520.2 L1707.2 2533.5 L1721.8 2541 L1728.2 2542.7 L1733.8 2543.5 L1738.7 2543.7 L1743.9 2542.7 L1751.9 2539.5"/>
+    <path d="M1751.9 2539.5 L1783 2517.4 L1798.8 2505.3 L1809.5 2495.9 L1818.8 2486.8 L1826.4 2477.9 L1833.7 2470.3 L1840.6 2463.9 L1847.2 2458.8 L1853.4 2455 L1860.1 2452.4 L1867.3 2451 L1875 2450.8 L1883.3 2451.8 L1892.1 2454.2 L1901.4 2458 L1911.3 2463.3 L1921.7 2470 L1931.4 2475.2 L1940.4 2478.8 L1948.6 2481 L1956.1 2481.7 L1963.2 2481.6 L1969.9 2480.9 L1977.7 2479 L1990.9 2474.4"/>
+    <path d="M2132.8 2239.8 L2149.1 2205.9 L2159 2187.6 L2168.1 2173.7 L2180.6 2157.2 L2204.9 2128.5"/>
+    <path d="M2204.9 2128.5 L2264.5 2054.8"/>
+    <path d="M2264.5 2054.8 L2320 1979.9"/>
+    <path d="M2320 1979.9 L2367 1899.7"/>
+    <path d="M2202.3 1939.5 L2221.5 1908.5 L2230.7 1893.2 L2236.3 1883.3 L2241.1 1873.9 L2247 1860.5"/>
+    <path d="M2250.3 1649.2 L2063.4 1528.7"/>
+    <path d="M2250.3 1649.2 L2350 1714.5"/>
+    <path d="M2063.4 1528.7 L1959.8 1463.6"/>
+    <path d="M1959.8 1463.6 L1910.2 1437.9 L1886 1425.1 L1870.9 1416.7 L1857 1408.5 L1838.3 1396.3"/>
+    <path d="M1838.3 1396.3 L1739.8 1321.3"/>
+    <path d="M1739.8 1321.3 L1615.1 1241.4"/>
+    <path d="M1615.1 1241.4 L1580.8 1230.9 L1556.1 1222.3 L1529.7 1212.1 L1488.2 1195.4 L1403.5 1160.3"/>
+    <path d="M1403.5 1160.3 L1261 1103.5"/>
+    <path d="M1261 1103.5 L1025.1 1008.5"/>
+    <path d="M1025.1 1008.5 L851 936.5"/>
+    <path d="M2247 1860.5 L2251.5 1849.2 L2254 1843.6 L2256 1839.8 L2258 1836.7 L2260 1834.2 L2263.6 1830.6 L2268.8 1826 L2277.5 1818.5 L2296.1 1803"/>
+    <path d="M851 936.5 L799.7 915 L773.2 903.3 L754.6 894.1 L738.1 885.1 L723.8 876.3 L710.2 867.6 L697.4 859 L682.6 848.4 L657.3 829.6"/>
+    <path d="M657.3 829.6 L639.6 816.9 L629.8 811 L621.9 807.5 L614 805.1 L606.1 803.8 L582.4 803 L542.9 802.8 L487.7 803.1 L416.8 803.9 L361.2 805 L320.9 806.4 L293.7 808.4 L272.4 812.5"/>
+    <path d="M105 860 L156.7 840.5 L184.4 831.1 L205.3 825.1 L229.9 819.8 L272.4 812.5"/>
+    <path d="M2350 1714.5 L2296.1 1803"/>
+    <path d="M2085.6 2364.3 L2067.3 2380.4 L2058.5 2387.9 L2053.1 2392.1 L2049 2395 L2046.3 2396.4 L2043.5 2397.5 L2040.5 2398.2 L2037.5 2398.6 L2034.3 2398.6 L2030.8 2398.4 L2026.9 2397.8 L2022.7 2396.9 L2018.2 2395.7 L2013.3 2394 L2007.9 2391.7 L2002.1 2388.9 L1995.9 2385.6 L1988.7 2381.2 L1980.4 2375.9 L1971.1 2369.5 L1960.8 2362.2 L1952.6 2355.4 L1946.6 2349.2 L1942.8 2343.7 L1941.1 2338.7 L1940.4 2332.5 L1940.5 2325.1 L1941.5 2316.5 L1943.4 2306.7 L1947.9 2295.2 L1954.9 2282 L1967.5 2262.9 L1994.8 2225.6"/>
+    <path d="M2278.2 2599.3 L2278.7 2552.7 L2278.5 2530.6 L2277.7 2517.5 L2276.4 2508.3 L2274.5 2502.9 L2270.7 2496.1 L2264.9 2487.8 L2254.7 2475.3 L2232.8 2450.3"/>
+    <path d="M2085.6 2364.3 L2103.9 2352.6 L2113.1 2347.7 L2119.2 2345.8 L2124.2 2345.5 L2128.3 2346.9 L2132.1 2348.5 L2135.6 2350.4 L2138.8 2352.6 L2141.8 2355.1 L2147.3 2360.8 L2155.1 2369.8 L2165.4 2382.2 L2178.1 2397.8 L2189.8 2411.3 L2200.7 2422.8 L2212.8 2433.9 L2232.8 2450.3"/>
+  </g>
+  <g fill="#ffffaa">
+    <use href="#star" transform="translate(1728.1 3064.9) scale(0.5100)"><title>Angrignon</title></use>
+    <use href="#star" transform="translate(1873.2 2966.9) scale(0.5100)"><title>Monk</title></use>
+    <use href="#star" transform="translate(2029.9 2852.3) scale(0.5100)"><title>Jolicoeur</title></use>
+    <use href="#star" transform="translate(2173.1 2803.6) scale(0.5100)"><title>Verdun</title></use>
+    <use href="#star" transform="translate(2241.4 2733.6) scale(0.5100)"><title>De l&#x27;Église</title></use>
+    <use href="#star" transform="translate(2252.7 2573.8) scale(0.5100)"><title>LaSalle</title></use>
+    <use href="#star" transform="translate(1726.4 2514) scale(0.5100)"><title>Vendôme</title></use>
+    <use href="#star" transform="translate(1965.4 2448.9) scale(0.5100)"><title>Place Saint-Henri</title></use>
+    <use href="#star" transform="translate(2207.3 2424.8) scale(0.5100)"><title>Charlevoix</title></use>
+    <use href="#star" transform="translate(1502.8 2400.1) scale(0.5100)"><title>Villa-Maria</title></use>
+    <use href="#star" transform="translate(2107.3 2214.3) scale(0.5100)"><title>Georges-Vanier</title></use>
+    <use href="#star" transform="translate(1969.3 2200.1) scale(0.5100)"><title>Atwater</title></use>
+    <use href="#star" transform="translate(1318.6 2148.2) scale(0.5100)"><title>Côte-Sainte-Catherine</title></use>
+    <use href="#star" transform="translate(1249.2 2107) scale(0.5100)"><title>Plamondon</title></use>
+    <use href="#star" transform="translate(2179.4 2103) scale(0.5100)"><title>Lucien L&#x27;Allier</title></use>
+    <use href="#star" transform="translate(1038.3 2096.7) scale(0.5100)"><title>Namur</title></use>
+    <use href="#star" transform="translate(2061 2087.5) scale(0.5100)"><title>Guy-Concordia</title></use>
+    <use href="#star" transform="translate(1449.9 2061.8) scale(0.5100)"><title>Côte-des-Neiges</title></use>
+    <use href="#star" transform="translate(2239 2029.3) scale(0.5100)"><title>Bonaventure</title></use>
+    <use href="#star" transform="translate(916.5 1989.1) scale(0.5100)"><title>De La Savane</title></use>
+    <use href="#star" transform="translate(2128 1983.7) scale(0.5100)"><title>Peel</title></use>
+    <use href="#star" transform="translate(2294.5 1954.4) scale(0.5100)"><title>Square-Victoria-OACI</title></use>
+    <use href="#star" transform="translate(1531.1 1924.8) scale(0.5100)"><title>Université-de-Montréal</title></use>
+    <use href="#star" transform="translate(2176.8 1914) scale(0.5100)"><title>McGill</title></use>
+    <use href="#star" transform="translate(2341.5 1874.2) scale(0.5100)"><title>Place d’Armes</title></use>
+    <use href="#star" transform="translate(2221.5 1835) scale(0.5100)"><title>Place-des-Arts</title></use>
+    <use href="#star" transform="translate(759.3 1823.8) scale(0.5100)"><title>Du Collège</title></use>
+    <use href="#star" transform="translate(1602.7 1793.6) scale(0.5100)"><title>Édouard-Montpetit</title></use>
+    <use href="#star" transform="translate(2270.6 1777.5) scale(0.5100)"><title>Saint-Laurent</title></use>
+    <use href="#star" transform="translate(2712.3 1746.4) scale(0.5100)"><title>Jean-Drapeau</title></use>
+    <use href="#star" transform="translate(613.1 1707) scale(0.5100)"><title>Côte-Vertu</title></use>
+    <use href="#star" transform="translate(2224.8 1623.7) scale(0.5100)"><title>Sherbrooke</title></use>
+    <use href="#star" transform="translate(2377.3 1605.9) scale(0.5100)"><title>Beaudry</title></use>
+    <use href="#star" transform="translate(1570.1 1595) scale(0.5100)"><title>Outremont</title></use>
+    <use href="#star" transform="translate(1445.9 1533.1) scale(0.5100)"><title>Acadie</title></use>
+    <use href="#star" transform="translate(2436.6 1516.2) scale(0.5100)"><title>Papineau</title></use>
+    <use href="#star" transform="translate(2037.9 1503.2) scale(0.5100)"><title>Mont-Royal</title></use>
+    <use href="#star" transform="translate(2869.5 1497.5) scale(0.5100)"><title>Longueuil–Université-de-Sherbrooke</title></use>
+    <use href="#star" transform="translate(1934.3 1438.1) scale(0.5100)"><title>Laurier</title></use>
+    <use href="#star" transform="translate(1436.4 1389.6) scale(0.5100)"><title>Parc</title></use>
+    <use href="#star" transform="translate(1812.8 1370.8) scale(0.5100)"><title>Rosemont</title></use>
+    <use href="#star" transform="translate(2442.9 1338.3) scale(0.5100)"><title>Frontenac</title></use>
+    <use href="#star" transform="translate(1714.3 1295.8) scale(0.5100)"><title>Beaubien</title></use>
+    <use href="#star" transform="translate(1498.3 1293.1) scale(0.5100)"><title>De Castelnau</title></use>
+    <use href="#star" transform="translate(2418.4 1164.7) scale(0.5100)"><title>Préfontaine</title></use>
+    <use href="#star" transform="translate(1378 1134.8) scale(0.5100)"><title>Jarry</title></use>
+    <use href="#star" transform="translate(1235.5 1078) scale(0.5100)"><title>Crémazie</title></use>
+    <use href="#star" transform="translate(1667.5 1065.4) scale(0.5100)"><title>Fabre</title></use>
+    <use href="#star" transform="translate(2461.6 1061.7) scale(0.5100)"><title>Joliette</title></use>
+    <use href="#star" transform="translate(999.6 983) scale(0.5100)"><title>Sauvé</title></use>
+    <use href="#star" transform="translate(1746.4 939) scale(0.5100)"><title>D’Iberville</title></use>
+    <use href="#star" transform="translate(2455.9 916.7) scale(0.5100)"><title>Pie IX</title></use>
+    <use href="#star" transform="translate(825.5 911) scale(0.5100)"><title>Henri-Bourassa</title></use>
+    <use href="#star" transform="translate(79.5 834.5) scale(0.5100)"><title>Montmorency</title></use>
+    <use href="#star" transform="translate(1779 805) scale(0.5100)"><title>Saint-Michel</title></use>
+    <use href="#star" transform="translate(631.8 804.1) scale(0.5100)"><title>Cartier</title></use>
+    <use href="#star" transform="translate(246.9 787) scale(0.5100)"><title>De la Concorde</title></use>
+    <use href="#star" transform="translate(2516.5 776.8) scale(0.5100)"><title>Viau</title></use>
+    <use href="#star" transform="translate(2520.1 625.3) scale(0.5100)"><title>Assomption</title></use>
+    <use href="#star" transform="translate(2523.2 469.8) scale(0.5100)"><title>Cadillac</title></use>
+    <use href="#star" transform="translate(2577.6 345.3) scale(0.5100)"><title>Langelier</title></use>
+    <use href="#star" transform="translate(2630.6 214) scale(0.5100)"><title>Radisson</title></use>
+    <use href="#star" transform="translate(2687.1 79.5) scale(0.5100)"><title>Honoré-Beaugrand</title></use>
+    <use href="#star" transform="translate(2051.1 2329.8) scale(0.6900)"><title>Lionel-Groulx</title></use>
+    <use href="#star" transform="translate(1378 2275.3) scale(0.6900)"><title>Snowdon</title></use>
+    <use href="#star" transform="translate(2379.2 1785.2) scale(0.6900)"><title>Champ-de-Mars</title></use>
+    <use href="#star" transform="translate(2315.5 1680) scale(0.6900)"><title>Berri-UQAM</title></use>
+    <use href="#star" transform="translate(1580.6 1206.9) scale(0.6900)"><title>Jean-Talon</title></use>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+# Metro Rail only (A, B, C, D, E, K). The G and J busways are in Metro's bus
+# feed, so they stay out.
+name: LA Metro Rail
+source:
+  type: gtfs
+  url: https://gitlab.com/LACMTA/gtfs_rail/-/raw/master/gtfs_rail.zip
+stations:
+  rank:
+    # The A Line's one-way loop through downtown Long Beach starts here; it
+    # isn't a transfer.
+    Anaheim Street Station: 1
+style:
+  star_size_in: 0.12
+  large_star_size_in: 0.17
+  min_star_spacing_in: 0.1

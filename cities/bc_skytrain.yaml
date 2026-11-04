@@ -1,0 +1,7 @@
+# Expo, Millennium and Canada lines; West Coast Express and SeaBus left out.
+name: SkyTrain
+source:
+  type: gtfs
+  url: https://gtfs-static.translink.ca/gtfs/google_transit.zip
+  route_types: [1, 2]
+  include_routes: ["Expo", "Millennium", "Canada Line"]

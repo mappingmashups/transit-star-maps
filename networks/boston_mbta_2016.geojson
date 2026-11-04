@@ -1,0 +1,5123 @@
+{
+ "type": "FeatureCollection",
+ "name": "MBTA Subway (2016 data)",
+ "projection": {
+  "lon_0": -71.1217,
+  "lat_0": 42.3228
+ },
+ "source": {
+  "stations": "legacy/data/boston_mbta/mbta_stops.geojson",
+  "lines": "legacy/data/boston_mbta/mbta_routes.geojson"
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s0",
+    "to": "s117",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.105682,
+      42.333722
+     ],
+     [
+      -71.10437,
+      42.334268
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s0",
+    "to": "s37",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.105682,
+      42.333722
+     ],
+     [
+      -71.109678,
+      42.333106
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s1",
+    "to": "s112",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.149072,
+      42.334912
+     ],
+     [
+      -71.16529,
+      42.326601
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s1",
+    "to": "s81",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.149072,
+      42.334912
+     ],
+     [
+      -71.140849,
+      42.335805
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s10",
+    "to": "s39",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.124702,
+      42.351833
+     ],
+     [
+      -71.131197,
+      42.350118
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s10",
+    "to": "s58",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.124702,
+      42.351833
+     ],
+     [
+      -71.121547,
+      42.35169
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s102",
+    "to": "s110",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.217023,
+      42.318744
+     ],
+     [
+      -71.205966,
+      42.321539
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s103",
+    "to": "s109",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.997678,
+      42.390232
+     ],
+     [
+      -71.004941,
+      42.386769
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s104",
+    "to": "s118",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.110215,
+      42.341042
+     ],
+     [
+      -71.104156,
+      42.345347
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s11",
+    "to": "s43",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.057421,
+      42.359065
+     ],
+     [
+      -71.060465,
+      42.355453
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s11",
+    "to": "s52",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.057421,
+      42.359065
+     ],
+     [
+      -71.059195,
+      42.359868
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s11",
+    "to": "s55",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.057421,
+      42.359065
+     ],
+     [
+      -71.051807,
+      42.359634
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s110",
+    "to": "s119",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.205966,
+      42.321539
+     ],
+     [
+      -71.194444,
+      42.328354
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s112",
+    "to": "s119",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.16529,
+      42.326601
+     ],
+     [
+      -71.194444,
+      42.328354
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s12",
+    "to": "s115",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.095555,
+      42.331388
+     ],
+     [
+      -71.063229,
+      42.284219
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s12",
+    "to": "s45",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.063229,
+      42.284219
+     ],
+     [
+      -71.065912,
+      42.293712
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s13",
+    "to": "s105",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.24434,
+      42.333336
+     ],
+     [
+      -71.252327,
+      42.337394
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s14",
+    "to": "s111",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.073249,
+      42.269965
+     ],
+     [
+      -71.067612,
+      42.270093
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s14",
+    "to": "s80",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.067612,
+      42.270093
+     ],
+     [
+      -71.062453,
+      42.272253
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s15",
+    "to": "s48",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.142449,
+      42.395261
+     ],
+     [
+      -71.113833,
+      42.350759
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s15",
+    "to": "s64",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.142449,
+      42.395261
+     ],
+     [
+      -71.122527,
+      42.39662
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s16",
+    "to": "s66",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.113377,
+      42.300023
+     ],
+     [
+      -71.107125,
+      42.310359
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s17",
+    "to": "s27",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.111406,
+      42.32996
+     ],
+     [
+      -71.11068,
+      42.32868
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s17",
+    "to": "s90",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.111406,
+      42.32996
+     ],
+     [
+      -71.112004,
+      42.331686
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s18",
+    "to": "s76",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.100235,
+      42.349126
+     ],
+     [
+      -71.103866,
+      42.349569
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s18",
+    "to": "s99",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.100235,
+      42.349126
+     ],
+     [
+      -71.095128,
+      42.348783
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s19",
+    "to": "s54",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.142593,
+      42.343886
+     ],
+     [
+      -71.146162,
+      42.341483
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s19",
+    "to": "s82",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.142593,
+      42.343886
+     ],
+     [
+      -71.140224,
+      42.348366
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s2",
+    "to": "s12",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.063229,
+      42.284219
+     ],
+     [
+      -71.060327,
+      42.279712
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s2",
+    "to": "s80",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.060327,
+      42.279712
+     ],
+     [
+      -71.062453,
+      42.272253
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s20",
+    "to": "s65",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.029307,
+      42.274957
+     ],
+     [
+      -71.052545,
+      42.321065
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s20",
+    "to": "s67",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.029307,
+      42.274957
+     ],
+     [
+      -71.019721,
+      42.265972
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s21",
+    "to": "s36",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.135387,
+      42.339258
+     ],
+     [
+      -71.138705,
+      42.338469
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s21",
+    "to": "s59",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.135387,
+      42.339258
+     ],
+     [
+      -71.131304,
+      42.339474
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s22",
+    "to": "s70",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.076593,
+      42.370774
+     ],
+     [
+      -71.067666,
+      42.366664
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s23",
+    "to": "s30",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.07052,
+      42.372593
+     ],
+     [
+      -71.077056,
+      42.383434
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s23",
+    "to": "s72",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.07052,
+      42.372593
+     ],
+     [
+      -71.061251,
+      42.365551
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s24",
+    "to": "s52",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.057922,
+      42.363222
+     ],
+     [
+      -71.059195,
+      42.359868
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s24",
+    "to": "s72",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.057922,
+      42.363222
+     ],
+     [
+      -71.061251,
+      42.365551
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s25",
+    "to": "s50",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.166124,
+      42.339902
+     ],
+     [
+      -71.157622,
+      42.339455
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s26",
+    "to": "s56",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.129327,
+      42.339683
+     ],
+     [
+      -71.125182,
+      42.340946
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s26",
+    "to": "s59",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.129327,
+      42.339683
+     ],
+     [
+      -71.131304,
+      42.339474
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s28",
+    "to": "s52",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.062129,
+      42.361457
+     ],
+     [
+      -71.059195,
+      42.359868
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s29",
+    "to": "s36",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.141549,
+      42.337847
+     ],
+     [
+      -71.138705,
+      42.338469
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s29",
+    "to": "s88",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.141549,
+      42.337847
+     ],
+     [
+      -71.145357,
+      42.337049
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s3",
+    "to": "s109",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.004941,
+      42.386769
+     ],
+     [
+      -71.022476,
+      42.379759
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s3",
+    "to": "s62",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.022476,
+      42.379759
+     ],
+     [
+      -71.029485,
+      42.374542
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s30",
+    "to": "s100",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.076969,
+      42.405202
+     ],
+     [
+      -71.077056,
+      42.383434
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s31",
+    "to": "s106",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.061516,
+      42.299992
+     ],
+     [
+      -71.053175,
+      42.311099
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s31",
+    "to": "s65",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.053175,
+      42.311099
+     ],
+     [
+      -71.052545,
+      42.321065
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s32",
+    "to": "s42",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.113885,
+      42.344125
+     ],
+     [
+      -71.111129,
+      42.34487
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s33",
+    "to": "s115",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.095555,
+      42.331388
+     ],
+     [
+      -71.090437,
+      42.335742
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s33",
+    "to": "s73",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.090437,
+      42.335742
+     ],
+     [
+      -71.083072,
+      42.341762
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s34",
+    "to": "s104",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.110215,
+      42.341042
+     ],
+     [
+      -71.118129,
+      42.332002
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s34",
+    "to": "s51",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.118129,
+      42.332002
+     ],
+     [
+      -71.127031,
+      42.331133
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s37",
+    "to": "s90",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.109678,
+      42.333106
+     ],
+     [
+      -71.112004,
+      42.331686
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s38",
+    "to": "s50",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.152961,
+      42.338145
+     ],
+     [
+      -71.157622,
+      42.339455
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s38",
+    "to": "s86",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.152961,
+      42.338145
+     ],
+     [
+      -71.150459,
+      42.340839
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s39",
+    "to": "s94",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.131197,
+      42.350118
+     ],
+     [
+      -71.134551,
+      42.348542
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s4",
+    "to": "s32",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.113885,
+      42.344125
+     ],
+     [
+      -71.116759,
+      42.343366
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s4",
+    "to": "s84",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.116759,
+      42.343366
+     ],
+     [
+      -71.120888,
+      42.342226
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s40",
+    "to": "s101",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.99256,
+      42.408389
+     ],
+     [
+      -70.990986,
+      42.413963
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s41",
+    "to": "s74",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.06461,
+      42.352337
+     ],
+     [
+      -71.070817,
+      42.351847
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s41",
+    "to": "s79",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.06461,
+      42.352337
+     ],
+     [
+      -71.062202,
+      42.356332
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s42",
+    "to": "s85",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.111129,
+      42.34487
+     ],
+     [
+      -71.107385,
+      42.345947
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s43",
+    "to": "s107",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.055428,
+      42.352573
+     ],
+     [
+      -71.060465,
+      42.355453
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s43",
+    "to": "s79",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.060465,
+      42.355453
+     ],
+     [
+      -71.062202,
+      42.356332
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s43",
+    "to": "s93",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.060465,
+      42.355453
+     ],
+     [
+      -71.062759,
+      42.352529
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s45",
+    "to": "s106",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.061516,
+      42.299992
+     ],
+     [
+      -71.065912,
+      42.293712
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s46",
+    "to": "s55",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.038422,
+      42.368343
+     ],
+     [
+      -71.051807,
+      42.359634
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s46",
+    "to": "s62",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.038422,
+      42.368343
+     ],
+     [
+      -71.029485,
+      42.374542
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s47",
+    "to": "s63",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.070888,
+      42.437134
+     ],
+     [
+      -71.074144,
+      42.426678
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s48",
+    "to": "s61",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.113833,
+      42.350759
+     ],
+     [
+      -71.106804,
+      42.34989
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s48",
+    "to": "s85",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.113833,
+      42.350759
+     ],
+     [
+      -71.107385,
+      42.345947
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s48",
+    "to": "s92",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.113833,
+      42.350759
+     ],
+     [
+      -71.118783,
+      42.351345
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s49",
+    "to": "s89",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.092021,
+      42.267586
+     ],
+     [
+      -71.087436,
+      42.267622
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s5",
+    "to": "s73",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.075724,
+      42.347314
+     ],
+     [
+      -71.083072,
+      42.341762
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s5",
+    "to": "s95",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.075724,
+      42.347314
+     ],
+     [
+      -71.063877,
+      42.349504
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s51",
+    "to": "s81",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.127031,
+      42.331133
+     ],
+     [
+      -71.140849,
+      42.335805
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s52",
+    "to": "s79",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.059195,
+      42.359868
+     ],
+     [
+      -71.062202,
+      42.356332
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s53",
+    "to": "s116",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.103474,
+      42.365326
+     ],
+     [
+      -71.118917,
+      42.373936
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s53",
+    "to": "s98",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.118917,
+      42.373936
+     ],
+     [
+      -71.119159,
+      42.388353
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s54",
+    "to": "s86",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.146162,
+      42.341483
+     ],
+     [
+      -71.150459,
+      42.340839
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s56",
+    "to": "s84",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.125182,
+      42.340946
+     ],
+     [
+      -71.120888,
+      42.342226
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s57",
+    "to": "s115",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.095555,
+      42.331388
+     ],
+     [
+      -71.100052,
+      42.335898
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s57",
+    "to": "s117",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.10437,
+      42.334268
+     ],
+     [
+      -71.100052,
+      42.335898
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s57",
+    "to": "s118",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.104156,
+      42.345347
+     ],
+     [
+      -71.100052,
+      42.335898
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s57",
+    "to": "s97",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.100052,
+      42.335898
+     ],
+     [
+      -71.095125,
+      42.337732
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s58",
+    "to": "s92",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.121547,
+      42.35169
+     ],
+     [
+      -71.118783,
+      42.351345
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s6",
+    "to": "s79",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.070493,
+      42.361279
+     ],
+     [
+      -71.062202,
+      42.356332
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s6",
+    "to": "s96",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.070493,
+      42.361279
+     ],
+     [
+      -71.086058,
+      42.362427
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s60",
+    "to": "s69",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.081401,
+      42.345503
+     ],
+     [
+      -71.077463,
+      42.349991
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s60",
+    "to": "s77",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.081401,
+      42.345503
+     ],
+     [
+      -71.084529,
+      42.342919
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s61",
+    "to": "s76",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.106804,
+      42.34989
+     ],
+     [
+      -71.103866,
+      42.349569
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s63",
+    "to": "s100",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.076969,
+      42.405202
+     ],
+     [
+      -71.074144,
+      42.426678
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s64",
+    "to": "s98",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.122527,
+      42.39662
+     ],
+     [
+      -71.119159,
+      42.388353
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s65",
+    "to": "s87",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.052545,
+      42.321065
+     ],
+     [
+      -71.056979,
+      42.329752
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s66",
+    "to": "s108",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.104021,
+      42.317251
+     ],
+     [
+      -71.107125,
+      42.310359
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s67",
+    "to": "s75",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.019721,
+      42.265972
+     ],
+     [
+      -71.004798,
+      42.250879
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s68",
+    "to": "s77",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.088717,
+      42.340307
+     ],
+     [
+      -71.084529,
+      42.342919
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s68",
+    "to": "s97",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.088717,
+      42.340307
+     ],
+     [
+      -71.095125,
+      42.337732
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s69",
+    "to": "s74",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.077463,
+      42.349991
+     ],
+     [
+      -71.070817,
+      42.351847
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s69",
+    "to": "s83",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.077463,
+      42.349991
+     ],
+     [
+      -71.088148,
+      42.347953
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s7",
+    "to": "s107",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.055428,
+      42.352573
+     ],
+     [
+      -71.057117,
+      42.342793
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s7",
+    "to": "s87",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.057117,
+      42.342793
+     ],
+     [
+      -71.056979,
+      42.329752
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s70",
+    "to": "s72",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.067666,
+      42.366664
+     ],
+     [
+      -71.061251,
+      42.365551
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s71",
+    "to": "s111",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.073249,
+      42.269965
+     ],
+     [
+      -71.083025,
+      42.267772
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s71",
+    "to": "s89",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.083025,
+      42.267772
+     ],
+     [
+      -71.087436,
+      42.267622
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s78",
+    "to": "s101",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.99256,
+      42.408389
+     ],
+     [
+      -70.992363,
+      42.39745
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s78",
+    "to": "s103",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -70.997678,
+      42.390232
+     ],
+     [
+      -70.992363,
+      42.39745
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s8",
+    "to": "s35",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.00085,
+      42.20855
+     ],
+     [
+      -71.007034,
+      42.232848
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s8",
+    "to": "s75",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.004798,
+      42.250879
+     ],
+     [
+      -71.007034,
+      42.232848
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s82",
+    "to": "s114",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.137888,
+      42.348468
+     ],
+     [
+      -71.140224,
+      42.348366
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s83",
+    "to": "s99",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.088148,
+      42.347953
+     ],
+     [
+      -71.095128,
+      42.348783
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s85",
+    "to": "s118",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.104156,
+      42.345347
+     ],
+     [
+      -71.107385,
+      42.345947
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s88",
+    "to": "s113",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.149406,
+      42.336197
+     ],
+     [
+      -71.145357,
+      42.337049
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s9",
+    "to": "s108",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.104021,
+      42.317251
+     ],
+     [
+      -71.099787,
+      42.322893
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s9",
+    "to": "s115",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.095555,
+      42.331388
+     ],
+     [
+      -71.099787,
+      42.322893
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s91",
+    "to": "s102",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.217023,
+      42.318744
+     ],
+     [
+      -71.230712,
+      42.325981
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s91",
+    "to": "s105",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.24434,
+      42.333336
+     ],
+     [
+      -71.230712,
+      42.325981
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s93",
+    "to": "s95",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.062759,
+      42.352529
+     ],
+     [
+      -71.063877,
+      42.349504
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s94",
+    "to": "s114",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.137888,
+      42.348468
+     ],
+     [
+      -71.134551,
+      42.348542
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s96",
+    "to": "s116",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.103474,
+      42.365326
+     ],
+     [
+      -71.086058,
+      42.362427
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s99",
+    "to": "s118",
+    "routes": []
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -71.104156,
+      42.345347
+     ],
+     [
+      -71.095128,
+      42.348783
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s0",
+    "name": "Fenwood Rd",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s0"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.105682,
+     42.333722
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s1",
+    "name": "Reservoir",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s1"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.149072,
+     42.334912
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s10",
+    "name": "Packards Corner",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s10"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.124702,
+     42.351833
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s100",
+    "name": "Wellington",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s100"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.076969,
+     42.405202
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s101",
+    "name": "Revere Beach",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s101"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.99256,
+     42.408389
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s102",
+    "name": "Eliot",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s102"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.217023,
+     42.318744
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s103",
+    "name": "Suffolk Downs",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s103"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.997678,
+     42.390232
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s104",
+    "name": "Longwood Station",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s104"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.110215,
+     42.341042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s105",
+    "name": "Woodland",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s105"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.24434,
+     42.333336
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s106",
+    "name": "Fields Corner",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s106"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.061516,
+     42.299992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s107",
+    "name": "South Station",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s107"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.055428,
+     42.352573
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s108",
+    "name": "Stony Brook",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s108"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.104021,
+     42.317251
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s109",
+    "name": "Orient Heights",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s109"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.004941,
+     42.386769
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s11",
+    "name": "State",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s11",
+     "s44"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.057421,
+     42.359065
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s110",
+    "name": "Newton Highlands",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s110"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.205966,
+     42.321539
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s111",
+    "name": "Central Ave",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s111"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.073249,
+     42.269965
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s112",
+    "name": "Chestnut Hill Station D",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s112"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.16529,
+     42.326601
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s113",
+    "name": "Cleveland Circle",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s113"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.149406,
+     42.336197
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s114",
+    "name": "Allston St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s114"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.137888,
+     42.348468
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s115",
+    "name": "Roxbury Crossing",
+    "rank": 2,
+    "degree": 4,
+    "members": [
+     "s115"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.095555,
+     42.331388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s116",
+    "name": "Central Square",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s116"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.103474,
+     42.365326
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s117",
+    "name": "Brigham Circle",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s117"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.10437,
+     42.334268
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s118",
+    "name": "Fenway",
+    "rank": 2,
+    "degree": 4,
+    "members": [
+     "s118"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.104156,
+     42.345347
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s119",
+    "name": "Newton Centre",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s119"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.194444,
+     42.328354
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s12",
+    "name": "Ashmont",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s12"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.063229,
+     42.284219
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s13",
+    "name": "Riverside",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s13"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.252327,
+     42.337394
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s14",
+    "name": "Milton",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s14"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.067612,
+     42.270093
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s15",
+    "name": "Alewife",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s15"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.142449,
+     42.395261
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s16",
+    "name": "Forest Hills",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s16"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.113377,
+     42.300023
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s17",
+    "name": "Back of the Hill",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s17"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.111406,
+     42.32996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s18",
+    "name": "Blandford St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s18"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.100235,
+     42.349126
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s19",
+    "name": "Washington St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s19"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.142593,
+     42.343886
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s2",
+    "name": "Cedar Grove",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s2"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.060327,
+     42.279712
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s20",
+    "name": "North Quincy",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s20"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.029307,
+     42.274957
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s21",
+    "name": "Washington Sq",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s21"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.135387,
+     42.339258
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s22",
+    "name": "Lechmere",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s22"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.076593,
+     42.370774
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s23",
+    "name": "Community College",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s23"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.07052,
+     42.372593
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s24",
+    "name": "Haymarket",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s24"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.057922,
+     42.363222
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s25",
+    "name": "Boston College",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s25"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.166124,
+     42.339902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s26",
+    "name": "Brandon Hall",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s26"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.129327,
+     42.339683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s27",
+    "name": "Heath St",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s27"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.11068,
+     42.32868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s28",
+    "name": "Bowdoin",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s28"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.062129,
+     42.361457
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s29",
+    "name": "Dean Rd",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s29"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.141549,
+     42.337847
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s3",
+    "name": "Wood Island",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s3"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.022476,
+     42.379759
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s30",
+    "name": "Sullivan Square",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s30"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.077056,
+     42.383434
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s31",
+    "name": "Savin Hill",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s31"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.053175,
+     42.311099
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s32",
+    "name": "Kent St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s32"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.113885,
+     42.344125
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s33",
+    "name": "Ruggles",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s33"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.090437,
+     42.335742
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s34",
+    "name": "Brookline Village",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s34"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.118129,
+     42.332002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s35",
+    "name": "Braintree",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s35"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.00085,
+     42.20855
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s36",
+    "name": "Tappan St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s36"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.138705,
+     42.338469
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s37",
+    "name": "Mission Park",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s37"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.109678,
+     42.333106
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s38",
+    "name": "Chestnut Hill Ave",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s38"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.152961,
+     42.338145
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s39",
+    "name": "Harvard Ave",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s39"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.131197,
+     42.350118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s4",
+    "name": "Saint Paul St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s4"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.116759,
+     42.343366
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s40",
+    "name": "Wonderland",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s40"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.990986,
+     42.413963
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s41",
+    "name": "Boylston",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s41"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.06461,
+     42.352337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s42",
+    "name": "Hawes St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s42"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.111129,
+     42.34487
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s43",
+    "name": "Downtown Crossing",
+    "rank": 2,
+    "degree": 4,
+    "members": [
+     "s43"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.060465,
+     42.355453
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s45",
+    "name": "Shawmut",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s45"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.065912,
+     42.293712
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s46",
+    "name": "Maverick",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s46"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.038422,
+     42.368343
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s47",
+    "name": "Oak Grove",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s47"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.070888,
+     42.437134
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s48",
+    "name": "Boston University West",
+    "rank": 2,
+    "degree": 4,
+    "members": [
+     "s48"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.113833,
+     42.350759
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s49",
+    "name": "Mattapan",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s49"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.092021,
+     42.267586
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s5",
+    "name": "Back Bay",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s5"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.075724,
+     42.347314
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s50",
+    "name": "South St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s50"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.157622,
+     42.339455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s51",
+    "name": "Brookline Hills",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s51"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.127031,
+     42.331133
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s52",
+    "name": "Government Center",
+    "rank": 2,
+    "degree": 4,
+    "members": [
+     "s52"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.059195,
+     42.359868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s53",
+    "name": "Harvard",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s53"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.118917,
+     42.373936
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s54",
+    "name": "Sutherland Rd",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s54"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.146162,
+     42.341483
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s55",
+    "name": "Aquarium",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s55"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.051807,
+     42.359634
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s56",
+    "name": "Summit Ave",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s56"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.125182,
+     42.340946
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s57",
+    "name": "Longwood Medical Area",
+    "rank": 2,
+    "degree": 4,
+    "members": [
+     "s57"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.100052,
+     42.335898
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s58",
+    "name": "Babcock St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s58"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.121547,
+     42.35169
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s59",
+    "name": "Fairbanks St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s59"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.131304,
+     42.339474
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s6",
+    "name": "Charles/MGH",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s6"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.070493,
+     42.361279
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s60",
+    "name": "Prudential",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s60"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.081401,
+     42.345503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s61",
+    "name": "Boston University Central",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s61"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.106804,
+     42.34989
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s62",
+    "name": "Airport",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s62"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.029485,
+     42.374542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s63",
+    "name": "Malden",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s63"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.074144,
+     42.426678
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s64",
+    "name": "Davis",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s64"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.122527,
+     42.39662
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s65",
+    "name": "JFK/UMass",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s65"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.052545,
+     42.321065
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s66",
+    "name": "Green Street",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s66"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.107125,
+     42.310359
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s67",
+    "name": "Wollaston",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s67"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.019721,
+     42.265972
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s68",
+    "name": "Northeastern",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s68"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.088717,
+     42.340307
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s69",
+    "name": "Copley",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s69"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.077463,
+     42.349991
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s7",
+    "name": "Broadway",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s7"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.057117,
+     42.342793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s70",
+    "name": "Science Park",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s70"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.067666,
+     42.366664
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s71",
+    "name": "Valley Rd",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s71"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.083025,
+     42.267772
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s72",
+    "name": "North Station",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s72"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.061251,
+     42.365551
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s73",
+    "name": "Massachusetts Ave.",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s73"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.083072,
+     42.341762
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s74",
+    "name": "Arlington",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s74"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.070817,
+     42.351847
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s75",
+    "name": "Quincy Center",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s75"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.004798,
+     42.250879
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s76",
+    "name": "Boston University East",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s76"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.103866,
+     42.349569
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s77",
+    "name": "Symphony",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s77"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.084529,
+     42.342919
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s78",
+    "name": "Beachmont",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s78"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.992363,
+     42.39745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s79",
+    "name": "Park St",
+    "rank": 2,
+    "degree": 4,
+    "members": [
+     "s79"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.062202,
+     42.356332
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s8",
+    "name": "Quincy Adams",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s8"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.007034,
+     42.232848
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s80",
+    "name": "Butler",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s80"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.062453,
+     42.272253
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s81",
+    "name": "Beaconsfield",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s81"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.140849,
+     42.335805
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s82",
+    "name": "Warren St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s82"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.140224,
+     42.348366
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s83",
+    "name": "Hynes Convention Center",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s83"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.088148,
+     42.347953
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s84",
+    "name": "Coolidge Corner",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s84"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.120888,
+     42.342226
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s85",
+    "name": "Saint Mary's St",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s85"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.107385,
+     42.345947
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s86",
+    "name": "Chiswick Rd",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s86"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.150459,
+     42.340839
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s87",
+    "name": "Andrew",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s87"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.056979,
+     42.329752
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s88",
+    "name": "Englewood Ave",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s88"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.145357,
+     42.337049
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s89",
+    "name": "Capen St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s89"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.087436,
+     42.267622
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s9",
+    "name": "Jackson Square",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s9"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.099787,
+     42.322893
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s90",
+    "name": "Riverway",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s90"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.112004,
+     42.331686
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s91",
+    "name": "Waban",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s91"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.230712,
+     42.325981
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s92",
+    "name": "Pleasant St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s92"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.118783,
+     42.351345
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s93",
+    "name": "Chinatown",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s93"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.062759,
+     42.352529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s94",
+    "name": "Griggs St",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s94"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.134551,
+     42.348542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s95",
+    "name": "Tufts Medical Center",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s95"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.063877,
+     42.349504
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s96",
+    "name": "Kendall/MIT",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s96"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.086058,
+     42.362427
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s97",
+    "name": "Museum of Fine Arts",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s97"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.095125,
+     42.337732
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s98",
+    "name": "Porter Square",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s98"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.119159,
+     42.388353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s99",
+    "name": "Kenmore",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s99"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.095128,
+     42.348783
+    ]
+   }
+  }
+ ]
+}

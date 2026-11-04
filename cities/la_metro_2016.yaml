@@ -1,0 +1,18 @@
+# LA Metro Rail from the 2016 TileMill project's data (Metro GIS shapefiles,
+# 2012-14), for comparing with legacy/outputs/la_metro_v0.1.png.
+name: LA Metro Rail (2016 data)
+source:
+  type: linework
+  station_name_field: STATION
+  stations:
+    - legacy/data/la_metro/RailStations1212/BlueLineSta0412.shp
+    - legacy/data/la_metro/RailStations1212/ExpoLineSta0512.shp
+    - legacy/data/la_metro/RailStations1212/GoldLineSta0412.shp
+    - legacy/data/la_metro/RailStations1212/GreenLineSta0412.shp
+    - legacy/data/la_metro/RailStations1212/RPLinesSta0412.shp
+  lines:
+    - legacy/data/la_metro/RailLines0614/BlueLine0412.shp
+    - legacy/data/la_metro/RailLines0614/ExpoLine0512.shp
+    - legacy/data/la_metro/RailLines0614/GoldLineApr12.shp
+    - legacy/data/la_metro/RailLines0614/GreenLine0412.shp
+    - legacy/data/la_metro/RailLines0614/RPLines0414.shp

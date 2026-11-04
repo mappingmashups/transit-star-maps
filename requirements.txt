@@ -1,0 +1,10 @@
+geopandas==1.2.0
+shapely==2.2.0
+pyproj==3.8.0
+pyogrio==0.13.0
+pandas==3.1.0
+numpy==2.5.4
+networkx==3.7
+PyYAML==6.0.3
+playwright==1.64.1
+pytest
