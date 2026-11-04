@@ -1,0 +1,57 @@
+# Link light rail at full Sound Transit 3 build-out: Everett to Tacoma,
+# Ballard and West Seattle, South Kirkland to Issaquah, and the T Line to
+# Tacoma Community College.
+#
+# Stations: cities/seattle_st3/stations.csv, from scripts/seattle_st3_stations.py
+# (GTFS for stations in service, Sound Transit's planning layer for Seattle,
+# geocoded street locations elsewhere). Line orders follow Sound Transit's
+# 2026 future service map as listed on Wikipedia. Provisional (unfunded)
+# stations SR 99/Airport Road and Lakemont are left out. The May 2026 plan
+# update funds Ballard Link only as far as Seattle Center; this map shows
+# the full line.
+#
+# Assumptions to check: the 4 Line runs South Kirkland–Wilburton–Bellevue
+# Downtown–East Main–South Bellevue before its new track to Issaquah, and the
+# second downtown tunnel's Westlake and International District stations are
+# drawn as one star with today's stations.
+name: Link Light Rail (ST3 build-out)
+source:
+  type: routes
+  stations: cities/seattle_st3/stations.csv
+  station_name_field: name
+  routes:
+    - name: 1 Line
+      stations: [Ballard, Interbay, Smith Cove, Seattle Center, South Lake Union, Denny,
+                 Westlake, Midtown, "Int'l Dist/Chinatown", Stadium, SODO, Beacon Hill,
+                 Mount Baker, Columbia City, Graham Street, Othello, Rainier Beach,
+                 Boeing Access Road, "Tukwila Int'l Blvd", SeaTac/Airport, Angle Lake,
+                 Kent Des Moines, Star Lake, Federal Way Downtown, South Federal Way, Fife,
+                 Portland Ave, Tacoma Dome]
+    - name: 2 Line
+      stations: [Mariner, Ash Way, West Alderwood, Lynnwood City Center, Mountlake Terrace,
+                 Shoreline North/185th, Shoreline South/148th, Pinehurst, Northgate, Roosevelt,
+                 U District, Univ of Washington, Capitol Hill, Westlake, Symphony,
+                 Pioneer Square, "Int'l Dist/Chinatown", Judkins Park, Mercer Island,
+                 South Bellevue, East Main, Bellevue Downtown, Wilburton, Spring District,
+                 BelRed, Overlake Village, Redmond Technology, Marymoor Village,
+                 Downtown Redmond]
+    - name: 3 Line
+      stations: [Everett Station, SR 526/Evergreen, SW Everett Industrial Center, Mariner,
+                 Ash Way, West Alderwood, Lynnwood City Center, Mountlake Terrace,
+                 Shoreline North/185th, Shoreline South/148th, Pinehurst, Northgate, Roosevelt,
+                 U District, Univ of Washington, Capitol Hill, Westlake, Symphony,
+                 Pioneer Square, "Int'l Dist/Chinatown", Stadium, SODO, Delridge,
+                 Alaska Junction]
+    - name: 4 Line
+      stations: [South Kirkland, Wilburton, Bellevue Downtown, East Main, South Bellevue,
+                 Richards Road, Eastgate, Central Issaquah]
+    - name: T Line
+      stations: [Tacoma Dome, S 25th, Union Station, Convention Center, Theater District,
+                 Old City Hall, S 4th, Stadium District, Tacoma General, 6th Ave,
+                 Hilltop District, St Joseph, Ainsworth, Sprague, Union, Stevens, Pearl,
+                 Tacoma Community College]
+stations:
+  merge_distance_m: 150
+style:
+  line_style: straight
+  min_star_spacing_in: 0.12

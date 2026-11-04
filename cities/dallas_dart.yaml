@@ -1,0 +1,9 @@
+# DART light rail: Red, Blue, Green and Orange lines. The Dallas Streetcar
+# (also light-rail route_type) and the Silver Line and TRE commuter rail
+# are left out.
+name: DART Light Rail
+source:
+  type: gtfs
+  url: https://www.dart.org/transitdata/latest/google_transit.zip
+  route_types: [0]
+  include_routes: ["^(Red|Blue|Green|Orange)", "(RED|BLUE|GREEN|ORANGE)"]

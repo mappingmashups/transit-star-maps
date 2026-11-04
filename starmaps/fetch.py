@@ -55,7 +55,10 @@ def fetch(cfg: dict, refresh: bool = False) -> Path | None:
         if "$" in expanded:
             raise SystemExit(f"[{cfg['id']}] set the environment variable in {value!r} for header {key}")
         headers[key] = expanded
-    req = urllib.request.Request(src["url"], headers=headers)
+    url = os.path.expandvars(src["url"])
+    if "$" in url:
+        raise SystemExit(f"[{cfg['id']}] set the environment variable named in source.url")
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=300) as resp, tmp.open("wb") as out:
         shutil.copyfileobj(resp, out)
     try:

@@ -66,6 +66,10 @@ make test
 | `seattle_link` | Sound Transit rail GTFS | Link 1 Line and 2 Line (not the T Line or Sounder) |
 | `boston_mbta` | MBTA GTFS | Red (with Mattapan), Orange, Blue, Green (with the Green Line Extension); no Silver Line |
 | `dc_metro` | WMATA rail GTFS | All six lines. Needs a free API key in `WMATA_API_KEY` |
+| `seattle_st3` | Hand-listed (`cities/seattle_st3/stations.csv`) | Link at full Sound Transit 3 build-out, straight lines; see the config for sources and assumptions |
+| `cahsr` | CA HSR Authority statewide alignment and stations | Phase 1 and Phase 2, with Phase 2 station options chosen in the config |
+| `stockholm` | SL GTFS (Trafiklab) | Tunnelbana. Needs a free API key in `TRAFIKLAB_API_KEY` |
+| `dallas_dart` | DART GTFS | Red, Blue, Green, Orange light rail |
 
 The `*_2016` configs rebuild each map from the data the TileMill project used (in `legacy/data/`; Boston and DC had data but were never rendered back then), through a second input path that reads plain station and line files. This path also works for OpenStreetMap extracts or agency shapefiles when there's no usable GTFS feed.
 

@@ -20,7 +20,15 @@ def _read_layers(paths, query=None):
     import pandas as pd
 
     paths = [paths] if isinstance(paths, str) else paths
-    frames = [gpd.read_file(config.ROOT / p).to_crs(4326) for p in paths]
+    frames = []
+    for p in paths:
+        path = config.ROOT / p
+        if path.suffix.lower() == ".csv":
+            # Point tables with lat/lon columns.
+            df = pd.read_csv(path, dtype={"name": str})
+            frames.append(gpd.GeoDataFrame(df, geometry=gpd.points_from_xy(df["lon"], df["lat"]), crs=4326))
+        else:
+            frames.append(gpd.read_file(path).to_crs(4326))
     gdf = gpd.GeoDataFrame(pd.concat(frames, ignore_index=True), crs=4326)
     return gdf.query(query, engine="python") if query else gdf
 

@@ -1,0 +1,3535 @@
+{
+ "type": "FeatureCollection",
+ "name": "Link Light Rail (ST3 build-out)",
+ "projection": {
+  "lon_0": -122.2915,
+  "lat_0": 47.6072
+ },
+ "source": {
+  "stations": "cities/seattle_st3/stations.csv",
+  "lines": null
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s0",
+    "to": "s1",
+    "routes": [
+     "1 Line",
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.33672,
+      47.611572
+     ],
+     [
+      -122.33602,
+      47.60781
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s0",
+    "to": "s25",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.33672,
+      47.611572
+     ],
+     [
+      -122.320195,
+      47.61906
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s0",
+    "to": "s56",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.33672,
+      47.611572
+     ],
+     [
+      -122.338478,
+      47.619561
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s1",
+    "to": "s2",
+    "routes": [
+     "1 Line",
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.33602,
+      47.60781
+     ],
+     [
+      -122.330353,
+      47.602612
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s10",
+    "to": "s61",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.279391,
+      47.522394
+     ],
+     [
+      -122.28236,
+      47.507299
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s11",
+    "to": "s12",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.287996,
+      47.464031
+     ],
+     [
+      -122.296898,
+      47.445381
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s11",
+    "to": "s61",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.287996,
+      47.464031
+     ],
+     [
+      -122.28236,
+      47.507299
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s12",
+    "to": "s35",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.296898,
+      47.445381
+     ],
+     [
+      -122.297714,
+      47.422703
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s13",
+    "to": "s14",
+    "routes": [
+     "2 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.304508,
+      47.590299
+     ],
+     [
+      -122.233232,
+      47.588198
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s14",
+    "to": "s15",
+    "routes": [
+     "2 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.233232,
+      47.588198
+     ],
+     [
+      -122.190396,
+      47.586556
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s15",
+    "to": "s16",
+    "routes": [
+     "2 Line",
+     "4 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.190396,
+      47.586556
+     ],
+     [
+      -122.191147,
+      47.608188
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s15",
+    "to": "s72",
+    "routes": [
+     "4 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.190396,
+      47.586556
+     ],
+     [
+      -122.167817,
+      47.581936
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s16",
+    "to": "s17",
+    "routes": [
+     "2 Line",
+     "4 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.191147,
+      47.608188
+     ],
+     [
+      -122.192084,
+      47.615223
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s17",
+    "to": "s18",
+    "routes": [
+     "2 Line",
+     "4 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.192084,
+      47.615223
+     ],
+     [
+      -122.183762,
+      47.617967
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s18",
+    "to": "s19",
+    "routes": [
+     "2 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.183762,
+      47.617967
+     ],
+     [
+      -122.178573,
+      47.623773
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s18",
+    "to": "s71",
+    "routes": [
+     "4 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.183762,
+      47.617967
+     ],
+     [
+      -122.199212,
+      47.644629
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s19",
+    "to": "s20",
+    "routes": [
+     "2 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.178573,
+      47.623773
+     ],
+     [
+      -122.16564,
+      47.624448
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s2",
+    "to": "s3",
+    "routes": [
+     "1 Line",
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.330353,
+      47.602612
+     ],
+     [
+      -122.327992,
+      47.598355
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s20",
+    "to": "s21",
+    "routes": [
+     "2 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.16564,
+      47.624448
+     ],
+     [
+      -122.13892,
+      47.63631
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s21",
+    "to": "s22",
+    "routes": [
+     "2 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.13892,
+      47.63631
+     ],
+     [
+      -122.133628,
+      47.644842
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s22",
+    "to": "s23",
+    "routes": [
+     "2 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.133628,
+      47.644842
+     ],
+     [
+      -122.1098,
+      47.667263
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s23",
+    "to": "s24",
+    "routes": [
+     "2 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.1098,
+      47.667263
+     ],
+     [
+      -122.11848,
+      47.671645
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s25",
+    "to": "s26",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.320195,
+      47.61906
+     ],
+     [
+      -122.303763,
+      47.649815
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s26",
+    "to": "s27",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.303763,
+      47.649815
+     ],
+     [
+      -122.314132,
+      47.660301
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s27",
+    "to": "s28",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.314132,
+      47.660301
+     ],
+     [
+      -122.315976,
+      47.676595
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s28",
+    "to": "s29",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.315976,
+      47.676595
+     ],
+     [
+      -122.32829,
+      47.703028
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s29",
+    "to": "s30",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.32829,
+      47.703028
+     ],
+     [
+      -122.323851,
+      47.724043
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s3",
+    "to": "s13",
+    "routes": [
+     "2 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.304508,
+      47.590299
+     ],
+     [
+      -122.327992,
+      47.598355
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s3",
+    "to": "s4",
+    "routes": [
+     "1 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.327992,
+      47.598355
+     ],
+     [
+      -122.327172,
+      47.591108
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s30",
+    "to": "s31",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.323851,
+      47.724043
+     ],
+     [
+      -122.325227,
+      47.736095
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s31",
+    "to": "s32",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.325227,
+      47.736095
+     ],
+     [
+      -122.322889,
+      47.764067
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s32",
+    "to": "s33",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.322889,
+      47.764067
+     ],
+     [
+      -122.314788,
+      47.785057
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s33",
+    "to": "s34",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.314788,
+      47.785057
+     ],
+     [
+      -122.294779,
+      47.815637
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s34",
+    "to": "s64",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.294779,
+      47.815637
+     ],
+     [
+      -122.26457,
+      47.83149
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s35",
+    "to": "s36",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.297714,
+      47.422703
+     ],
+     [
+      -122.294399,
+      47.389552
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s36",
+    "to": "s37",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.294399,
+      47.389552
+     ],
+     [
+      -122.297391,
+      47.359388
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s37",
+    "to": "s38",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.297391,
+      47.359388
+     ],
+     [
+      -122.303829,
+      47.315903
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s38",
+    "to": "s68",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.303829,
+      47.315903
+     ],
+     [
+      -122.313637,
+      47.286212
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s39",
+    "to": "s40",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.428118,
+      47.239868
+     ],
+     [
+      -122.434202,
+      47.239081
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s39",
+    "to": "s70",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.428118,
+      47.239868
+     ],
+     [
+      -122.411191,
+      47.241575
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s4",
+    "to": "s5",
+    "routes": [
+     "1 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.327172,
+      47.591108
+     ],
+     [
+      -122.32739,
+      47.581074
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s40",
+    "to": "s41",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.434202,
+      47.239081
+     ],
+     [
+      -122.436623,
+      47.244865
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s41",
+    "to": "s42",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.436623,
+      47.244865
+     ],
+     [
+      -122.438552,
+      47.249496
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s42",
+    "to": "s43",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.438552,
+      47.249496
+     ],
+     [
+      -122.439239,
+      47.252534
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s43",
+    "to": "s44",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.439239,
+      47.252534
+     ],
+     [
+      -122.440421,
+      47.257746
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s44",
+    "to": "s45",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.440421,
+      47.257746
+     ],
+     [
+      -122.442723,
+      47.261319
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s45",
+    "to": "s46",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.442723,
+      47.261319
+     ],
+     [
+      -122.448999,
+      47.263869
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s46",
+    "to": "s47",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.448999,
+      47.263869
+     ],
+     [
+      -122.453564,
+      47.260083
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s47",
+    "to": "s48",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.453564,
+      47.260083
+     ],
+     [
+      -122.452848,
+      47.256925
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s48",
+    "to": "s49",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.452848,
+      47.256925
+     ],
+     [
+      -122.451665,
+      47.251758
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s49",
+    "to": "s50",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.451665,
+      47.251758
+     ],
+     [
+      -122.450187,
+      47.24528
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s5",
+    "to": "s58",
+    "routes": [
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.32739,
+      47.581074
+     ],
+     [
+      -122.363869,
+      47.569055
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s5",
+    "to": "s6",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.32739,
+      47.581074
+     ],
+     [
+      -122.311533,
+      47.579328
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s50",
+    "to": "s75",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.450187,
+      47.24528
+     ],
+     [
+      -122.457017,
+      47.243001
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s51",
+    "to": "s52",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.376101,
+      47.668023
+     ],
+     [
+      -122.379827,
+      47.648482
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s52",
+    "to": "s53",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.379827,
+      47.648482
+     ],
+     [
+      -122.37116,
+      47.628783
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s53",
+    "to": "s54",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.37116,
+      47.628783
+     ],
+     [
+      -122.355435,
+      47.623267
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s54",
+    "to": "s55",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.355435,
+      47.623267
+     ],
+     [
+      -122.343174,
+      47.623228
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s55",
+    "to": "s56",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.343174,
+      47.623228
+     ],
+     [
+      -122.338478,
+      47.619561
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s58",
+    "to": "s59",
+    "routes": [
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.363869,
+      47.569055
+     ],
+     [
+      -122.384248,
+      47.561068
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s6",
+    "to": "s7",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.311533,
+      47.579328
+     ],
+     [
+      -122.297679,
+      47.57655
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s62",
+    "to": "s63",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.238821,
+      47.881872
+     ],
+     [
+      -122.260936,
+      47.849806
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s62",
+    "to": "s65",
+    "routes": [
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.238821,
+      47.881872
+     ],
+     [
+      -122.260814,
+      47.931044
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s63",
+    "to": "s64",
+    "routes": [
+     "2 Line",
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.260936,
+      47.849806
+     ],
+     [
+      -122.26457,
+      47.83149
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s65",
+    "to": "s66",
+    "routes": [
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.260814,
+      47.931044
+     ],
+     [
+      -122.227084,
+      47.923098
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s66",
+    "to": "s67",
+    "routes": [
+     "3 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.227084,
+      47.923098
+     ],
+     [
+      -122.197739,
+      47.975514
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s68",
+    "to": "s69",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.313637,
+      47.286212
+     ],
+     [
+      -122.357114,
+      47.238974
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s69",
+    "to": "s70",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.357114,
+      47.238974
+     ],
+     [
+      -122.411191,
+      47.241575
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s7",
+    "to": "s8",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.297679,
+      47.57655
+     ],
+     [
+      -122.292692,
+      47.559733
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s72",
+    "to": "s73",
+    "routes": [
+     "4 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.167817,
+      47.581936
+     ],
+     [
+      -122.151856,
+      47.580759
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s73",
+    "to": "s74",
+    "routes": [
+     "4 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.151856,
+      47.580759
+     ],
+     [
+      -122.061672,
+      47.54186
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s75",
+    "to": "s77",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.457017,
+      47.243001
+     ],
+     [
+      -122.462932,
+      47.242683
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s76",
+    "to": "s77",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.482701,
+      47.242762
+     ],
+     [
+      -122.462932,
+      47.242683
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s76",
+    "to": "s78",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.482701,
+      47.242762
+     ],
+     [
+      -122.494519,
+      47.242837
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s78",
+    "to": "s79",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.494519,
+      47.242837
+     ],
+     [
+      -122.515928,
+      47.242801
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s79",
+    "to": "s80",
+    "routes": [
+     "T Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.515928,
+      47.242801
+     ],
+     [
+      -122.521423,
+      47.247129
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s8",
+    "to": "s60",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.285561,
+      47.546032
+     ],
+     [
+      -122.292692,
+      47.559733
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s9",
+    "to": "s10",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.279391,
+      47.522394
+     ],
+     [
+      -122.281563,
+      47.537987
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "segment",
+    "from": "s9",
+    "to": "s60",
+    "routes": [
+     "1 Line"
+    ]
+   },
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -122.285561,
+      47.546032
+     ],
+     [
+      -122.281563,
+      47.537987
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s0",
+    "name": "Westlake",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s0"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33672,
+     47.611572
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s1",
+    "name": "Symphony",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s1"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.33602,
+     47.60781
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s10",
+    "name": "Rainier Beach",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s10"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.279391,
+     47.522394
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s11",
+    "name": "Tukwila Int'l Blvd",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s11"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.287996,
+     47.464031
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s12",
+    "name": "SeaTac/Airport",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s12"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.296898,
+     47.445381
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s13",
+    "name": "Judkins Park",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s13"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.304508,
+     47.590299
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s14",
+    "name": "Mercer Island",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s14"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.233232,
+     47.588198
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s15",
+    "name": "South Bellevue",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s15"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.190396,
+     47.586556
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s16",
+    "name": "East Main",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s16"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.191147,
+     47.608188
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s17",
+    "name": "Bellevue Downtown",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s17"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.192084,
+     47.615223
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s18",
+    "name": "Wilburton",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s18"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.183762,
+     47.617967
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s19",
+    "name": "Spring District",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s19"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.178573,
+     47.623773
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s2",
+    "name": "Midtown",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s2",
+     "s57"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.330353,
+     47.602612
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s20",
+    "name": "BelRed",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s20"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.16564,
+     47.624448
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s21",
+    "name": "Overlake Village",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s21"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.13892,
+     47.63631
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s22",
+    "name": "Redmond Technology",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s22"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.133628,
+     47.644842
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s23",
+    "name": "Marymoor Village",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s23"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.1098,
+     47.667263
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s24",
+    "name": "Downtown Redmond",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s24"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.11848,
+     47.671645
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s25",
+    "name": "Capitol Hill",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s25"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.320195,
+     47.61906
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s26",
+    "name": "Univ of Washington",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s26"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.303763,
+     47.649815
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s27",
+    "name": "U District",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s27"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.314132,
+     47.660301
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s28",
+    "name": "Roosevelt",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s28"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.315976,
+     47.676595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s29",
+    "name": "Northgate",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s29"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32829,
+     47.703028
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s3",
+    "name": "Int'l Dist/Chinatown",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s3"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.327992,
+     47.598355
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s30",
+    "name": "Pinehurst",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s30"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.323851,
+     47.724043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s31",
+    "name": "Shoreline South/148th",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s31"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.325227,
+     47.736095
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s32",
+    "name": "Shoreline North/185th",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s32"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.322889,
+     47.764067
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s33",
+    "name": "Mountlake Terrace",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s33"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.314788,
+     47.785057
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s34",
+    "name": "Lynnwood City Center",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s34"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.294779,
+     47.815637
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s35",
+    "name": "Angle Lake",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s35"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.297714,
+     47.422703
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s36",
+    "name": "Kent Des Moines",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s36"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.294399,
+     47.389552
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s37",
+    "name": "Star Lake",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s37"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.297391,
+     47.359388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s38",
+    "name": "Federal Way Downtown",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s38"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.303829,
+     47.315903
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s39",
+    "name": "Tacoma Dome",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s39"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.428118,
+     47.239868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s4",
+    "name": "Stadium",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s4"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.327172,
+     47.591108
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s40",
+    "name": "S 25th",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s40"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.434202,
+     47.239081
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s41",
+    "name": "Union Station",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s41"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.436623,
+     47.244865
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s42",
+    "name": "Convention Center",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s42"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.438552,
+     47.249496
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s43",
+    "name": "Theater District",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s43"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.439239,
+     47.252534
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s44",
+    "name": "Old City Hall",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s44"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.440421,
+     47.257746
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s45",
+    "name": "S 4th",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s45"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.442723,
+     47.261319
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s46",
+    "name": "Stadium District",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s46"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.448999,
+     47.263869
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s47",
+    "name": "Tacoma General",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s47"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.453564,
+     47.260083
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s48",
+    "name": "6th Ave",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s48"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.452848,
+     47.256925
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s49",
+    "name": "Hilltop District",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s49"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.451665,
+     47.251758
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s5",
+    "name": "SODO",
+    "rank": 2,
+    "degree": 3,
+    "members": [
+     "s5"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.32739,
+     47.581074
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s50",
+    "name": "St Joseph",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s50"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.450187,
+     47.24528
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s51",
+    "name": "Ballard",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s51"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.376101,
+     47.668023
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s52",
+    "name": "Interbay",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s52"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.379827,
+     47.648482
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s53",
+    "name": "Smith Cove",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s53"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.37116,
+     47.628783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s54",
+    "name": "Seattle Center",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s54"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.355435,
+     47.623267
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s55",
+    "name": "South Lake Union",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s55"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343174,
+     47.623228
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s56",
+    "name": "Denny",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s56"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.338478,
+     47.619561
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s58",
+    "name": "Delridge",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s58"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.363869,
+     47.569055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s59",
+    "name": "Alaska Junction",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s59"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.384248,
+     47.561068
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s6",
+    "name": "Beacon Hill",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s6"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.311533,
+     47.579328
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s60",
+    "name": "Graham Street",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s60"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.285561,
+     47.546032
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s61",
+    "name": "Boeing Access Road",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s61"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.28236,
+     47.507299
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s62",
+    "name": "Mariner",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s62"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.238821,
+     47.881872
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s63",
+    "name": "Ash Way",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s63"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.260936,
+     47.849806
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s64",
+    "name": "West Alderwood",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s64"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.26457,
+     47.83149
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s65",
+    "name": "SW Everett Industrial Center",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s65"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.260814,
+     47.931044
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s66",
+    "name": "SR 526/Evergreen",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s66"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.227084,
+     47.923098
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s67",
+    "name": "Everett Station",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s67"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.197739,
+     47.975514
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s68",
+    "name": "South Federal Way",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s68"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.313637,
+     47.286212
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s69",
+    "name": "Fife",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s69"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.357114,
+     47.238974
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s7",
+    "name": "Mount Baker",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s7"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.297679,
+     47.57655
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s70",
+    "name": "Portland Ave",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s70"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.411191,
+     47.241575
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s71",
+    "name": "South Kirkland",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s71"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.199212,
+     47.644629
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s72",
+    "name": "Richards Road",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s72"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.167817,
+     47.581936
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s73",
+    "name": "Eastgate",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s73"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.151856,
+     47.580759
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s74",
+    "name": "Central Issaquah",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s74"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.061672,
+     47.54186
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s75",
+    "name": "Ainsworth",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s75"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.457017,
+     47.243001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s76",
+    "name": "Union",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s76"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.482701,
+     47.242762
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s77",
+    "name": "Sprague",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s77"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.462932,
+     47.242683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s78",
+    "name": "Stevens",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s78"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.494519,
+     47.242837
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s79",
+    "name": "Pearl",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s79"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.515928,
+     47.242801
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s8",
+    "name": "Columbia City",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s8"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.292692,
+     47.559733
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s80",
+    "name": "Tacoma Community College",
+    "rank": 1,
+    "degree": 1,
+    "members": [
+     "s80"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.521423,
+     47.247129
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "kind": "station",
+    "id": "s9",
+    "name": "Othello",
+    "rank": 1,
+    "degree": 2,
+    "members": [
+     "s9"
+    ]
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.281563,
+     47.537987
+    ]
+   }
+  }
+ ]
+}
