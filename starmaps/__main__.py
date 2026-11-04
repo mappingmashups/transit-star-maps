@@ -55,6 +55,37 @@ def build_network(cfg):
                 lines.append(proj.line(part))
         G = network.from_linework(stars, lines, src["snap_m"], src["junction_snap_m"])
         meta = {"stations": src["stations"], "lines": src["lines"]}
+    elif src["type"] == "routes":
+        fetch.fetch(cfg)
+        st = _read_layers(src["stations"], src.get("stations_query"))
+        field = src["station_name_field"]
+        key = network._key
+        wanted = {key(n): n for r in src["routes"] for n in r["stations"]}
+        stations, by_name = {}, {}
+        for i, row in st.reset_index(drop=True).iterrows():
+            name = str(row[field]).strip()
+            if key(name) in wanted and row.geometry is not None and key(name) not in by_name:
+                sid = f"s{i}"
+                stations[sid] = {"name": name, "lon": row.geometry.x, "lat": row.geometry.y}
+                by_name[key(name)] = sid
+        missing = [n for k, n in wanted.items() if k not in by_name]
+        if missing:
+            names = sorted(str(n) for n in st[field])
+            raise SystemExit(f"stations not found: {missing}\navailable: {names}")
+        proj = network.LocalProjection.around([(s["lon"], s["lat"]) for s in stations.values()])
+        mapping, stars = network.merge_stations(stations, cfg, proj)
+        routes = [
+            {"name": r["name"], "stations": [mapping[by_name[key(n)]] for n in r["stations"]]}
+            for r in src["routes"]
+        ]
+        lines = []
+        if src.get("lines"):
+            ln = _read_layers(src["lines"], src.get("lines_query"))
+            for geom in ln.geometry:
+                for part in getattr(geom, "geoms", [geom]):
+                    lines.append(proj.line(part))
+        G = network.from_routes(stars, routes, lines, src["snap_m"], src["junction_snap_m"])
+        meta = {**fetch.downloads_meta(cfg), "stations": src["stations"], "lines": src.get("lines")}
     else:
         raise SystemExit(f"unknown source type {src['type']}")
     network.finalize(G, cfg)

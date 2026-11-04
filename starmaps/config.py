@@ -33,6 +33,11 @@ DEFAULTS = {
         "stations": None,
         "lines": None,
         "stations_query": None,
+        # routes sources: [{name, stations: [names in order]}] drawn over the
+        # optional linework; `downloads` ({file: URL}) are fetched into
+        # data/raw/<city>/ first.
+        "routes": [],
+        "downloads": {},
         "lines_query": None,
         "station_name_field": "name",
         "snap_m": 120,  # linework: how far a station may be from its line

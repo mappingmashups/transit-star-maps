@@ -1,0 +1,58 @@
+# California High-Speed Rail, full build-out: Phase 1 (San Francisco–LA–
+# Anaheim) and Phase 2 (Merced–Sacramento, LA–San Diego via the Inland
+# Empire). Data: CHSRA "HSR Statewide Alignment and Stations" (California
+# open data portal), provided "as is".
+#
+# Phase 2 stations still have alternatives in the Authority's data; the
+# choices here: Pomona/First (not Holt), City of San Bernardino (not the
+# county site), March ARB for Riverside, Murrieta/I-215 (not I-15), and no
+# West Covina or Corona stops. Lines follow the drawn alignment where it
+# exists and are straight where it doesn't.
+name: California High-Speed Rail
+source:
+  type: routes
+  downloads:
+    stations.geojson: https://services3.arcgis.com/rGGp0aiv6Rf11t2H/arcgis/rest/services/HSR_Statewide_Alignment/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=geojson
+    alignment.geojson: https://services3.arcgis.com/rGGp0aiv6Rf11t2H/arcgis/rest/services/HSR_Statewide_Alignment/FeatureServer/1/query?where=1%3D1&outFields=*&outSR=4326&f=geojson
+  stations: data/raw/cahsr/stations.geojson
+  lines: data/raw/cahsr/alignment.geojson
+  station_name_field: Stat_Name
+  snap_m: 1500
+  junction_snap_m: 3000
+  routes:
+    - name: San Francisco–Los Angeles–Anaheim
+      stations:
+        - Transbay Transit Center
+        - 4th & King Station
+        - Millbrae (SFO) Station
+        - San Jose Diridon Station
+        - Downtown Gilroy Station
+        - Madera Stop
+        - Fresno - Mariposa St.
+        - VTH Station
+        - Bakersfield - F Street
+        - Palmdale Station
+        - Burbank Airport Station
+        - Los Angeles Union Station
+        - Norwalk/Santa Fe Springs Stati
+        - Fullerton Station
+        - Anaheim Station (ARTIC)
+    - name: Sacramento–Merced
+      stations: [Sacramento, Stockton, Modesto, Downtown Merced, Madera Stop]
+    - name: Los Angeles–San Diego
+      stations:
+        - Los Angeles Union Station
+        - El Monte Transit Center
+        - Pomona/First Option
+        - Ontario Intl Airport
+        - City of San Bernardino
+        - March ARB Option
+        - Murrieta/I-215 Station Option
+        - Escondido
+        - San Diego Intl Airport
+stations:
+  merge_distance_m: 300
+map:
+  max_height_in: 12
+style:
+  min_star_spacing_in: 0.13

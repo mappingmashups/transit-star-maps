@@ -36,7 +36,7 @@ def gtfs_path(cfg: dict) -> Path:
 def fetch(cfg: dict, refresh: bool = False) -> Path | None:
     src = cfg["source"]
     if src["type"] != "gtfs":
-        return None  # linework sources point at files already in the repo
+        return fetch_downloads(cfg, refresh)
     dest = gtfs_path(cfg)
     meta_path = dest.with_suffix(".json")
     if dest.exists() and not refresh:
@@ -90,3 +90,42 @@ def source_meta(cfg: dict) -> dict:
     if meta_path.exists():
         return json.loads(meta_path.read_text())
     return {}
+
+
+def fetch_downloads(cfg: dict, refresh: bool = False):
+    """Download `source.downloads` ({file name: URL}) into data/raw/<city>/.
+
+    Used by non-GTFS sources (e.g. ArcGIS GeoJSON queries). Each file gets a
+    record of its URL, date and SHA-256 in downloads.json.
+    """
+    downloads = cfg["source"].get("downloads") or {}
+    if not downloads:
+        return None
+    folder = RAW_DIR / cfg["id"]
+    folder.mkdir(parents=True, exist_ok=True)
+    meta_path = folder / "downloads.json"
+    meta = json.loads(meta_path.read_text()) if meta_path.exists() else {}
+    for name, url in downloads.items():
+        dest = folder / name
+        if dest.exists() and not refresh:
+            continue
+        print(f"[{cfg['id']}] downloading {url}")
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        tmp = dest.with_suffix(dest.suffix + ".part")
+        with urllib.request.urlopen(req, timeout=300) as resp, tmp.open("wb") as out:
+            shutil.copyfileobj(resp, out)
+        tmp.replace(dest)
+        meta[name] = {
+            "url": url,
+            "fetched": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"),
+            "sha256": sha256(dest),
+            "bytes": dest.stat().st_size,
+        }
+        print(f"[{cfg['id']}] saved {dest.name} ({meta[name]['bytes'] / 1e6:.2f} MB)")
+    meta_path.write_text(json.dumps(meta, indent=2) + "\n")
+    return folder
+
+
+def downloads_meta(cfg: dict) -> dict:
+    meta_path = RAW_DIR / cfg["id"] / "downloads.json"
+    return {"downloads": json.loads(meta_path.read_text())} if meta_path.exists() else {}
