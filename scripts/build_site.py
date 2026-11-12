@@ -67,6 +67,48 @@ def card(entry, svg_path):
     </article>"""
 
 
+def social_card(site, entry):
+    """Render docs/social-card.png (1200 x 630), the link-preview image."""
+    import os
+    import tempfile
+
+    from playwright.sync_api import sync_playwright
+
+    html = (SITE / "card.template.html").read_text()
+    values = {
+        "tagline": escape(site["tagline"]),
+        "caption": escape(f"{entry['system']} · {entry['place']}"),
+        "map_src": "map.svg",
+        "stars_small": starfield(180, 3, 1200),
+        "stars_big": starfield(40, 4, 1200),
+    }
+    for key, value in values.items():
+        html = html.replace("{{" + key + "}}", value)
+    launch = {"executable_path": os.environ["CHROME_PATH"]} if os.environ.get("CHROME_PATH") else {}
+    with tempfile.TemporaryDirectory() as tmp:
+        page_path = Path(tmp) / "card.html"
+        page_path.write_text(html)
+        # The card shows the map at about a fifth of print size, so draw it
+        # with bolder stars and lines than the print file.
+        cfg = config.load(entry["city"])
+        st = cfg["style"]
+        for key, factor in (("star_size_in", 1.8), ("large_star_size_in", 1.8), ("minor_star_size_in", 1.8),
+                            ("line_width_in", 1.7), ("gap_in", 1.6)):
+            st[key] *= factor
+        if entry.get("line_style"):
+            st["line_style"] = entry["line_style"]
+        _, stations, segments = network.load(entry["city"])
+        (Path(tmp) / "map.svg").write_text(render.svg(stations, segments, cfg, "transparent"))
+        with sync_playwright() as pw:
+            browser = pw.chromium.launch(**launch)
+            page = browser.new_page(viewport={"width": 1200, "height": 630})
+            page.goto(page_path.as_uri())
+            page.wait_for_load_state("networkidle")
+            page.evaluate("document.fonts.ready")
+            page.screenshot(path=str(DOCS / "social-card.png"))
+            browser.close()
+
+
 def main():
     site = yaml.safe_load((SITE / "maps.yaml").read_text())
     DOCS.mkdir(exist_ok=True)
@@ -80,7 +122,12 @@ def main():
     shop_all = (
         f'<a class="button shop-all" href="{escape(site["shop_all"])}">Shop all shirts</a>' if site.get("shop_all") else ""
     )
-    first = f"maps/{site['maps'][0]['city']}.svg" if site["maps"] else ""
+    url = site["url"].rstrip("/") + "/"
+    card_entry = next((e for e in site["maps"] if e["city"] == site["card_map"]), None)
+    if card_entry is None:
+        raise SystemExit(f"card_map {site['card_map']!r} must be one of the maps listed")
+    card_alt = f"{site['title']}: {card_entry['system']} in {card_entry['place']} drawn as a constellation"
+    social_card(site, card_entry)
     values = {
         "title": escape(site["title"]),
         "tagline": escape(site["tagline"]),
@@ -89,7 +136,8 @@ def main():
         "cards": "\n".join(cards),
         "links": links,
         "year": str(dt.date.today().year),
-        "og_image": first,
+        "url": escape(url),
+        "card_alt": escape(card_alt),
         "stars_small": starfield(260, 1),
         "stars_big": starfield(60, 2),
     }

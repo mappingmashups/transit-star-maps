@@ -82,6 +82,8 @@ The site at transitstarmaps.com is a single static page in `docs/`, served by Gi
 .venv/bin/python scripts/build_site.py
 ```
 
+The build also renders `docs/social-card.png` (1200 × 630), the image shown when the site is linked on social media or in chat apps; `card_map` in `site/maps.yaml` picks its map, and `url` sets the address the preview tags point to (switch it to https://transitstarmaps.com/ along with the DNS). The same image can be uploaded as the repository's social preview under Settings → General.
+
 To add a map, render it, add a line to `site/maps.yaml` (place, system name, Zazzle link), and rebuild. Edit `site/index.template.html`, not `docs/index.html`. For the custom domain, point transitstarmaps.com's DNS at GitHub Pages; `docs/CNAME` is already set.
 
 Printing on shirts

@@ -10,6 +10,11 @@
 #   note:   optional one-liner shown under the system name
 
 title: Transit Star Maps
+# The site's public address, used for the social card and link previews.
+# Change to https://transitstarmaps.com/ once the domain points at GitHub Pages.
+url: https://mappingmashups.github.io/transit-star-maps/
+# The map shown on the social card (docs/social-card.png).
+card_map: bart
 tagline: Subway and light rail networks, drawn as constellations.
 about: >
   Every star is a station, placed where it really is. Every line follows the

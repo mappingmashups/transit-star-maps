@@ -55,4 +55,5 @@ stations:
 map:
   max_height_in: 12
 style:
+  line_style: straight
   min_star_spacing_in: 0.13
