@@ -40,7 +40,7 @@
     <use href="#star" transform="translate(1017 429.2) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1054.2 286.9) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1145.9 79.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(975.8 1530.1) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(970.8 1525) scale(0.7905)" stroke-width="26.57"/>
       </g>
     </mask>
   </defs>
@@ -118,6 +118,6 @@
     <use href="#star" transform="translate(1017 429.2) scale(0.5100)"><title>Shoreline North/185th</title></use>
     <use href="#star" transform="translate(1054.2 286.9) scale(0.5100)"><title>Mountlake Terrace</title></use>
     <use href="#star" transform="translate(1145.9 79.5) scale(0.5100)"><title>Lynnwood City Center</title></use>
-    <use href="#star" transform="translate(975.8 1530.1) scale(0.6900)"><title>Int&#x27;l Dist/Chinatown</title></use>
+    <use href="#star" transform="translate(970.8 1525) scale(0.7905)"><title>Int&#x27;l Dist/Chinatown</title></use>
   </g>
 </svg>

@@ -45,7 +45,6 @@
     <use href="#star" transform="translate(2293.8 658.8) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(2193.8 658.1) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(583.6 653.8) scale(0.3900)" stroke-width="53.85"/>
-    <use href="#star" transform="translate(1625.3 645.8) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(304.4 626.9) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1975.8 616.9) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1717.7 606.9) scale(0.3900)" stroke-width="53.85"/>
@@ -65,10 +64,10 @@
     <use href="#star" transform="translate(2023.6 208.3) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1573.3 149.5) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1572.9 85.5) scale(0.3900)" stroke-width="53.85"/>
-    <use href="#star" transform="translate(1605.3 681.6) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(2159.9 589.6) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(2089.6 576.5) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(2150.1 398.6) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(1607.6 659.1) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(2156.7 586.3) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(2086.3 573.3) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(2146.9 395.3) scale(0.6045)" stroke-width="34.74"/>
       </g>
     </mask>
   </defs>
@@ -78,9 +77,8 @@
     <path d="M2186.9 616.6 L2213.3 677.6"/>
     <path d="M2186.9 616.6 L2177.1 425.6"/>
     <path d="M2186.9 616.6 L2183.4 735.7"/>
-    <path d="M1644.8 665.3 L1692.9 626.2"/>
-    <path d="M1632.3 708.6 L1610.9 768.5"/>
-    <path d="M1644.8 665.3 L1632.3 708.6"/>
+    <path d="M1637.9 689.3 L1692.9 626.2"/>
+    <path d="M1637.9 689.3 L1610.9 768.5"/>
     <path d="M784.9 765.5 L830.2 798.3"/>
     <path d="M784.9 765.5 L693.7 714.8"/>
     <path d="M693.7 714.8 L603.1 673.3"/>
@@ -90,7 +88,7 @@
     <path d="M323.9 646.4 L210 686.3"/>
     <path d="M210 686.3 L166.8 685.2"/>
     <path d="M166.8 685.2 L119.2 681.7"/>
-    <path d="M1644.8 665.3 L1692.9 626.2"/>
+    <path d="M1637.9 689.3 L1692.9 626.2"/>
     <path d="M2214.1 333.9 L2169.5 300.2"/>
     <path d="M1562.7 697.6 L1441.1 761.3"/>
     <path d="M1692.9 626.2 L1737.2 626.4"/>
@@ -108,7 +106,6 @@
     <path d="M2445.3 679.5 L2313.3 678.3"/>
     <path d="M2313.3 678.3 L2213.3 677.6"/>
     <path d="M2116.6 603.5 L1995.3 636.4"/>
-    <path d="M1644.8 665.3 L1632.3 708.6"/>
     <path d="M1441.1 761.3 L1128.1 764"/>
     <path d="M2186.9 616.6 L2177.1 425.6"/>
     <path d="M2214.1 333.9 L2177.1 425.6"/>
@@ -136,7 +133,7 @@
     <path d="M1609.1 452.5 L1609.3 400.8"/>
     <path d="M1609.8 350.9 L1609.3 400.8"/>
     <path d="M1592.4 105 L1592.8 169"/>
-    <path d="M1632.3 708.6 L1562.7 697.6"/>
+    <path d="M1637.9 689.3 L1562.7 697.6"/>
     <path d="M874.5 831.7 L930.6 867.5"/>
     <path d="M1128.1 764 L1014.6 897.3"/>
     <path d="M1014.6 897.3 L930.6 867.5"/>
@@ -183,7 +180,6 @@
     <use href="#star" transform="translate(2293.8 658.8) scale(0.3900)"><title>E 122nd Ave MAX Station</title></use>
     <use href="#star" transform="translate(2193.8 658.1) scale(0.3900)"><title>E 102nd Ave MAX Station</title></use>
     <use href="#star" transform="translate(583.6 653.8) scale(0.3900)"><title>Quatama MAX Station</title></use>
-    <use href="#star" transform="translate(1625.3 645.8) scale(0.3900)"><title>Union Station/NW 6th &amp; Hoyt MAX Stn</title></use>
     <use href="#star" transform="translate(304.4 626.9) scale(0.3900)"><title>Hillsboro Airport/Fairgrounds MAX Station</title></use>
     <use href="#star" transform="translate(1975.8 616.9) scale(0.3900)"><title>NE 60th Ave MAX Station</title></use>
     <use href="#star" transform="translate(1717.7 606.9) scale(0.3900)"><title>NE 7th Ave MAX Station</title></use>
@@ -203,9 +199,9 @@
     <use href="#star" transform="translate(2023.6 208.3) scale(0.3900)"><title>Portland Int&#x27;l Airport MAX Station</title></use>
     <use href="#star" transform="translate(1573.3 149.5) scale(0.3900)"><title>Delta Park/Vanport MAX Station</title></use>
     <use href="#star" transform="translate(1572.9 85.5) scale(0.3900)"><title>Expo Center MAX Station</title></use>
-    <use href="#star" transform="translate(1605.3 681.6) scale(0.5400)"><title>Pioneer Square South MAX Station</title></use>
-    <use href="#star" transform="translate(2159.9 589.6) scale(0.5400)"><title>Gateway Transit Center</title></use>
-    <use href="#star" transform="translate(2089.6 576.5) scale(0.5400)"><title>NE 82nd Ave MAX Station</title></use>
-    <use href="#star" transform="translate(2150.1 398.6) scale(0.5400)"><title>Parkrose/Sumner TC MAX Station</title></use>
+    <use href="#star" transform="translate(1607.6 659.1) scale(0.6045)"><title>Pioneer Square South MAX Station</title></use>
+    <use href="#star" transform="translate(2156.7 586.3) scale(0.6045)"><title>Gateway Transit Center</title></use>
+    <use href="#star" transform="translate(2086.3 573.3) scale(0.6045)"><title>NE 82nd Ave MAX Station</title></use>
+    <use href="#star" transform="translate(2146.9 395.3) scale(0.6045)"><title>Parkrose/Sumner TC MAX Station</title></use>
   </g>
 </svg>

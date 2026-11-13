@@ -16,3 +16,5 @@ source:
     - legacy/data/la_metro/RailLines0614/GoldLineApr12.shp
     - legacy/data/la_metro/RailLines0614/GreenLine0412.shp
     - legacy/data/la_metro/RailLines0614/RPLines0414.shp
+style:
+  line_style: curved  # match the TileMill-era renders

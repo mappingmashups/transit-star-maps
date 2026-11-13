@@ -7,6 +7,6 @@ source:
   stations: legacy/data/dc_metro/metro-stations.geojson
   lines: legacy/data/dc_metro/metro-lines.geojson
 style:
+  line_style: curved  # match the TileMill-era renders
   star_size_in: 0.14
-  large_star_size_in: 0.19
   min_star_spacing_in: 0.13

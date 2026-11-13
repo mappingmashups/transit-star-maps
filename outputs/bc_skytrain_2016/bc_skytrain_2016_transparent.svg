@@ -51,10 +51,10 @@
     <use href="#star" transform="translate(589 142.1) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(578.9 99.9) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(644.2 95.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(520.8 1235.9) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(2348.9 1114.7) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(995.5 377.3) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(597.1 130.7) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(515.7 1230.9) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(2343.9 1109.7) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(990.5 372.3) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(592.1 125.6) scale(0.7905)" stroke-width="26.57"/>
       </g>
     </mask>
   </defs>
@@ -159,9 +159,9 @@
     <use href="#star" transform="translate(589 142.1) scale(0.5100)"><title>Vancouver City Centre</title></use>
     <use href="#star" transform="translate(578.9 99.9) scale(0.5100)"><title>Burrard Station</title></use>
     <use href="#star" transform="translate(644.2 95.7) scale(0.5100)"><title>Waterfront Station</title></use>
-    <use href="#star" transform="translate(520.8 1235.9) scale(0.6900)"><title>Bridgeport</title></use>
-    <use href="#star" transform="translate(2348.9 1114.7) scale(0.6900)"><title>Columbia Station</title></use>
-    <use href="#star" transform="translate(995.5 377.3) scale(0.6900)"><title>Commercial Drive Station</title></use>
-    <use href="#star" transform="translate(597.1 130.7) scale(0.6900)"><title>Granville Station</title></use>
+    <use href="#star" transform="translate(515.7 1230.9) scale(0.7905)"><title>Bridgeport</title></use>
+    <use href="#star" transform="translate(2343.9 1109.7) scale(0.7905)"><title>Columbia Station</title></use>
+    <use href="#star" transform="translate(990.5 372.3) scale(0.7905)"><title>Commercial Drive Station</title></use>
+    <use href="#star" transform="translate(592.1 125.6) scale(0.7905)"><title>Granville Station</title></use>
   </g>
 </svg>

@@ -11,4 +11,3 @@ source:
   include_routes: ["^(1|2|4|5|6)$", "^Line [1-6]\\b"]
 style:
   star_size_in: 0.15
-  large_star_size_in: 0.2

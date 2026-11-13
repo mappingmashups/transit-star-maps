@@ -2,3 +2,6 @@ name: BART
 source:
   type: gtfs
   url: https://www.bart.gov/dev/schedules/google_transit.zip
+style:
+  star_size_in: 0.22
+  min_star_spacing_in: 0.15

@@ -5,66 +5,63 @@
     <mask id="gaps" maskUnits="userSpaceOnUse" x="0" y="0" width="3000" height="1533">
       <rect width="3000" height="1533" fill="#fff"/>
       <g fill="#000" stroke="#000" stroke-linejoin="round">
-    <use href="#star" transform="translate(381.5 1402.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(380.9 1328.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2488.2 1239.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(382.2 1225.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(414.5 1169.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2465.4 1164.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(226.6 1126.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(79.5 1113.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(310.1 1085.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2445.4 1061.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1735.2 1049.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1997.7 1034.6) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2275.1 1001.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(522.1 943.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1662 919.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1450 829.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2165.1 778.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(526 766.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1338.6 766.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1275.4 724.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2212.5 683.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(527.8 678.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1137.4 627.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1034.3 562.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(963.6 518) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(534.2 508) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1956.7 461.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1805.5 448.6) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1039.7 401.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1626.6 398.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1129.9 380.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2161.4 373.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(539 358.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1495.5 337.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1269.2 334.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(796.8 324.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1353.8 319.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(535.2 316.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(643.2 244.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2805.8 229.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(486.9 229) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2605.6 198.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2476.9 190.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(579.9 177) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2852.5 162.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(514.8 141.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(532.9 133.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(505.3 106.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(561.4 105.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2869.5 104.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(447.5 1089.9) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(2035.2 988.1) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(2102.3 506.8) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(862.1 350.8) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(375.5 1396.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(374.9 1322.7) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2482.2 1233.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(376.2 1219.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(408.5 1163.2) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2459.4 1158.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(220.6 1120.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(73.5 1107.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(304.1 1079.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2439.4 1055.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1729.2 1043.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1991.7 1028.6) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2269.1 995.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(516.1 937.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1656 913.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1444 823.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2159.1 772.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(520 760.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1332.6 760.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1269.4 718.2) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2206.5 677.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(521.8 672.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1131.4 621.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1028.3 556.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(957.6 512) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(528.2 502) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1950.7 455.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1799.5 442.6) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1033.7 395.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1620.6 392.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1123.9 374.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2155.4 367.7) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(531.1 331.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1489.5 331.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1263.2 328.7) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(790.8 318.7) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1347.8 313.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(637.2 238.2) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2799.8 223.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(480.9 223) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2599.6 192.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2470.9 184.2) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(573.9 171) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2846.5 156.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(511.6 121.2) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(555.4 99.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2863.5 98.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(433.2 1075.5) scale(0.9765)" stroke-width="21.51"/>
+    <use href="#star" transform="translate(2020.9 973.8) scale(0.9765)" stroke-width="21.51"/>
+    <use href="#star" transform="translate(2087.9 492.4) scale(0.9765)" stroke-width="21.51"/>
+    <use href="#star" transform="translate(847.7 336.5) scale(0.9765)" stroke-width="21.51"/>
       </g>
     </mask>
   </defs>
   <rect width="3000" height="1533" fill="#000000"/>
   <g mask="url(#gaps)" fill="none" stroke="#d3d3d3" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M586.9 131.3 L530.8 132"/>
+    <path d="M586.9 131.3 L543.1 152.7"/>
     <path d="M105 1138.6 L252.1 1152"/>
     <path d="M252.1 1152 L335.6 1111.4"/>
     <path d="M407 1428.3 L406.4 1354.2"/>
@@ -75,11 +72,10 @@
     <path d="M547.6 968.8 L551.5 791.8"/>
     <path d="M551.5 791.8 L553.3 703.6"/>
     <path d="M553.3 703.6 L559.7 533.5"/>
-    <path d="M559.7 533.5 L564.5 384.3"/>
-    <path d="M564.5 384.3 L560.7 341.6"/>
-    <path d="M560.7 341.6 L512.4 254.5"/>
-    <path d="M512.4 254.5 L540.3 167.2"/>
-    <path d="M586.9 131.3 L540.3 167.2"/>
+    <path d="M559.7 533.5 L562.6 362.9"/>
+    <path d="M562.6 362.9 L512.4 254.5"/>
+    <path d="M512.4 254.5 L543.1 152.7"/>
+    <path d="M586.9 131.3 L543.1 152.7"/>
     <path d="M822.3 350.2 L896.6 385.3"/>
     <path d="M896.6 385.3 L1065.2 426.9"/>
     <path d="M896.6 385.3 L668.7 269.7"/>
@@ -99,8 +95,7 @@
     <path d="M2631.1 224.3 L2831.3 255.4"/>
     <path d="M2831.3 255.4 L2878 188.3"/>
     <path d="M2878 188.3 L2895 129.9"/>
-    <path d="M530.8 132 L558.4 158.9"/>
-    <path d="M558.4 158.9 L605.4 202.5"/>
+    <path d="M543.1 152.7 L605.4 202.5"/>
     <path d="M605.4 202.5 L668.7 269.7"/>
     <path d="M989.1 543.5 L1059.8 588"/>
     <path d="M1059.8 588 L1162.9 653"/>
@@ -120,59 +115,56 @@
     <path d="M482 1124.4 L440 1194.7"/>
   </g>
   <g fill="#ffffaa">
-    <use href="#star" transform="translate(381.5 1402.8) scale(0.5100)"><title>Richmond-Brighouse Station</title></use>
-    <use href="#star" transform="translate(380.9 1328.7) scale(0.5100)"><title>Lansdowne Station</title></use>
-    <use href="#star" transform="translate(2488.2 1239.3) scale(0.5100)"><title>King George Station</title></use>
-    <use href="#star" transform="translate(382.2 1225.8) scale(0.5100)"><title>Aberdeen Station</title></use>
-    <use href="#star" transform="translate(414.5 1169.2) scale(0.5100)"><title>Capstan Station</title></use>
-    <use href="#star" transform="translate(2465.4 1164.8) scale(0.5100)"><title>Surrey Central Station</title></use>
-    <use href="#star" transform="translate(226.6 1126.5) scale(0.5100)"><title>Sea Island Centre Station</title></use>
-    <use href="#star" transform="translate(79.5 1113.1) scale(0.5100)"><title>YVR-Airport Station</title></use>
-    <use href="#star" transform="translate(310.1 1085.9) scale(0.5100)"><title>Templeton Station</title></use>
-    <use href="#star" transform="translate(2445.4 1061.3) scale(0.5100)"><title>Gateway Station</title></use>
-    <use href="#star" transform="translate(1735.2 1049.9) scale(0.5100)"><title>22nd Street Station</title></use>
-    <use href="#star" transform="translate(1997.7 1034.6) scale(0.5100)"><title>New Westminster Station</title></use>
-    <use href="#star" transform="translate(2275.1 1001.4) scale(0.5100)"><title>Scott Road Station</title></use>
-    <use href="#star" transform="translate(522.1 943.3) scale(0.5100)"><title>Marine Drive Station</title></use>
-    <use href="#star" transform="translate(1662 919.1) scale(0.5100)"><title>Edmonds Station</title></use>
-    <use href="#star" transform="translate(1450 829.5) scale(0.5100)"><title>Royal Oak Station</title></use>
-    <use href="#star" transform="translate(2165.1 778.5) scale(0.5100)"><title>Sapperton Station</title></use>
-    <use href="#star" transform="translate(526 766.3) scale(0.5100)"><title>Langara-49th Avenue Station</title></use>
-    <use href="#star" transform="translate(1338.6 766.1) scale(0.5100)"><title>Metrotown Station</title></use>
-    <use href="#star" transform="translate(1275.4 724.2) scale(0.5100)"><title>Patterson Station</title></use>
-    <use href="#star" transform="translate(2212.5 683.9) scale(0.5100)"><title>Braid Station</title></use>
-    <use href="#star" transform="translate(527.8 678.1) scale(0.5100)"><title>Oakridge-41st Avenue Station</title></use>
-    <use href="#star" transform="translate(1137.4 627.5) scale(0.5100)"><title>Joyce-Collingwood Station</title></use>
-    <use href="#star" transform="translate(1034.3 562.5) scale(0.5100)"><title>29th Avenue Station</title></use>
-    <use href="#star" transform="translate(963.6 518) scale(0.5100)"><title>Nanaimo Station</title></use>
-    <use href="#star" transform="translate(534.2 508) scale(0.5100)"><title>King Edward Station</title></use>
-    <use href="#star" transform="translate(1956.7 461.9) scale(0.5100)"><title>Production Way-University Station</title></use>
-    <use href="#star" transform="translate(1805.5 448.6) scale(0.5100)"><title>Lake City Way Station</title></use>
-    <use href="#star" transform="translate(1039.7 401.4) scale(0.5100)"><title>Renfrew Station</title></use>
-    <use href="#star" transform="translate(1626.6 398.4) scale(0.5100)"><title>Sperling-Burnaby Lake Station</title></use>
-    <use href="#star" transform="translate(1129.9 380.8) scale(0.5100)"><title>Rupert Station</title></use>
-    <use href="#star" transform="translate(2161.4 373.7) scale(0.5100)"><title>Burquitlam Station</title></use>
-    <use href="#star" transform="translate(539 358.8) scale(0.5100)"><title>Broadway-City Hall Station</title></use>
-    <use href="#star" transform="translate(1495.5 337.4) scale(0.5100)"><title>Holdom Station</title></use>
-    <use href="#star" transform="translate(1269.2 334.7) scale(0.5100)"><title>Gilmore Station</title></use>
-    <use href="#star" transform="translate(796.8 324.7) scale(0.5100)"><title>VCC-Clark Station</title></use>
-    <use href="#star" transform="translate(1353.8 319.1) scale(0.5100)"><title>Brentwood Town Centre Station</title></use>
-    <use href="#star" transform="translate(535.2 316.1) scale(0.5100)"><title>Olympic Village Station</title></use>
-    <use href="#star" transform="translate(643.2 244.2) scale(0.5100)"><title>Main Street-Science World Station</title></use>
-    <use href="#star" transform="translate(2805.8 229.9) scale(0.5100)"><title>Coquitlam Central Station</title></use>
-    <use href="#star" transform="translate(486.9 229) scale(0.5100)"><title>Yaletown-Roundhouse Station</title></use>
-    <use href="#star" transform="translate(2605.6 198.8) scale(0.5100)"><title>Inlet Centre Station</title></use>
-    <use href="#star" transform="translate(2476.9 190.2) scale(0.5100)"><title>Moody Centre Station</title></use>
-    <use href="#star" transform="translate(579.9 177) scale(0.5100)"><title>Stadium-Chinatown Station</title></use>
-    <use href="#star" transform="translate(2852.5 162.8) scale(0.5100)"><title>Lincoln Station</title></use>
-    <use href="#star" transform="translate(514.8 141.7) scale(0.5100)"><title>Vancouver City Centre Station</title></use>
-    <use href="#star" transform="translate(532.9 133.4) scale(0.5100)"><title>Granville Station</title></use>
-    <use href="#star" transform="translate(505.3 106.5) scale(0.5100)"><title>Burrard Station</title></use>
-    <use href="#star" transform="translate(561.4 105.8) scale(0.5100)"><title>Waterfront Station</title></use>
-    <use href="#star" transform="translate(2869.5 104.4) scale(0.5100)"><title>Lafarge Lake-Douglas Station</title></use>
-    <use href="#star" transform="translate(447.5 1089.9) scale(0.6900)"><title>Bridgeport Station</title></use>
-    <use href="#star" transform="translate(2035.2 988.1) scale(0.6900)"><title>Columbia Station</title></use>
-    <use href="#star" transform="translate(2102.3 506.8) scale(0.6900)"><title>Lougheed Town Centre Station</title></use>
-    <use href="#star" transform="translate(862.1 350.8) scale(0.6900)"><title>Commercial-Broadway Station</title></use>
+    <use href="#star" transform="translate(375.5 1396.8) scale(0.6300)"><title>Richmond-Brighouse Station</title></use>
+    <use href="#star" transform="translate(374.9 1322.7) scale(0.6300)"><title>Lansdowne Station</title></use>
+    <use href="#star" transform="translate(2482.2 1233.3) scale(0.6300)"><title>King George Station</title></use>
+    <use href="#star" transform="translate(376.2 1219.8) scale(0.6300)"><title>Aberdeen Station</title></use>
+    <use href="#star" transform="translate(408.5 1163.2) scale(0.6300)"><title>Capstan Station</title></use>
+    <use href="#star" transform="translate(2459.4 1158.8) scale(0.6300)"><title>Surrey Central Station</title></use>
+    <use href="#star" transform="translate(220.6 1120.5) scale(0.6300)"><title>Sea Island Centre Station</title></use>
+    <use href="#star" transform="translate(73.5 1107.1) scale(0.6300)"><title>YVR-Airport Station</title></use>
+    <use href="#star" transform="translate(304.1 1079.9) scale(0.6300)"><title>Templeton Station</title></use>
+    <use href="#star" transform="translate(2439.4 1055.3) scale(0.6300)"><title>Gateway Station</title></use>
+    <use href="#star" transform="translate(1729.2 1043.9) scale(0.6300)"><title>22nd Street Station</title></use>
+    <use href="#star" transform="translate(1991.7 1028.6) scale(0.6300)"><title>New Westminster Station</title></use>
+    <use href="#star" transform="translate(2269.1 995.4) scale(0.6300)"><title>Scott Road Station</title></use>
+    <use href="#star" transform="translate(516.1 937.3) scale(0.6300)"><title>Marine Drive Station</title></use>
+    <use href="#star" transform="translate(1656 913.1) scale(0.6300)"><title>Edmonds Station</title></use>
+    <use href="#star" transform="translate(1444 823.5) scale(0.6300)"><title>Royal Oak Station</title></use>
+    <use href="#star" transform="translate(2159.1 772.5) scale(0.6300)"><title>Sapperton Station</title></use>
+    <use href="#star" transform="translate(520 760.3) scale(0.6300)"><title>Langara-49th Avenue Station</title></use>
+    <use href="#star" transform="translate(1332.6 760.1) scale(0.6300)"><title>Metrotown Station</title></use>
+    <use href="#star" transform="translate(1269.4 718.2) scale(0.6300)"><title>Patterson Station</title></use>
+    <use href="#star" transform="translate(2206.5 677.9) scale(0.6300)"><title>Braid Station</title></use>
+    <use href="#star" transform="translate(521.8 672.1) scale(0.6300)"><title>Oakridge-41st Avenue Station</title></use>
+    <use href="#star" transform="translate(1131.4 621.5) scale(0.6300)"><title>Joyce-Collingwood Station</title></use>
+    <use href="#star" transform="translate(1028.3 556.5) scale(0.6300)"><title>29th Avenue Station</title></use>
+    <use href="#star" transform="translate(957.6 512) scale(0.6300)"><title>Nanaimo Station</title></use>
+    <use href="#star" transform="translate(528.2 502) scale(0.6300)"><title>King Edward Station</title></use>
+    <use href="#star" transform="translate(1950.7 455.9) scale(0.6300)"><title>Production Way-University Station</title></use>
+    <use href="#star" transform="translate(1799.5 442.6) scale(0.6300)"><title>Lake City Way Station</title></use>
+    <use href="#star" transform="translate(1033.7 395.4) scale(0.6300)"><title>Renfrew Station</title></use>
+    <use href="#star" transform="translate(1620.6 392.4) scale(0.6300)"><title>Sperling-Burnaby Lake Station</title></use>
+    <use href="#star" transform="translate(1123.9 374.8) scale(0.6300)"><title>Rupert Station</title></use>
+    <use href="#star" transform="translate(2155.4 367.7) scale(0.6300)"><title>Burquitlam Station</title></use>
+    <use href="#star" transform="translate(531.1 331.4) scale(0.6300)"><title>Broadway-City Hall Station</title></use>
+    <use href="#star" transform="translate(1489.5 331.4) scale(0.6300)"><title>Holdom Station</title></use>
+    <use href="#star" transform="translate(1263.2 328.7) scale(0.6300)"><title>Gilmore Station</title></use>
+    <use href="#star" transform="translate(790.8 318.7) scale(0.6300)"><title>VCC-Clark Station</title></use>
+    <use href="#star" transform="translate(1347.8 313.1) scale(0.6300)"><title>Brentwood Town Centre Station</title></use>
+    <use href="#star" transform="translate(637.2 238.2) scale(0.6300)"><title>Main Street-Science World Station</title></use>
+    <use href="#star" transform="translate(2799.8 223.9) scale(0.6300)"><title>Coquitlam Central Station</title></use>
+    <use href="#star" transform="translate(480.9 223) scale(0.6300)"><title>Yaletown-Roundhouse Station</title></use>
+    <use href="#star" transform="translate(2599.6 192.8) scale(0.6300)"><title>Inlet Centre Station</title></use>
+    <use href="#star" transform="translate(2470.9 184.2) scale(0.6300)"><title>Moody Centre Station</title></use>
+    <use href="#star" transform="translate(573.9 171) scale(0.6300)"><title>Stadium-Chinatown Station</title></use>
+    <use href="#star" transform="translate(2846.5 156.8) scale(0.6300)"><title>Lincoln Station</title></use>
+    <use href="#star" transform="translate(511.6 121.2) scale(0.6300)"><title>Vancouver City Centre Station</title></use>
+    <use href="#star" transform="translate(555.4 99.8) scale(0.6300)"><title>Waterfront Station</title></use>
+    <use href="#star" transform="translate(2863.5 98.4) scale(0.6300)"><title>Lafarge Lake-Douglas Station</title></use>
+    <use href="#star" transform="translate(433.2 1075.5) scale(0.9765)"><title>Bridgeport Station</title></use>
+    <use href="#star" transform="translate(2020.9 973.8) scale(0.9765)"><title>Columbia Station</title></use>
+    <use href="#star" transform="translate(2087.9 492.4) scale(0.9765)"><title>Lougheed Town Centre Station</title></use>
+    <use href="#star" transform="translate(847.7 336.5) scale(0.9765)"><title>Commercial-Broadway Station</title></use>
   </g>
 </svg>

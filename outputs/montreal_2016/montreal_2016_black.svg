@@ -68,11 +68,11 @@
     <use href="#star" transform="translate(2577.6 345.3) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(2630.6 214) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(2687.1 79.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2051.1 2329.8) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(1378 2275.3) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(2379.2 1785.2) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(2315.5 1680) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(1580.6 1206.9) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(2046.1 2324.8) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(1373 2270.3) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(2374.2 1780.2) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(2310.4 1674.9) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(1575.5 1201.9) scale(0.7905)" stroke-width="26.57"/>
       </g>
     </mask>
   </defs>
@@ -212,10 +212,10 @@
     <use href="#star" transform="translate(2577.6 345.3) scale(0.5100)"><title>Langelier</title></use>
     <use href="#star" transform="translate(2630.6 214) scale(0.5100)"><title>Radisson</title></use>
     <use href="#star" transform="translate(2687.1 79.5) scale(0.5100)"><title>Honoré-Beaugrand</title></use>
-    <use href="#star" transform="translate(2051.1 2329.8) scale(0.6900)"><title>Lionel-Groulx</title></use>
-    <use href="#star" transform="translate(1378 2275.3) scale(0.6900)"><title>Snowdon</title></use>
-    <use href="#star" transform="translate(2379.2 1785.2) scale(0.6900)"><title>Champ-de-Mars</title></use>
-    <use href="#star" transform="translate(2315.5 1680) scale(0.6900)"><title>Berri-UQAM</title></use>
-    <use href="#star" transform="translate(1580.6 1206.9) scale(0.6900)"><title>Jean-Talon</title></use>
+    <use href="#star" transform="translate(2046.1 2324.8) scale(0.7905)"><title>Lionel-Groulx</title></use>
+    <use href="#star" transform="translate(1373 2270.3) scale(0.7905)"><title>Snowdon</title></use>
+    <use href="#star" transform="translate(2374.2 1780.2) scale(0.7905)"><title>Champ-de-Mars</title></use>
+    <use href="#star" transform="translate(2310.4 1674.9) scale(0.7905)"><title>Berri-UQAM</title></use>
+    <use href="#star" transform="translate(1575.5 1201.9) scale(0.7905)"><title>Jean-Talon</title></use>
   </g>
 </svg>

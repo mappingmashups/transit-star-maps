@@ -53,5 +53,4 @@ source:
 stations:
   merge_distance_m: 150
 style:
-  line_style: straight
   min_star_spacing_in: 0.12

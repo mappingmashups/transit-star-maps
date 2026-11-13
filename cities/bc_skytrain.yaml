@@ -5,3 +5,6 @@ source:
   url: https://gtfs-static.translink.ca/gtfs/google_transit.zip
   route_types: [1, 2]
   include_routes: ["Expo", "Millennium", "Canada Line"]
+style:
+  star_size_in: 0.21
+  min_star_spacing_in: 0.15

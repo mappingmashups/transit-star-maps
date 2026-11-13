@@ -5,17 +5,20 @@
     <mask id="gaps" maskUnits="userSpaceOnUse" x="0" y="0" width="3000" height="3505">
       <rect width="3000" height="3505" fill="#fff"/>
       <g fill="#000" stroke="#000" stroke-linejoin="round">
-    <use href="#star" transform="translate(1602 1618.1) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1605.3 1629.3) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1598.7 1607) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1621.9 1585.3) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1670.9 1574.1) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1725.6 1545.4) scale(0.2100)" stroke-width="53.85"/>
-    <use href="#star" transform="translate(1261.3 1525) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1246.8 1528.9) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1275.7 1521) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1774.1 1520.2) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1158.1 1513.6) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1312.6 1509.4) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1348.6 1496) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1110 1492.9) scale(0.2100)" stroke-width="53.85"/>
-    <use href="#star" transform="translate(1404.7 1489.1) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1394.1 1491.2) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1415.4 1486.9) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1845.8 1481.4) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1184.3 1475.6) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1452.5 1471.3) scale(0.2100)" stroke-width="53.85"/>
@@ -26,8 +29,9 @@
     <use href="#star" transform="translate(1574.4 1428.6) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1607 1416.6) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1647.6 1401.2) scale(0.2100)" stroke-width="53.85"/>
-    <use href="#star" transform="translate(1307.2 1364.5) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1293.9 1367) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1352.7 1364.2) scale(0.2100)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(1320.6 1361.9) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1723.4 1353.4) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1684.6 1347) scale(0.2100)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1652.8 1342) scale(0.2100)" stroke-width="53.85"/>
@@ -112,21 +116,21 @@
     <use href="#star" transform="translate(2873.4 419.6) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1993.1 230.3) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(2025.2 85.5) scale(0.3900)" stroke-width="53.85"/>
-    <use href="#star" transform="translate(2218.6 1748.6) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(1761.2 1341.8) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(1950.6 1327) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(2122.8 1240.7) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(2153.9 1191.9) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(2155.1 1138.9) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(2123 1102.1) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(1959.6 1015.9) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(2215.4 1745.4) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(1758 1338.6) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(1947.3 1323.7) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(2119.5 1237.4) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(2150.7 1188.7) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(2151.9 1135.7) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(2119.8 1098.9) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(1956.4 1012.6) scale(0.6045)" stroke-width="34.74"/>
       </g>
     </mask>
   </defs>
   <rect width="3000" height="3505" fill="#000000"/>
   <g mask="url(#gaps)" fill="none" stroke="#d3d3d3" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round">
     <path d="M1295.6 693.5 L1503.5 680.5"/>
-    <path d="M1317.7 1375 L1363.2 1374.7"/>
+    <path d="M1331.1 1372.4 L1363.2 1374.7"/>
     <path d="M1579 1339.4 L1663.3 1352.5"/>
     <path d="M2189.3 1639.3 L2245.6 1775.6"/>
     <path d="M2479.9 1003.7 L2382.4 1077.9"/>
@@ -138,11 +142,12 @@
     <path d="M1579 1339.4 L1523.7 1330.4"/>
     <path d="M1619 635.1 L1554.5 518.6"/>
     <path d="M1996 1391.7 L1905.1 1467.4"/>
+    <path d="M1615.8 1639.8 L1609.2 1617.5"/>
     <path d="M1304.3 1558.7 L1212.6 1560.9"/>
-    <path d="M1359.1 1506.5 L1415.2 1499.6"/>
+    <path d="M1359.1 1506.5 L1404.6 1501.7"/>
     <path d="M1733.9 1363.9 L1788.2 1368.8"/>
     <path d="M2886.1 667.9 L2834.9 769.3"/>
-    <path d="M1415.2 1499.6 L1463 1481.8"/>
+    <path d="M1425.9 1497.4 L1463 1481.8"/>
     <path d="M2124.7 1313.4 L2149.8 1267.7"/>
     <path d="M2189.3 1639.3 L2196.5 1459.7"/>
     <path d="M1523.7 1330.4 L1469.2 1325.4"/>
@@ -160,17 +165,19 @@
     <path d="M1168.6 1524.1 L1194.8 1486.1"/>
     <path d="M2124.7 1313.4 L2122.1 1358.4"/>
     <path d="M1194.8 1486.1 L1242.9 1474.5"/>
-    <path d="M1212.6 1560.9 L1271.8 1535.5"/>
+    <path d="M1212.6 1560.9 L1257.3 1539.4"/>
     <path d="M1695.9 1130.6 L1884.2 1173.7"/>
     <path d="M2047.6 1326.1 L1977.6 1354"/>
     <path d="M1977.6 1354 L1932.2 1417.4"/>
     <path d="M1509.4 1467.3 L1555 1449.8"/>
     <path d="M1503.5 680.5 L1532 800.6"/>
-    <path d="M1271.8 1535.5 L1323.1 1519.9"/>
+    <path d="M1286.2 1531.5 L1323.1 1519.9"/>
     <path d="M2124.7 1313.4 L2149.8 1267.7"/>
     <path d="M2149.8 1267.7 L2214.8 1320.7"/>
     <path d="M489.4 1799 L340.7 1700.9"/>
+    <path d="M1286.2 1531.5 L1257.3 1539.4"/>
     <path d="M1879.3 929.2 L1771 807.3"/>
+    <path d="M1425.9 1497.4 L1404.6 1501.7"/>
     <path d="M1691.6 1419.9 L1630.3 1473.2"/>
     <path d="M2146.7 2072.3 L2103.2 2172.7"/>
     <path d="M1771 807.3 L1668.2 724.5"/>
@@ -182,7 +189,7 @@
     <path d="M2182.1 1165.9 L2150 1129.1"/>
     <path d="M1695.9 1130.6 L1534.1 1017.2"/>
     <path d="M1469.2 1325.4 L1401.6 1350.2"/>
-    <path d="M1612.5 1628.6 L1627.1 1666"/>
+    <path d="M1615.8 1639.8 L1627.1 1666"/>
     <path d="M1617.5 1427.1 L1658.1 1411.7"/>
     <path d="M1977.6 1354 L1865.9 1384"/>
     <path d="M1741.1 1740.7 L1691.3 1828.1"/>
@@ -220,7 +227,7 @@
     <path d="M1741.1 1740.7 L1785.3 1621.6"/>
     <path d="M1045.2 1688.4 L1212.6 1560.9"/>
     <path d="M1785.3 1621.6 L1854.6 1549.9"/>
-    <path d="M1632.4 1595.8 L1612.5 1628.6"/>
+    <path d="M1632.4 1595.8 L1609.2 1617.5"/>
     <path d="M1657.5 1922.3 L1691.3 1828.1"/>
     <path d="M2753.7 821.8 L2834.9 769.3"/>
     <path d="M2146.7 2072.3 L2235.7 1911"/>
@@ -238,25 +245,29 @@
     <path d="M1996 1391.7 L2122.1 1358.4"/>
     <path d="M1872.4 2541 L1936.5 2529.7"/>
     <path d="M340.7 1700.9 L204.5 1599.1"/>
-    <path d="M1278.7 1442.1 L1317.7 1375"/>
+    <path d="M1278.7 1442.1 L1304.4 1377.5"/>
     <path d="M1979.3 736.9 L1981.1 599.2"/>
     <path d="M2479.9 1003.7 L2560.2 926.2"/>
     <path d="M2490.1 2429.5 L2589.2 2555.6"/>
     <path d="M2883.5 519.5 L2892.9 439.1"/>
     <path d="M105 1534.8 L204.5 1599.1"/>
+    <path d="M1331.1 1372.4 L1304.4 1377.5"/>
   </g>
   <g fill="#ffffaa">
-    <use href="#star" transform="translate(1602 1618.1) scale(0.2100)"><title>Back of the Hill</title></use>
+    <use href="#star" transform="translate(1605.3 1629.3) scale(0.2100)"><title>Back of the Hill</title></use>
+    <use href="#star" transform="translate(1598.7 1607) scale(0.2100)"><title>Riverway</title></use>
     <use href="#star" transform="translate(1621.9 1585.3) scale(0.2100)"><title>Mission Park</title></use>
     <use href="#star" transform="translate(1670.9 1574.1) scale(0.2100)"><title>Fenwood Road</title></use>
     <use href="#star" transform="translate(1725.6 1545.4) scale(0.2100)"><title>Longwood Medical Area</title></use>
-    <use href="#star" transform="translate(1261.3 1525) scale(0.2100)"><title>Dean Road</title></use>
+    <use href="#star" transform="translate(1246.8 1528.9) scale(0.2100)"><title>Englewood Avenue</title></use>
+    <use href="#star" transform="translate(1275.7 1521) scale(0.2100)"><title>Dean Road</title></use>
     <use href="#star" transform="translate(1774.1 1520.2) scale(0.2100)"><title>Museum of Fine Arts</title></use>
     <use href="#star" transform="translate(1158.1 1513.6) scale(0.2100)"><title>Chestnut Hill Avenue</title></use>
     <use href="#star" transform="translate(1312.6 1509.4) scale(0.2100)"><title>Tappan Street</title></use>
     <use href="#star" transform="translate(1348.6 1496) scale(0.2100)"><title>Washington Square</title></use>
     <use href="#star" transform="translate(1110 1492.9) scale(0.2100)"><title>South Street</title></use>
-    <use href="#star" transform="translate(1404.7 1489.1) scale(0.2100)"><title>Brandon Hall</title></use>
+    <use href="#star" transform="translate(1394.1 1491.2) scale(0.2100)"><title>Fairbanks Street</title></use>
+    <use href="#star" transform="translate(1415.4 1486.9) scale(0.2100)"><title>Brandon Hall</title></use>
     <use href="#star" transform="translate(1845.8 1481.4) scale(0.2100)"><title>Northeastern University</title></use>
     <use href="#star" transform="translate(1184.3 1475.6) scale(0.2100)"><title>Chiswick Road</title></use>
     <use href="#star" transform="translate(1452.5 1471.3) scale(0.2100)"><title>Summit Avenue</title></use>
@@ -267,8 +278,9 @@
     <use href="#star" transform="translate(1574.4 1428.6) scale(0.2100)"><title>Kent Street</title></use>
     <use href="#star" transform="translate(1607 1416.6) scale(0.2100)"><title>Hawes Street</title></use>
     <use href="#star" transform="translate(1647.6 1401.2) scale(0.2100)"><title>Saint Mary&#x27;s Street</title></use>
-    <use href="#star" transform="translate(1307.2 1364.5) scale(0.2100)"><title>Allston Street</title></use>
+    <use href="#star" transform="translate(1293.9 1367) scale(0.2100)"><title>Warren Street</title></use>
     <use href="#star" transform="translate(1352.7 1364.2) scale(0.2100)"><title>Griggs Street</title></use>
+    <use href="#star" transform="translate(1320.6 1361.9) scale(0.2100)"><title>Allston Street</title></use>
     <use href="#star" transform="translate(1723.4 1353.4) scale(0.2100)"><title>Blandford Street</title></use>
     <use href="#star" transform="translate(1684.6 1347) scale(0.2100)"><title>Boston University East</title></use>
     <use href="#star" transform="translate(1652.8 1342) scale(0.2100)"><title>Boston University Central</title></use>
@@ -353,13 +365,13 @@
     <use href="#star" transform="translate(2873.4 419.6) scale(0.3900)"><title>Wonderland</title></use>
     <use href="#star" transform="translate(1993.1 230.3) scale(0.3900)"><title>Malden Center</title></use>
     <use href="#star" transform="translate(2025.2 85.5) scale(0.3900)"><title>Oak Grove</title></use>
-    <use href="#star" transform="translate(2218.6 1748.6) scale(0.5400)"><title>JFK/UMass</title></use>
-    <use href="#star" transform="translate(1761.2 1341.8) scale(0.5400)"><title>Kenmore</title></use>
-    <use href="#star" transform="translate(1950.6 1327) scale(0.5400)"><title>Copley</title></use>
-    <use href="#star" transform="translate(2122.8 1240.7) scale(0.5400)"><title>Downtown Crossing</title></use>
-    <use href="#star" transform="translate(2153.9 1191.9) scale(0.5400)"><title>Government Center</title></use>
-    <use href="#star" transform="translate(2155.1 1138.9) scale(0.5400)"><title>Haymarket</title></use>
-    <use href="#star" transform="translate(2123 1102.1) scale(0.5400)"><title>North Station</title></use>
-    <use href="#star" transform="translate(1959.6 1015.9) scale(0.5400)"><title>Lechmere</title></use>
+    <use href="#star" transform="translate(2215.4 1745.4) scale(0.6045)"><title>JFK/UMass</title></use>
+    <use href="#star" transform="translate(1758 1338.6) scale(0.6045)"><title>Kenmore</title></use>
+    <use href="#star" transform="translate(1947.3 1323.7) scale(0.6045)"><title>Copley</title></use>
+    <use href="#star" transform="translate(2119.5 1237.4) scale(0.6045)"><title>Downtown Crossing</title></use>
+    <use href="#star" transform="translate(2150.7 1188.7) scale(0.6045)"><title>Government Center</title></use>
+    <use href="#star" transform="translate(2151.9 1135.7) scale(0.6045)"><title>Haymarket</title></use>
+    <use href="#star" transform="translate(2119.8 1098.9) scale(0.6045)"><title>North Station</title></use>
+    <use href="#star" transform="translate(1956.4 1012.6) scale(0.6045)"><title>Lechmere</title></use>
   </g>
 </svg>

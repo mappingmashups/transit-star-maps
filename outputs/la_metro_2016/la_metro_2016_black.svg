@@ -79,11 +79,11 @@
     <use href="#star" transform="translate(2200.8 221.2) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(2320.7 215.9) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(473.9 79.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1442.9 2105.6) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(1220.7 1216.8) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(1295.1 1085.9) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(1466.1 1022.4) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(1074.6 966.7) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(1437.8 2100.6) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(1215.7 1211.8) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(1290.1 1080.9) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(1461.1 1017.4) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(1069.6 961.6) scale(0.7905)" stroke-width="26.57"/>
       </g>
     </mask>
   </defs>
@@ -243,10 +243,10 @@
     <use href="#star" transform="translate(2200.8 221.2) scale(0.5100)"><title>Lake</title></use>
     <use href="#star" transform="translate(2320.7 215.9) scale(0.5100)"><title>Allen</title></use>
     <use href="#star" transform="translate(473.9 79.5) scale(0.5100)"><title>North Hollywood</title></use>
-    <use href="#star" transform="translate(1442.9 2105.6) scale(0.6900)"><title>Willowbrook (Rosa Parks)</title></use>
-    <use href="#star" transform="translate(1220.7 1216.8) scale(0.6900)"><title>Grand</title></use>
-    <use href="#star" transform="translate(1295.1 1085.9) scale(0.6900)"><title>Metro Center</title></use>
-    <use href="#star" transform="translate(1466.1 1022.4) scale(0.6900)"><title>Union Station</title></use>
-    <use href="#star" transform="translate(1074.6 966.7) scale(0.6900)"><title>Wilshire / Vermont</title></use>
+    <use href="#star" transform="translate(1437.8 2100.6) scale(0.7905)"><title>Willowbrook (Rosa Parks)</title></use>
+    <use href="#star" transform="translate(1215.7 1211.8) scale(0.7905)"><title>Grand</title></use>
+    <use href="#star" transform="translate(1290.1 1080.9) scale(0.7905)"><title>Metro Center</title></use>
+    <use href="#star" transform="translate(1461.1 1017.4) scale(0.7905)"><title>Union Station</title></use>
+    <use href="#star" transform="translate(1069.6 961.6) scale(0.7905)"><title>Wilshire / Vermont</title></use>
   </g>
 </svg>

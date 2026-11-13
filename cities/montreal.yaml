@@ -5,3 +5,5 @@ source:
   type: gtfs
   url: https://www.stm.info/sites/default/files/gtfs/gtfs_stm.zip
   route_types: [1]
+style:
+  star_size_in: 0.21

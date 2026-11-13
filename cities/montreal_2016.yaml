@@ -5,3 +5,5 @@ source:
   type: linework
   stations: legacy/data/montreal/montreal_stations.geojson
   lines: legacy/data/montreal/montreal_lines.geojson
+style:
+  line_style: curved  # match the TileMill-era renders

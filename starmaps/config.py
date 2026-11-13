@@ -75,10 +75,13 @@ DEFAULTS = {
         "line_color": "#d3d3d3",
         # "curved" follows the track; "straight" joins neighboring stars with
         # straight strokes, like the figures drawn on star charts.
-        "line_style": "curved",
+        "line_style": "straight",
         "line_width_in": 0.028,
         "star_size_in": 0.17,  # rank 1
-        "large_star_size_in": 0.23,  # rank 2
+        # rank 2 (hubs). Unset, it is star_size_in * large_star_scale, so the
+        # difference between hubs and other stations is the same in every city.
+        "large_star_size_in": None,
+        "large_star_scale": 1.55,
         "minor_star_size_in": 0.07,  # rank 0; 0 hides minor stops entirely
         "gap_in": 0.035,  # clear space cut out of the lines around each star
         # Stars closer than this on the page are drawn as one (0 = keep all).
@@ -106,6 +109,9 @@ def load(city: str) -> dict:
     with path.open() as f:
         cfg = _merge(DEFAULTS, yaml.safe_load(f) or {})
     cfg["id"] = city
+    st = cfg["style"]
+    if st["large_star_size_in"] is None:
+        st["large_star_size_in"] = round(st["star_size_in"] * st["large_star_scale"], 4)
     cfg["name"] = cfg["name"] or city
     return cfg
 
