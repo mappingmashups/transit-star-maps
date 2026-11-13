@@ -10,6 +10,9 @@ style:
   star_size_in: 0.13
   min_star_spacing_in: 0.12
 stations:
+  # Extra large stars: line ends and landmark stations.
+  large:
+    - Rose Quarter TC MAX Station
   # Downtown, MAX runs on one-way couplets (5th/6th Avenues, Yamhill/Morrison),
   # so each stop is two stations a block apart. One star per pair.
   merge:

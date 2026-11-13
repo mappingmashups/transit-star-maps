@@ -51,6 +51,13 @@ source:
         - Escondido
         - San Diego Intl Airport
 stations:
+  # Extra large stars: line ends and landmark stations.
+  large:
+    - Transbay Transit Center
+    - Sacramento
+    - San Diego Intl Airport
+    - Anaheim Station (ARTIC)
+    - San Jose Diridon Station
   merge_distance_m: 300
 map:
   max_height_in: 12

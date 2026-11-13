@@ -49,19 +49,17 @@
     <use href="#star" transform="translate(2470.9 184.2) scale(0.6300)" stroke-width="33.33"/>
     <use href="#star" transform="translate(573.9 171) scale(0.6300)" stroke-width="33.33"/>
     <use href="#star" transform="translate(2846.5 156.8) scale(0.6300)" stroke-width="33.33"/>
-    <use href="#star" transform="translate(511.6 121.2) scale(0.6300)" stroke-width="33.33"/>
-    <use href="#star" transform="translate(555.4 99.8) scale(0.6300)" stroke-width="33.33"/>
     <use href="#star" transform="translate(2863.5 98.4) scale(0.6300)" stroke-width="33.33"/>
     <use href="#star" transform="translate(433.2 1075.5) scale(0.9765)" stroke-width="21.51"/>
     <use href="#star" transform="translate(2020.9 973.8) scale(0.9765)" stroke-width="21.51"/>
     <use href="#star" transform="translate(2087.9 492.4) scale(0.9765)" stroke-width="21.51"/>
     <use href="#star" transform="translate(847.7 336.5) scale(0.9765)" stroke-width="21.51"/>
+    <use href="#star" transform="translate(505.2 98.5) scale(0.9765)" stroke-width="21.51"/>
       </g>
     </mask>
   </defs>
   <rect width="3000" height="1533" fill="#000000"/>
   <g mask="url(#gaps)" fill="none" stroke="#d3d3d3" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M586.9 131.3 L543.1 152.7"/>
     <path d="M105 1138.6 L252.1 1152"/>
     <path d="M252.1 1152 L335.6 1111.4"/>
     <path d="M407 1428.3 L406.4 1354.2"/>
@@ -74,8 +72,7 @@
     <path d="M553.3 703.6 L559.7 533.5"/>
     <path d="M559.7 533.5 L562.6 362.9"/>
     <path d="M562.6 362.9 L512.4 254.5"/>
-    <path d="M512.4 254.5 L543.1 152.7"/>
-    <path d="M586.9 131.3 L543.1 152.7"/>
+    <path d="M512.4 254.5 L554.1 147.3"/>
     <path d="M822.3 350.2 L896.6 385.3"/>
     <path d="M896.6 385.3 L1065.2 426.9"/>
     <path d="M896.6 385.3 L668.7 269.7"/>
@@ -95,7 +92,7 @@
     <path d="M2631.1 224.3 L2831.3 255.4"/>
     <path d="M2831.3 255.4 L2878 188.3"/>
     <path d="M2878 188.3 L2895 129.9"/>
-    <path d="M543.1 152.7 L605.4 202.5"/>
+    <path d="M554.1 147.3 L605.4 202.5"/>
     <path d="M605.4 202.5 L668.7 269.7"/>
     <path d="M989.1 543.5 L1059.8 588"/>
     <path d="M1059.8 588 L1162.9 653"/>
@@ -159,12 +156,11 @@
     <use href="#star" transform="translate(2470.9 184.2) scale(0.6300)"><title>Moody Centre Station</title></use>
     <use href="#star" transform="translate(573.9 171) scale(0.6300)"><title>Stadium-Chinatown Station</title></use>
     <use href="#star" transform="translate(2846.5 156.8) scale(0.6300)"><title>Lincoln Station</title></use>
-    <use href="#star" transform="translate(511.6 121.2) scale(0.6300)"><title>Vancouver City Centre Station</title></use>
-    <use href="#star" transform="translate(555.4 99.8) scale(0.6300)"><title>Waterfront Station</title></use>
     <use href="#star" transform="translate(2863.5 98.4) scale(0.6300)"><title>Lafarge Lake-Douglas Station</title></use>
     <use href="#star" transform="translate(433.2 1075.5) scale(0.9765)"><title>Bridgeport Station</title></use>
     <use href="#star" transform="translate(2020.9 973.8) scale(0.9765)"><title>Columbia Station</title></use>
     <use href="#star" transform="translate(2087.9 492.4) scale(0.9765)"><title>Lougheed Town Centre Station</title></use>
     <use href="#star" transform="translate(847.7 336.5) scale(0.9765)"><title>Commercial-Broadway Station</title></use>
+    <use href="#star" transform="translate(505.2 98.5) scale(0.9765)"><title>Waterfront Station</title></use>
   </g>
 </svg>

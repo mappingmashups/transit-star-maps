@@ -26,7 +26,7 @@ A Python pipeline turns a transit agency's GTFS feed into a constellation, in th
    * **Lines** come from the order of stops in each trip. Every trip's shape is cut at its stations and kept once per station pair, so both directions, and every route running on a shared trunk, become a single line.
    * **Express runs** that skip stations are dropped when the local line already connects the same stations.
    * **Smoothing:** lines are simplified and lightly smoothed.
-   * **Star size:** stations where three or more lines meet get a larger star.
+   * **Star size:** stations where three or more lines meet get a larger star. List any other station under `stations.large` in the city config (e.g. line ends or landmark stations) to give it one too; this takes effect at render time, without rebuilding the network.
    * **Dense cores:** in a city with a crowded downtown (Portland, LA), `style.min_star_spacing_in` combines stars that would overlap on the page into one.
 3. **Render** writes `outputs/<city>/<city>_black.svg` and `<city>_transparent.svg`, plus PNGs of each, sized for printing (10 in wide at 300 dpi by default, with the dpi recorded in the PNG). The lines are cut away around every star with an SVG mask rather than a black outline, so the transparent version needs no Photoshop work.
 

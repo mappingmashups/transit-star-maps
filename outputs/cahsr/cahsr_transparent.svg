@@ -5,10 +5,8 @@
     <mask id="gaps" maskUnits="userSpaceOnUse" x="0" y="0" width="3000" height="3600">
       <rect width="3000" height="3600" fill="#fff"/>
       <g fill="#000" stroke="#000" stroke-linejoin="round">
-    <use href="#star" transform="translate(2683 3456) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(2716.1 3232.5) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(2670.1 2974.6) scale(0.7800)" stroke-width="26.92"/>
-    <use href="#star" transform="translate(2317 2826.3) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(2627.4 2804) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(2239.9 2780.7) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(2388.3 2695.2) scale(0.7800)" stroke-width="26.92"/>
@@ -22,14 +20,16 @@
     <use href="#star" transform="translate(1399.9 1151.1) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(574.5 985.8) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(1076.6 818.9) scale(0.7800)" stroke-width="26.92"/>
-    <use href="#star" transform="translate(421.4 792.9) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(201 629.8) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(842.2 620.7) scale(0.7800)" stroke-width="26.92"/>
-    <use href="#star" transform="translate(200.3 523.3) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(735.3 448.8) scale(0.7800)" stroke-width="26.92"/>
-    <use href="#star" transform="translate(622.5 66) scale(0.7800)" stroke-width="26.92"/>
+    <use href="#star" transform="translate(2661.5 3434.6) scale(1.2090)" stroke-width="17.37"/>
+    <use href="#star" transform="translate(2295.6 2804.8) scale(1.2090)" stroke-width="17.37"/>
     <use href="#star" transform="translate(2131.9 2679.4) scale(1.2090)" stroke-width="17.37"/>
     <use href="#star" transform="translate(1247.5 960.9) scale(1.2090)" stroke-width="17.37"/>
+    <use href="#star" transform="translate(400 771.4) scale(1.2090)" stroke-width="17.37"/>
+    <use href="#star" transform="translate(178.9 501.8) scale(1.2090)" stroke-width="17.37"/>
+    <use href="#star" transform="translate(601.1 44.5) scale(1.2090)" stroke-width="17.37"/>
       </g>
     </mask>
   </defs>
@@ -61,10 +61,8 @@
     <path d="M2192.4 2739.9 L2278.9 2819.7"/>
   </g>
   <g fill="#ffffaa">
-    <use href="#star" transform="translate(2683 3456) scale(0.7800)"><title>San Diego Intl Airport</title></use>
     <use href="#star" transform="translate(2716.1 3232.5) scale(0.7800)"><title>Escondido</title></use>
     <use href="#star" transform="translate(2670.1 2974.6) scale(0.7800)"><title>Murrieta/I-215 Station Option</title></use>
-    <use href="#star" transform="translate(2317 2826.3) scale(0.7800)"><title>Fullerton Station</title></use>
     <use href="#star" transform="translate(2627.4 2804) scale(0.7800)"><title>March ARB Option</title></use>
     <use href="#star" transform="translate(2239.9 2780.7) scale(0.7800)"><title>Norwalk/Santa Fe Springs Stati</title></use>
     <use href="#star" transform="translate(2388.3 2695.2) scale(0.7800)"><title>Pomona/First Option</title></use>
@@ -78,13 +76,15 @@
     <use href="#star" transform="translate(1399.9 1151.1) scale(0.7800)"><title>Fresno - Mariposa St.</title></use>
     <use href="#star" transform="translate(574.5 985.8) scale(0.7800)"><title>Downtown Gilroy Station</title></use>
     <use href="#star" transform="translate(1076.6 818.9) scale(0.7800)"><title>Downtown Merced</title></use>
-    <use href="#star" transform="translate(421.4 792.9) scale(0.7800)"><title>San Jose Diridon Station</title></use>
     <use href="#star" transform="translate(201 629.8) scale(0.7800)"><title>Millbrae (SFO) Station</title></use>
     <use href="#star" transform="translate(842.2 620.7) scale(0.7800)"><title>Modesto</title></use>
-    <use href="#star" transform="translate(200.3 523.3) scale(0.7800)"><title>4th &amp; King Station</title></use>
     <use href="#star" transform="translate(735.3 448.8) scale(0.7800)"><title>Stockton</title></use>
-    <use href="#star" transform="translate(622.5 66) scale(0.7800)"><title>Sacramento</title></use>
+    <use href="#star" transform="translate(2661.5 3434.6) scale(1.2090)"><title>San Diego Intl Airport</title></use>
+    <use href="#star" transform="translate(2295.6 2804.8) scale(1.2090)"><title>Anaheim Station (ARTIC)</title></use>
     <use href="#star" transform="translate(2131.9 2679.4) scale(1.2090)"><title>Los Angeles Union Station</title></use>
     <use href="#star" transform="translate(1247.5 960.9) scale(1.2090)"><title>Madera Stop</title></use>
+    <use href="#star" transform="translate(400 771.4) scale(1.2090)"><title>San Jose Diridon Station</title></use>
+    <use href="#star" transform="translate(178.9 501.8) scale(1.2090)"><title>Transbay Transit Center</title></use>
+    <use href="#star" transform="translate(601.1 44.5) scale(1.2090)"><title>Sacramento</title></use>
   </g>
 </svg>

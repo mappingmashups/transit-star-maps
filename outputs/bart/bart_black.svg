@@ -29,7 +29,6 @@
     <use href="#star" transform="translate(280.6 1388.2) scale(0.6600)" stroke-width="31.82"/>
     <use href="#star" transform="translate(1071.8 1340.6) scale(0.6600)" stroke-width="31.82"/>
     <use href="#star" transform="translate(317.8 1302.5) scale(0.6600)" stroke-width="31.82"/>
-    <use href="#star" transform="translate(363.5 1257) scale(0.6600)" stroke-width="31.82"/>
     <use href="#star" transform="translate(784.7 1187.1) scale(0.6600)" stroke-width="31.82"/>
     <use href="#star" transform="translate(962.5 984.3) scale(0.6600)" stroke-width="31.82"/>
     <use href="#star" transform="translate(887.7 941.8) scale(0.6600)" stroke-width="31.82"/>
@@ -49,6 +48,7 @@
     <use href="#star" transform="translate(2201 96.7) scale(0.6600)" stroke-width="31.82"/>
     <use href="#star" transform="translate(1448.5 1719.7) scale(1.0230)" stroke-width="20.53"/>
     <use href="#star" transform="translate(1164.2 1430.9) scale(1.0230)" stroke-width="20.53"/>
+    <use href="#star" transform="translate(345.3 1238.9) scale(1.0230)" stroke-width="20.53"/>
     <use href="#star" transform="translate(874.1 1179) scale(1.0230)" stroke-width="20.53"/>
     <use href="#star" transform="translate(880.1 1047.3) scale(1.0230)" stroke-width="20.53"/>
       </g>
@@ -127,7 +127,6 @@
     <use href="#star" transform="translate(280.6 1388.2) scale(0.6600)"><title>16th Street / Mission</title></use>
     <use href="#star" transform="translate(1071.8 1340.6) scale(0.6600)"><title>Fruitvale</title></use>
     <use href="#star" transform="translate(317.8 1302.5) scale(0.6600)"><title>Civic Center / UN Plaza</title></use>
-    <use href="#star" transform="translate(363.5 1257) scale(0.6600)"><title>Embarcadero</title></use>
     <use href="#star" transform="translate(784.7 1187.1) scale(0.6600)"><title>West Oakland</title></use>
     <use href="#star" transform="translate(962.5 984.3) scale(0.6600)"><title>Rockridge</title></use>
     <use href="#star" transform="translate(887.7 941.8) scale(0.6600)"><title>Ashby</title></use>
@@ -147,6 +146,7 @@
     <use href="#star" transform="translate(2201 96.7) scale(0.6600)"><title>Pittsburg / Bay Point</title></use>
     <use href="#star" transform="translate(1448.5 1719.7) scale(1.0230)"><title>Bay Fair</title></use>
     <use href="#star" transform="translate(1164.2 1430.9) scale(1.0230)"><title>Coliseum</title></use>
+    <use href="#star" transform="translate(345.3 1238.9) scale(1.0230)"><title>Embarcadero</title></use>
     <use href="#star" transform="translate(874.1 1179) scale(1.0230)"><title>12th Street / Oakland City Center</title></use>
     <use href="#star" transform="translate(880.1 1047.3) scale(1.0230)"><title>MacArthur</title></use>
   </g>

@@ -51,6 +51,12 @@ source:
                  Hilltop District, St Joseph, Ainsworth, Sprague, Union, Stevens, Pearl,
                  Tacoma Community College]
 stations:
+  # Extra large stars: line ends and landmark stations.
+  large:
+    - Everett Station
+    - Central Issaquah
+    - Downtown Redmond
+    - Tacoma Dome
   merge_distance_m: 150
 style:
   min_star_spacing_in: 0.12

@@ -8,3 +8,7 @@ source:
 style:
   star_size_in: 0.21
   min_star_spacing_in: 0.15
+stations:
+  # Extra large stars: line ends and landmark stations.
+  large:
+    - Waterfront Station

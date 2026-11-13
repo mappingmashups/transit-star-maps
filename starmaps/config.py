@@ -51,7 +51,8 @@ DEFAULTS = {
         "merge_distance_m": 120,
         "merge": [],  # lists of station names/ids to force into one star
         "drop": [],  # station names/ids to leave out
-        "rank": {},  # name -> star rank (1 regular, 2 large) overrides
+        "rank": {},  # name -> star rank (0 minor, 1 regular, 2 large) overrides
+        "large": [],  # names (or ids) of stations that get a large star anyway
         "transfer_degree": 3,  # stations with this many neighbors get a large star
         # Regexes for GTFS fare areas (stop_areas.txt) whose stations are minor
         # stops, drawn with style.minor_star_size_in (rank 0).

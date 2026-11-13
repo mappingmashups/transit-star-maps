@@ -58,6 +58,27 @@ def layout(stations, segments, cfg):
     return to_px, width, height
 
 
+def apply_overrides(stations, scfg):
+    """Apply per-station star sizes from the config at render time, so they
+    take effect without rebuilding the network."""
+    key = lambda v: str(v).strip().lower()  # noqa: E731
+    ranks = {key(k): v for k, v in scfg["rank"].items()}
+    ranks.update({key(n): 2 for n in scfg["large"]})
+    found = set()
+    out = []
+    for s in stations:
+        for k in (key(s["name"]), key(s["id"])):
+            if k in ranks:
+                s = {**s, "rank": ranks[k]}
+                found.add(k)
+                break
+        out.append(s)
+    missing = sorted(set(ranks) - found)
+    if missing:
+        print(f"  note: no station named {missing}")
+    return out
+
+
 def declutter(stations, segments, min_px, px_per_m, rank_scale=None):
     """Combine stars that would sit closer than `min_px` on the page.
 
@@ -121,6 +142,7 @@ def declutter(stations, segments, min_px, px_per_m, rank_scale=None):
 def svg(stations, segments, cfg, variant: str = "black") -> str:
     st = cfg["style"]
     dpi = cfg["map"]["dpi"]
+    stations = apply_overrides(stations, cfg["stations"])
     to_px, W, H = layout(stations, segments, cfg)
     if st["minor_star_size_in"] <= 0:
         stations = [s for s in stations if s["rank"] != 0]
