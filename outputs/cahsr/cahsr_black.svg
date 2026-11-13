@@ -7,6 +7,7 @@
       <g fill="#000" stroke="#000" stroke-linejoin="round">
     <use href="#star" transform="translate(2716.1 3232.5) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(2670.1 2974.6) scale(0.7800)" stroke-width="26.92"/>
+    <use href="#star" transform="translate(2317 2826.3) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(2627.4 2804) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(2239.9 2780.7) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(2388.3 2695.2) scale(0.7800)" stroke-width="26.92"/>
@@ -24,7 +25,6 @@
     <use href="#star" transform="translate(842.2 620.7) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(735.3 448.8) scale(0.7800)" stroke-width="26.92"/>
     <use href="#star" transform="translate(2661.5 3434.6) scale(1.2090)" stroke-width="17.37"/>
-    <use href="#star" transform="translate(2295.6 2804.8) scale(1.2090)" stroke-width="17.37"/>
     <use href="#star" transform="translate(2131.9 2679.4) scale(1.2090)" stroke-width="17.37"/>
     <use href="#star" transform="translate(1247.5 960.9) scale(1.2090)" stroke-width="17.37"/>
     <use href="#star" transform="translate(400 771.4) scale(1.2090)" stroke-width="17.37"/>
@@ -63,6 +63,7 @@
   <g fill="#ffffaa">
     <use href="#star" transform="translate(2716.1 3232.5) scale(0.7800)"><title>Escondido</title></use>
     <use href="#star" transform="translate(2670.1 2974.6) scale(0.7800)"><title>Murrieta/I-215 Station Option</title></use>
+    <use href="#star" transform="translate(2317 2826.3) scale(0.7800)"><title>Fullerton Station</title></use>
     <use href="#star" transform="translate(2627.4 2804) scale(0.7800)"><title>March ARB Option</title></use>
     <use href="#star" transform="translate(2239.9 2780.7) scale(0.7800)"><title>Norwalk/Santa Fe Springs Stati</title></use>
     <use href="#star" transform="translate(2388.3 2695.2) scale(0.7800)"><title>Pomona/First Option</title></use>
@@ -80,7 +81,6 @@
     <use href="#star" transform="translate(842.2 620.7) scale(0.7800)"><title>Modesto</title></use>
     <use href="#star" transform="translate(735.3 448.8) scale(0.7800)"><title>Stockton</title></use>
     <use href="#star" transform="translate(2661.5 3434.6) scale(1.2090)"><title>San Diego Intl Airport</title></use>
-    <use href="#star" transform="translate(2295.6 2804.8) scale(1.2090)"><title>Anaheim Station (ARTIC)</title></use>
     <use href="#star" transform="translate(2131.9 2679.4) scale(1.2090)"><title>Los Angeles Union Station</title></use>
     <use href="#star" transform="translate(1247.5 960.9) scale(1.2090)"><title>Madera Stop</title></use>
     <use href="#star" transform="translate(400 771.4) scale(1.2090)"><title>San Jose Diridon Station</title></use>

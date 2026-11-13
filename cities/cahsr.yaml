@@ -56,7 +56,6 @@ stations:
     - Transbay Transit Center
     - Sacramento
     - San Diego Intl Airport
-    - Anaheim Station (ARTIC)
     - San Jose Diridon Station
   merge_distance_m: 300
 map:
