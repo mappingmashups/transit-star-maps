@@ -13,6 +13,15 @@ title: Transit Star Maps
 # The site's public address, used for the social card and link previews.
 # Change to https://transitstarmaps.com/ once the domain points at GitHub Pages.
 url: https://mappingmashups.github.io/transit-star-maps/
+# Old Tumblr post IDs -> map (city) to jump to. Any other old address
+# (/tagged/..., /archive, unlisted maps) goes to the top of the page.
+old_posts:
+  "120301591440": bart          # transit-star-map-bart-sf-bay
+  "120301636190": la_metro      # transit-star-map-la-metro
+  "120301804435": trimet_max    # transit-star-map-max-portland
+  "120301852490": bc_skytrain   # transit-star-map-skytrain-vancouver
+  "134840128565": toronto       # transit-star-map-ttc-toronto-canada
+  "134840215485": montreal      # transit-star-map-montréal-canada
 # The map shown on the social card (docs/social-card.png).
 card_map: bart
 tagline: Subway and light rail networks, drawn as constellations.

@@ -7,6 +7,7 @@ list overrides the line style), and fills site/index.template.html.
 """
 
 import datetime as dt
+import json
 import random
 import shutil
 import urllib.parse
@@ -57,7 +58,7 @@ def card(entry, svg_path):
     button = f'<a class="button" href="{escape(shop)}" target="_blank" rel="noopener">Shop</a>' if shop else ""
     note = f'<p class="note">{escape(entry["note"])}</p>' if entry.get("note") else ""
     alt = f"{entry['system']} in {entry['place']} drawn as a constellation"
-    return f"""    <article class="card">
+    return f"""    <article class="card" id="{escape(entry['city'])}">
       <button class="frame" type="button" data-src="{rel}" data-title="{place} · {system}" data-shop="{escape(shop)}" aria-label="Enlarge {place}">
         <img src="{rel}" alt="{escape(alt)}" loading="lazy">
       </button>
@@ -133,7 +134,10 @@ def main():
     # Tumblr URLs (/post/..., /tagged/..., /archive); send them home.
     home = urllib.parse.urlparse(url).path or "/"
     page = (SITE / "404.template.html").read_text()
-    page = page.replace("{{home}}", escape(home)).replace("{{title}}", escape(site["title"]))
+    listed = {e["city"] for e in site["maps"]}
+    posts = {str(k): v for k, v in (site.get("old_posts") or {}).items() if v in listed}
+    page = (page.replace("{{home}}", escape(home)).replace("{{title}}", escape(site["title"]))
+            .replace("{{posts}}", json.dumps(posts)))
     (DOCS / "404.html").write_text(page)
     values = {
         "title": escape(site["title"]),
