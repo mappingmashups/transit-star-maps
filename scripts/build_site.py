@@ -9,6 +9,7 @@ list overrides the line style), and fills site/index.template.html.
 import datetime as dt
 import random
 import shutil
+import urllib.parse
 import sys
 from html import escape
 from pathlib import Path
@@ -128,6 +129,12 @@ def main():
         raise SystemExit(f"card_map {site['card_map']!r} must be one of the maps listed")
     card_alt = f"{site['title']}: {card_entry['system']} in {card_entry['place']} drawn as a constellation"
     social_card(site, card_entry)
+    # GitHub Pages serves 404.html for any missing address, including old
+    # Tumblr URLs (/post/..., /tagged/..., /archive); send them home.
+    home = urllib.parse.urlparse(url).path or "/"
+    page = (SITE / "404.template.html").read_text()
+    page = page.replace("{{home}}", escape(home)).replace("{{title}}", escape(site["title"]))
+    (DOCS / "404.html").write_text(page)
     values = {
         "title": escape(site["title"]),
         "tagline": escape(site["tagline"]),
