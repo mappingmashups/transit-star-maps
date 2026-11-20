@@ -58,8 +58,33 @@ def layout(stations, segments, cfg):
     return to_px, width, height
 
 
-def declutter(stations, segments, min_px, px_per_m):
+def apply_overrides(stations, scfg):
+    """Apply per-station star sizes from the config at render time, so they
+    take effect without rebuilding the network."""
+    key = lambda v: str(v).strip().lower()  # noqa: E731
+    ranks = {key(k): v for k, v in scfg["rank"].items()}
+    ranks.update({key(n): 2 for n in scfg["large"]})
+    found = set()
+    out = []
+    for s in stations:
+        for k in (key(s["name"]), key(s["id"])):
+            if k in ranks:
+                s = {**s, "rank": ranks[k]}
+                found.add(k)
+                break
+        out.append(s)
+    missing = sorted(set(ranks) - found)
+    if missing:
+        print(f"  note: no station named {missing}")
+    return out
+
+
+def declutter(stations, segments, min_px, px_per_m, rank_scale=None):
     """Combine stars that would sit closer than `min_px` on the page.
+
+    `min_px` is for two regular stars; `rank_scale` ({rank: size relative to
+    a regular star}) widens it for larger stars, so a hub star is kept clear
+    of its neighbors too.
 
     Clusters grow greedily from the closest pair, and only while their
     centers stay `min_px` apart, so a long row of evenly spaced stations
@@ -68,7 +93,11 @@ def declutter(stations, segments, min_px, px_per_m):
     if min_px <= 0:
         return stations, segments
     limit = min_px / px_per_m
+    rank_scale = rank_scale or {}
     clusters = [[s] for s in stations]
+
+    def size(c):
+        return rank_scale.get(max(s["rank"] for s in c), 1.0)
 
     def center(c):
         return (sum(s["x"] for s in c) / len(c), sum(s["y"] for s in c) / len(c))
@@ -76,10 +105,11 @@ def declutter(stations, segments, min_px, px_per_m):
     while True:
         best = None
         centers = [center(c) for c in clusters]
+        sizes = [size(c) for c in clusters]
         for i in range(len(clusters)):
             for j in range(i + 1, len(clusters)):
                 d = math.dist(centers[i], centers[j])
-                if d < limit and (best is None or d < best[0]):
+                if d < limit * (sizes[i] + sizes[j]) / 2 and (best is None or d < best[0]):
                     best = (d, i, j)
         if best is None:
             break
@@ -112,12 +142,15 @@ def declutter(stations, segments, min_px, px_per_m):
 def svg(stations, segments, cfg, variant: str = "black") -> str:
     st = cfg["style"]
     dpi = cfg["map"]["dpi"]
+    stations = apply_overrides(stations, cfg["stations"])
     to_px, W, H = layout(stations, segments, cfg)
     if st["minor_star_size_in"] <= 0:
         stations = [s for s in stations if s["rank"] != 0]
     p0, p1 = to_px(0, 0), to_px(1000, 0)
     stations, segments = declutter(
-        stations, segments, st["min_star_spacing_in"] * dpi, math.dist(p0, p1) / 1000
+        stations, segments, st["min_star_spacing_in"] * dpi, math.dist(p0, p1) / 1000,
+        {0: st["minor_star_size_in"] / st["star_size_in"], 1: 1.0,
+         2: st["large_star_size_in"] / st["star_size_in"]},
     )
     if st["line_style"] == "straight":
         # Constellation-chart style: a straight stroke from star to star.

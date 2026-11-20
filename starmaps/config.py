@@ -33,6 +33,11 @@ DEFAULTS = {
         "stations": None,
         "lines": None,
         "stations_query": None,
+        # routes sources: [{name, stations: [names in order]}] drawn over the
+        # optional linework; `downloads` ({file: URL}) are fetched into
+        # data/raw/<city>/ first.
+        "routes": [],
+        "downloads": {},
         "lines_query": None,
         "station_name_field": "name",
         "snap_m": 120,  # linework: how far a station may be from its line
@@ -46,7 +51,8 @@ DEFAULTS = {
         "merge_distance_m": 120,
         "merge": [],  # lists of station names/ids to force into one star
         "drop": [],  # station names/ids to leave out
-        "rank": {},  # name -> star rank (1 regular, 2 large) overrides
+        "rank": {},  # name -> star rank (0 minor, 1 regular, 2 large) overrides
+        "large": [],  # names (or ids) of stations that get a large star anyway
         "transfer_degree": 3,  # stations with this many neighbors get a large star
         # Regexes for GTFS fare areas (stop_areas.txt) whose stations are minor
         # stops, drawn with style.minor_star_size_in (rank 0).
@@ -70,10 +76,13 @@ DEFAULTS = {
         "line_color": "#d3d3d3",
         # "curved" follows the track; "straight" joins neighboring stars with
         # straight strokes, like the figures drawn on star charts.
-        "line_style": "curved",
+        "line_style": "straight",
         "line_width_in": 0.028,
         "star_size_in": 0.17,  # rank 1
-        "large_star_size_in": 0.23,  # rank 2
+        # rank 2 (hubs). Unset, it is star_size_in * large_star_scale, so the
+        # difference between hubs and other stations is the same in every city.
+        "large_star_size_in": None,
+        "large_star_scale": 1.55,
         "minor_star_size_in": 0.07,  # rank 0; 0 hides minor stops entirely
         "gap_in": 0.035,  # clear space cut out of the lines around each star
         # Stars closer than this on the page are drawn as one (0 = keep all).
@@ -101,6 +110,9 @@ def load(city: str) -> dict:
     with path.open() as f:
         cfg = _merge(DEFAULTS, yaml.safe_load(f) or {})
     cfg["id"] = city
+    st = cfg["style"]
+    if st["large_star_size_in"] is None:
+        st["large_star_size_in"] = round(st["star_size_in"] * st["large_star_scale"], 4)
     cfg["name"] = cfg["name"] or city
     return cfg
 

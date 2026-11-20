@@ -5,9 +5,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Transit Star Maps</title>
 <meta name="description" content="Subway and light rail networks, drawn as constellations.">
+<link rel="canonical" href="https://mappingmashups.github.io/transit-star-maps/">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://mappingmashups.github.io/transit-star-maps/">
+<meta property="og:site_name" content="Transit Star Maps">
 <meta property="og:title" content="Transit Star Maps">
 <meta property="og:description" content="Subway and light rail networks, drawn as constellations.">
-<meta property="og:image" content="maps/bart.svg">
+<meta property="og:image" content="https://mappingmashups.github.io/transit-star-maps/social-card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Transit Star Maps: BART in San Francisco Bay Area drawn as a constellation">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Transit Star Maps">
+<meta name="twitter:description" content="Subway and light rail networks, drawn as constellations.">
+<meta name="twitter:image" content="https://mappingmashups.github.io/transit-star-maps/social-card.png">
+<meta name="twitter:image:alt" content="Transit Star Maps: BART in San Francisco Bay Area drawn as a constellation">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -60,7 +72,8 @@
     gap: 28px;
     padding: 24px 0 72px;
   }
-  .card { display: flex; flex-direction: column; }
+  .card { display: flex; flex-direction: column; scroll-margin-top: 24px; }
+  .card:target .frame { border-color: rgba(255, 255, 170, .6); box-shadow: 0 0 48px rgba(255, 255, 170, .12); }
   .frame {
     display: block; width: 100%;
     position: relative;
@@ -115,12 +128,12 @@
   <h1><span class="mark">★</span>Transit Star Maps<span class="mark">★</span></h1>
   <p class="tagline">Subway and light rail networks, drawn as constellations.</p>
   <p class="about">Every star is a station, placed where it really is. Every line follows the track between neighboring stations. Bigger stars mark the places where lines meet or branch. The result is a city&#x27;s transit system as it might appear in the night sky.</p>
-  
+  <a class="button shop-all" href="https://www.zazzle.com/transitstarmaps">Shop all shirts</a>
 </header>
 
 <main class="wrap">
   <section class="grid" aria-label="Maps">
-    <article class="card">
+    <article class="card" id="bart">
       <button class="frame" type="button" data-src="maps/bart.svg" data-title="San Francisco Bay Area · BART" data-shop="" aria-label="Enlarge San Francisco Bay Area">
         <img src="maps/bart.svg" alt="BART in San Francisco Bay Area drawn as a constellation" loading="lazy">
       </button>
@@ -129,7 +142,7 @@
         
       </div>
     </article>
-    <article class="card">
+    <article class="card" id="dc_metro">
       <button class="frame" type="button" data-src="maps/dc_metro.svg" data-title="Washington, D.C. · Metrorail" data-shop="" aria-label="Enlarge Washington, D.C.">
         <img src="maps/dc_metro.svg" alt="Metrorail in Washington, D.C. drawn as a constellation" loading="lazy">
       </button>
@@ -138,7 +151,7 @@
         
       </div>
     </article>
-    <article class="card">
+    <article class="card" id="boston_mbta">
       <button class="frame" type="button" data-src="maps/boston_mbta.svg" data-title="Boston · MBTA Subway" data-shop="" aria-label="Enlarge Boston">
         <img src="maps/boston_mbta.svg" alt="MBTA Subway in Boston drawn as a constellation" loading="lazy">
       </button>
@@ -147,7 +160,7 @@
         
       </div>
     </article>
-    <article class="card">
+    <article class="card" id="montreal">
       <button class="frame" type="button" data-src="maps/montreal.svg" data-title="Montréal · Métro" data-shop="" aria-label="Enlarge Montréal">
         <img src="maps/montreal.svg" alt="Métro in Montréal drawn as a constellation" loading="lazy">
       </button>
@@ -156,7 +169,7 @@
         
       </div>
     </article>
-    <article class="card">
+    <article class="card" id="bc_skytrain">
       <button class="frame" type="button" data-src="maps/bc_skytrain.svg" data-title="Vancouver · SkyTrain" data-shop="" aria-label="Enlarge Vancouver">
         <img src="maps/bc_skytrain.svg" alt="SkyTrain in Vancouver drawn as a constellation" loading="lazy">
       </button>
@@ -165,7 +178,7 @@
         
       </div>
     </article>
-    <article class="card">
+    <article class="card" id="la_metro">
       <button class="frame" type="button" data-src="maps/la_metro.svg" data-title="Los Angeles · Metro Rail" data-shop="" aria-label="Enlarge Los Angeles">
         <img src="maps/la_metro.svg" alt="Metro Rail in Los Angeles drawn as a constellation" loading="lazy">
       </button>
@@ -180,7 +193,7 @@
 <footer>
   <div class="wrap">
     <span>Station data from each agency's published GTFS feed. © 2026 Transit Star Maps.</span>
-    <nav aria-label="Links"><a href="https://twitter.com/transitstarmaps">Twitter</a> <a href="https://facebook.com/transitstarmaps/">Facebook</a> <a href="https://github.com/mappingmashups/transit-star-maps">GitHub</a></nav>
+    <nav aria-label="Links"><a href="https://facebook.com/transitstarmaps/">Facebook</a> <a href="https://github.com/mappingmashups/transit-star-maps">GitHub</a></nav>
   </div>
 </footer>
 

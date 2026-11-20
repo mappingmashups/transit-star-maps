@@ -86,9 +86,9 @@
     <use href="#star" transform="translate(2022.2 206.9) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1573.3 150.1) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1573.6 85.5) scale(0.3900)" stroke-width="53.85"/>
-    <use href="#star" transform="translate(1601.9 679.9) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(1652.6 599.6) scale(0.5400)" stroke-width="38.89"/>
-    <use href="#star" transform="translate(2160.1 595.8) scale(0.5400)" stroke-width="38.89"/>
+    <use href="#star" transform="translate(1598.6 676.7) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(1649.4 596.4) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(2156.9 592.6) scale(0.6045)" stroke-width="34.74"/>
       </g>
     </mask>
   </defs>
@@ -260,8 +260,8 @@
     <use href="#star" transform="translate(2022.2 206.9) scale(0.3900)"><title>Portland International Airport</title></use>
     <use href="#star" transform="translate(1573.3 150.1) scale(0.3900)"><title>Delta Park/Vanport</title></use>
     <use href="#star" transform="translate(1573.6 85.5) scale(0.3900)"><title>Expo Center</title></use>
-    <use href="#star" transform="translate(1601.9 679.9) scale(0.5400)"><title>Mall/SW 4th Ave</title></use>
-    <use href="#star" transform="translate(1652.6 599.6) scale(0.5400)"><title>Interstate/Rose Quarter</title></use>
-    <use href="#star" transform="translate(2160.1 595.8) scale(0.5400)"><title>Gateway/NE 99th Ave TC</title></use>
+    <use href="#star" transform="translate(1598.6 676.7) scale(0.6045)"><title>Mall/SW 4th Ave</title></use>
+    <use href="#star" transform="translate(1649.4 596.4) scale(0.6045)"><title>Interstate/Rose Quarter</title></use>
+    <use href="#star" transform="translate(2156.9 592.6) scale(0.6045)"><title>Gateway/NE 99th Ave TC</title></use>
   </g>
 </svg>

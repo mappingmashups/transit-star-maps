@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>{{title}}</title>
+<!-- Old transitstarmaps.com addresses (Tumblr posts, tags, archive pages)
+     and any other missing page land here and go to the home page. -->
+<meta http-equiv="refresh" content="0; url={{home}}">
+<script>
+  // Old Tumblr posts (/post/<id>/...) jump to their map's card.
+  var posts = {{posts}};
+  var m = location.pathname.match(/\/post\/(\d+)/);
+  var anchor = m && posts[m[1]] ? "#" + posts[m[1]] : "";
+  location.replace("{{home}}" + anchor);
+</script>
+<style>
+  html { background: #05070d; }
+  body { margin: 0; min-height: 100vh; display: grid; place-items: center; color: #ece8d9; font: 18px/1.5 Georgia, serif; text-align: center; padding: 16px; box-sizing: border-box; }
+  a { color: #ffffaa; }
+</style>
+</head>
+<body>
+  <p>★<br>This page has moved. <a href="{{home}}">Go to {{title}}</a>.</p>
+</body>
+</html>

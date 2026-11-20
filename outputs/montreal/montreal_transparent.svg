@@ -5,74 +5,74 @@
     <mask id="gaps" maskUnits="userSpaceOnUse" x="0" y="0" width="3000" height="3185">
       <rect width="3000" height="3185" fill="#fff"/>
       <g fill="#000" stroke="#000" stroke-linejoin="round">
-    <use href="#star" transform="translate(1738.2 3054.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1878 2959.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2035.2 2848.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2179.3 2795.6) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2242.6 2746.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2254 2573.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1730.1 2509.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1973.3 2440.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2210.9 2418.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1508.1 2397.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2112.3 2210.6) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1982.7 2189.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1322 2143.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1252 2098.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1048.7 2098.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2184.9 2094.6) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2073 2077.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1457.9 2055.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2241.8 2030.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(926.4 1985.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2136.2 1974.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2296.7 1954.6) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1526.3 1919.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2176.8 1909.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2347.9 1867.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2225.2 1829.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(762.9 1826.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2390.3 1792.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1611.8 1789.6) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2266.6 1782) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2721.2 1747) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(630.8 1709.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2225.8 1627.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2397.8 1615.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1574.6 1588.6) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1460.4 1527.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2451.2 1521.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2869.5 1504.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2031.1 1502.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1966.7 1449.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1441.3 1393.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1804.6 1377.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2449.8 1335.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1722.4 1293.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1506.9 1289) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2416.5 1164.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1384.4 1131.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1242.4 1081.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2459.8 1064) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1685.3 1042.6) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1004.9 985.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1755.1 929.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2455.9 928.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(834.2 897.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(79.5 833.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1781.2 809) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(646.1 795.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(261.7 791.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2520.7 783.4) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2523.1 621.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2525.2 468.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2575 351.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2621.4 215.9) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2686.7 79.5) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(2057.5 2323.3) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(1387.4 2275.4) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(2330.4 1688.5) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(1582.3 1208.9) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(1732.2 3048.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1872 2953.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2029.2 2842.2) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2173.3 2789.6) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2236.6 2740.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2248 2567.7) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1724.1 2503.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1967.3 2434.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2204.9 2412.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1502.1 2391.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2106.3 2204.6) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1976.7 2183.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1316 2137.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1246 2092.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1042.7 2092.2) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2178.9 2088.6) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2067 2071.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1451.9 2049.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2235.8 2024.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(920.4 1979.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2130.2 1968.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2290.7 1948.6) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1520.3 1913.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2170.8 1903.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2341.9 1861.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2219.2 1823.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(756.9 1820.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2384.3 1786.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1605.8 1783.6) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2260.6 1776) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2715.2 1741) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(624.8 1703.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2219.8 1621.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2391.8 1609.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1568.6 1582.6) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1454.4 1521.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2445.2 1515.7) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2863.5 1498.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2025.1 1496.2) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1960.7 1443.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1435.3 1387.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1798.6 1371.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2443.8 1329.2) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1716.4 1287.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1500.9 1283) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2410.5 1158.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1378.4 1125.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1236.4 1075.2) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2453.8 1058) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1679.3 1036.6) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(998.9 979.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1749.1 923.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2449.9 922.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(828.2 891.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(73.5 827.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(1775.2 803) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(640.1 789.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(255.7 785.8) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2514.7 777.4) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2517.1 615.1) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2519.2 462.7) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2569 345.3) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2615.4 209.9) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2680.7 73.5) scale(0.6300)" stroke-width="33.33"/>
+    <use href="#star" transform="translate(2043.2 2309) scale(0.9765)" stroke-width="21.51"/>
+    <use href="#star" transform="translate(1373 2261.1) scale(0.9765)" stroke-width="21.51"/>
+    <use href="#star" transform="translate(2316.1 1674.1) scale(0.9765)" stroke-width="21.51"/>
+    <use href="#star" transform="translate(1567.9 1194.5) scale(0.9765)" stroke-width="21.51"/>
       </g>
     </mask>
   </defs>
@@ -80,67 +80,67 @@
   <g mask="url(#gaps)" fill="none" stroke="#d3d3d3" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round">
     <path d="M1763.7 3079.6 L1903.5 2985"/>
     <path d="M1903.5 2985 L2060.7 2873.7"/>
-    <path d="M2060.7 2873.7 L2063 2871.1 L2072.8 2867 L2090.8 2860.5 L2126.1 2848.2 L2204.8 2821.1"/>
+    <path d="M2060.7 2873.7 L2204.8 2821.1"/>
     <path d="M2204.8 2821.1 L2268.1 2772"/>
     <path d="M2268.1 2772 L2279.5 2599.2"/>
-    <path d="M2279.5 2599.2 L2279.6 2594.4 L2277 2583.1 L2271.6 2563.7 L2260.8 2526.5 L2236.4 2444"/>
+    <path d="M2279.5 2599.2 L2236.4 2444"/>
     <path d="M2236.4 2444 L2092 2357.8"/>
-    <path d="M2092 2357.8 L2088.5 2361.3 L2082 2353.5 L2071.5 2335.6 L2051.8 2298.7 L2008.2 2214.8"/>
+    <path d="M2092 2357.8 L2008.2 2214.8"/>
     <path d="M2092 2357.8 L1998.8 2466"/>
-    <path d="M2092 2357.8 L2114.5 2290.1 L2124.8 2259.9 L2130.6 2244.7 L2134.5 2236.8 L2137.8 2236.1"/>
+    <path d="M2092 2357.8 L2137.8 2236.1"/>
     <path d="M2008.2 2214.8 L2098.5 2102.8"/>
     <path d="M2098.5 2102.8 L2161.7 1999.6"/>
     <path d="M2161.7 1999.6 L2202.3 1935.4"/>
-    <path d="M2202.3 1935.4 L2203.9 1936.2 L2207.5 1931.4 L2213.5 1921.5 L2225.1 1901.2 L2250.7 1855.4"/>
+    <path d="M2202.3 1935.4 L2250.7 1855.4"/>
     <path d="M2250.7 1855.4 L2292.1 1807.5"/>
-    <path d="M2292.1 1807.5 L2325.4 1755.8 L2341.1 1733.3 L2350.2 1722.7 L2357.3 1718.8 L2364.9 1723"/>
-    <path d="M2364.9 1723 L2398.3 1678.6 L2413.1 1658.7 L2420.4 1648.5 L2423.9 1642.9 L2423.3 1641.3"/>
+    <path d="M2292.1 1807.5 L2364.9 1723"/>
+    <path d="M2364.9 1723 L2423.3 1641.3"/>
     <path d="M2364.9 1723 L2415.8 1818.4"/>
     <path d="M2364.9 1723 L2251.3 1652.6"/>
     <path d="M2364.9 1723 L2746.7 1772.5"/>
     <path d="M2423.3 1641.3 L2476.7 1547.2"/>
-    <path d="M2476.7 1547.2 L2471.7 1544.2 L2470 1531.5 L2469.9 1508.2 L2471.1 1462.6 L2475.3 1360.7"/>
+    <path d="M2476.7 1547.2 L2475.3 1360.7"/>
     <path d="M2475.3 1360.7 L2442 1189.6"/>
     <path d="M2442 1189.6 L2485.3 1089.5"/>
     <path d="M2485.3 1089.5 L2481.4 954"/>
-    <path d="M2481.4 954 L2514 875.6 L2528.9 840.4 L2537 822.3 L2542.3 812.2 L2546.2 808.9"/>
+    <path d="M2481.4 954 L2546.2 808.9"/>
     <path d="M2546.2 808.9 L2548.6 646.6"/>
-    <path d="M2548.6 646.6 L2544.8 645.3 L2543.6 635.4 L2543.9 616.3 L2545.7 578.6 L2550.7 494.2"/>
+    <path d="M2548.6 646.6 L2550.7 494.2"/>
     <path d="M2550.7 494.2 L2600.5 376.8"/>
-    <path d="M2600.5 376.8 L2630.4 302.7 L2643.3 269.5 L2649.1 252.6 L2650.7 243.4 L2646.9 241.4"/>
+    <path d="M2600.5 376.8 L2646.9 241.4"/>
     <path d="M2646.9 241.4 L2712.2 105"/>
     <path d="M656.3 1735 L788.4 1851.8"/>
     <path d="M788.4 1851.8 L951.9 2010.9"/>
-    <path d="M951.9 2010.9 L951.9 2014 L959.5 2022.1 L974.8 2036.2 L1005.4 2063.4 L1074.2 2123.7"/>
+    <path d="M951.9 2010.9 L1074.2 2123.7"/>
     <path d="M1074.2 2123.7 L1277.5 2124.3"/>
     <path d="M1277.5 2124.3 L1347.5 2168.9"/>
-    <path d="M1347.5 2168.9 L1389.9 2246.1 L1408.7 2280.7 L1418 2298.3 L1422.5 2307.8 L1421.9 2309.9"/>
+    <path d="M1347.5 2168.9 L1421.9 2309.9"/>
     <path d="M1421.9 2309.9 L1483.4 2080.8"/>
     <path d="M1421.9 2309.9 L1533.6 2422.6"/>
     <path d="M1533.6 2422.6 L1755.6 2535.4"/>
-    <path d="M1755.6 2535.4 L1756.8 2532.8 L1772.4 2527.5 L1802.8 2518.8 L1863.2 2502.4 L1998.8 2466"/>
+    <path d="M1755.6 2535.4 L1998.8 2466"/>
     <path d="M2137.8 2236.1 L2210.4 2120.1"/>
     <path d="M2210.4 2120.1 L2267.3 2055.9"/>
     <path d="M2267.3 2055.9 L2322.2 1980.1"/>
     <path d="M2322.2 1980.1 L2373.4 1892.8"/>
     <path d="M2373.4 1892.8 L2415.8 1818.4"/>
-    <path d="M2251.3 1652.6 L2243.8 1645.3 L2229.4 1634.8 L2205.5 1618.7 L2171.4 1596.1 L2127 1567 L2093.5 1545.5 L2070.8 1531.5 L2058.8 1525.3 L2056.6 1527.7"/>
+    <path d="M2251.3 1652.6 L2056.6 1527.7"/>
     <path d="M2056.6 1527.7 L1992.2 1474.8"/>
     <path d="M1992.2 1474.8 L1830.1 1402.8"/>
     <path d="M1830.1 1402.8 L1747.9 1319.4"/>
     <path d="M1747.9 1319.4 L1616.8 1243.4"/>
     <path d="M1616.8 1243.4 L1532.4 1314.5"/>
     <path d="M1616.8 1243.4 L1710.8 1068.1"/>
-    <path d="M1616.8 1243.4 L1499.7 1197.5 L1447.7 1176.8 L1421.8 1166 L1409.1 1159.7 L1409.9 1156.9"/>
+    <path d="M1616.8 1243.4 L1409.9 1156.9"/>
     <path d="M1409.9 1156.9 L1267.9 1106.7"/>
     <path d="M1267.9 1106.7 L1030.4 1010.6"/>
     <path d="M1030.4 1010.6 L859.7 923.3"/>
     <path d="M859.7 923.3 L671.6 820.6"/>
-    <path d="M671.6 820.6 L667 825 L641.4 826.3 L593.3 825.9 L498.8 823.6 L287.2 817.3"/>
-    <path d="M287.2 817.3 L286.8 815.6 L275.3 817.6 L252.5 822.8 L207.1 833.8 L105 858.9"/>
+    <path d="M671.6 820.6 L287.2 817.3"/>
+    <path d="M287.2 817.3 L105 858.9"/>
     <path d="M2746.7 1772.5 L2895 1529.8"/>
-    <path d="M1483.4 2080.8 L1528 2009.7 L1547.2 1977.5 L1555.7 1960.5 L1558 1950.2 L1551.8 1944.8"/>
-    <path d="M1551.8 1944.8 L1595.9 1875.2 L1615.9 1843.8 L1626.6 1827.6 L1633.3 1818.4 L1637.3 1815.1"/>
+    <path d="M1483.4 2080.8 L1551.8 1944.8"/>
+    <path d="M1551.8 1944.8 L1637.3 1815.1"/>
     <path d="M1637.3 1815.1 L1600.1 1614.1"/>
     <path d="M1600.1 1614.1 L1485.9 1552.6"/>
     <path d="M1485.9 1552.6 L1466.8 1419.3"/>
@@ -149,73 +149,73 @@
     <path d="M1780.6 955.3 L1806.7 834.5"/>
   </g>
   <g fill="#ffffaa">
-    <use href="#star" transform="translate(1738.2 3054.1) scale(0.5100)"><title>STATION ANGRIGNON</title></use>
-    <use href="#star" transform="translate(1878 2959.5) scale(0.5100)"><title>STATION MONK</title></use>
-    <use href="#star" transform="translate(2035.2 2848.2) scale(0.5100)"><title>STATION JOLICOEUR</title></use>
-    <use href="#star" transform="translate(2179.3 2795.6) scale(0.5100)"><title>STATION VERDUN</title></use>
-    <use href="#star" transform="translate(2242.6 2746.5) scale(0.5100)"><title>STATION DE L&#x27;ÉGLISE</title></use>
-    <use href="#star" transform="translate(2254 2573.7) scale(0.5100)"><title>STATION LASALLE</title></use>
-    <use href="#star" transform="translate(1730.1 2509.9) scale(0.5100)"><title>STATION VENDÔME</title></use>
-    <use href="#star" transform="translate(1973.3 2440.5) scale(0.5100)"><title>STATION PLACE ST-HENRI</title></use>
-    <use href="#star" transform="translate(2210.9 2418.5) scale(0.5100)"><title>STATION CHARLEVOIX</title></use>
-    <use href="#star" transform="translate(1508.1 2397.1) scale(0.5100)"><title>STATION VILLA-MARIA</title></use>
-    <use href="#star" transform="translate(2112.3 2210.6) scale(0.5100)"><title>STATION GEORGES-VANIER</title></use>
-    <use href="#star" transform="translate(1982.7 2189.3) scale(0.5100)"><title>STATION ATWATER</title></use>
-    <use href="#star" transform="translate(1322 2143.4) scale(0.5100)"><title>STATION CÔTE-STE-CATHERINE</title></use>
-    <use href="#star" transform="translate(1252 2098.8) scale(0.5100)"><title>STATION PLAMONDON</title></use>
-    <use href="#star" transform="translate(1048.7 2098.2) scale(0.5100)"><title>STATION NAMUR</title></use>
-    <use href="#star" transform="translate(2184.9 2094.6) scale(0.5100)"><title>STATION LUCIEN-L&#x27;ALLIER</title></use>
-    <use href="#star" transform="translate(2073 2077.3) scale(0.5100)"><title>STATION GUY-CONCORDIA</title></use>
-    <use href="#star" transform="translate(1457.9 2055.3) scale(0.5100)"><title>STATION CÔTE-DES-NEIGES</title></use>
-    <use href="#star" transform="translate(2241.8 2030.4) scale(0.5100)"><title>STATION BONAVENTURE</title></use>
-    <use href="#star" transform="translate(926.4 1985.4) scale(0.5100)"><title>STATION DE LA SAVANE</title></use>
-    <use href="#star" transform="translate(2136.2 1974.1) scale(0.5100)"><title>STATION PEEL</title></use>
-    <use href="#star" transform="translate(2296.7 1954.6) scale(0.5100)"><title>STATION SQUARE VICTORIA-OACI</title></use>
-    <use href="#star" transform="translate(1526.3 1919.3) scale(0.5100)"><title>STATION UNIVERSITÉ DE MONTREAL</title></use>
-    <use href="#star" transform="translate(2176.8 1909.9) scale(0.5100)"><title>STATION MCGILL</title></use>
-    <use href="#star" transform="translate(2347.9 1867.3) scale(0.5100)"><title>STATION PLACE D&#x27;ARMES</title></use>
-    <use href="#star" transform="translate(2225.2 1829.9) scale(0.5100)"><title>STATION PLACE DES ARTS</title></use>
-    <use href="#star" transform="translate(762.9 1826.3) scale(0.5100)"><title>STATION DU COLLÈGE</title></use>
-    <use href="#star" transform="translate(2390.3 1792.9) scale(0.5100)"><title>STATION CHAMPS DE MARS</title></use>
-    <use href="#star" transform="translate(1611.8 1789.6) scale(0.5100)"><title>STATION ÉDOUARD-MONTPETIT</title></use>
-    <use href="#star" transform="translate(2266.6 1782) scale(0.5100)"><title>STATION ST-LAURENT</title></use>
-    <use href="#star" transform="translate(2721.2 1747) scale(0.5100)"><title>STATION JEAN-DRAPEAU</title></use>
-    <use href="#star" transform="translate(630.8 1709.5) scale(0.5100)"><title>STATION CÔTE-VERTU</title></use>
-    <use href="#star" transform="translate(2225.8 1627.1) scale(0.5100)"><title>STATION SHERBROOKE</title></use>
-    <use href="#star" transform="translate(2397.8 1615.8) scale(0.5100)"><title>STATION BEAUDRY</title></use>
-    <use href="#star" transform="translate(1574.6 1588.6) scale(0.5100)"><title>STATION OUTREMONT</title></use>
-    <use href="#star" transform="translate(1460.4 1527.1) scale(0.5100)"><title>STATION ACADIE</title></use>
-    <use href="#star" transform="translate(2451.2 1521.7) scale(0.5100)"><title>STATION PAPINEAU</title></use>
-    <use href="#star" transform="translate(2869.5 1504.3) scale(0.5100)"><title>STATION LONGUEUIL- U. de SHERBROOKE</title></use>
-    <use href="#star" transform="translate(2031.1 1502.2) scale(0.5100)"><title>STATION MONT-ROYAL</title></use>
-    <use href="#star" transform="translate(1966.7 1449.3) scale(0.5100)"><title>STATION LAURIER</title></use>
-    <use href="#star" transform="translate(1441.3 1393.8) scale(0.5100)"><title>STATION  DU PARC</title></use>
-    <use href="#star" transform="translate(1804.6 1377.3) scale(0.5100)"><title>STATION ROSEMONT</title></use>
-    <use href="#star" transform="translate(2449.8 1335.2) scale(0.5100)"><title>STATION FRONTENAC</title></use>
-    <use href="#star" transform="translate(1722.4 1293.9) scale(0.5100)"><title>STATION BEAUBIEN</title></use>
-    <use href="#star" transform="translate(1506.9 1289) scale(0.5100)"><title>STATION DE CASTELNAU</title></use>
-    <use href="#star" transform="translate(2416.5 1164.1) scale(0.5100)"><title>STATION PRÉFONTAINE</title></use>
-    <use href="#star" transform="translate(1384.4 1131.4) scale(0.5100)"><title>STATION JARRY</title></use>
-    <use href="#star" transform="translate(1242.4 1081.2) scale(0.5100)"><title>STATION CRÉMAZIE</title></use>
-    <use href="#star" transform="translate(2459.8 1064) scale(0.5100)"><title>STATION JOLIETTE</title></use>
-    <use href="#star" transform="translate(1685.3 1042.6) scale(0.5100)"><title>STATION FABRE</title></use>
-    <use href="#star" transform="translate(1004.9 985.1) scale(0.5100)"><title>STATION SAUVÉ</title></use>
-    <use href="#star" transform="translate(1755.1 929.8) scale(0.5100)"><title>STATION IBERVILLE</title></use>
-    <use href="#star" transform="translate(2455.9 928.5) scale(0.5100)"><title>STATION PIE IX</title></use>
-    <use href="#star" transform="translate(834.2 897.8) scale(0.5100)"><title>STATION HENRI-BOURASSA</title></use>
-    <use href="#star" transform="translate(79.5 833.4) scale(0.5100)"><title>STATION MONTMORENCY</title></use>
-    <use href="#star" transform="translate(1781.2 809) scale(0.5100)"><title>STATION SAINT-MICHEL</title></use>
-    <use href="#star" transform="translate(646.1 795.1) scale(0.5100)"><title>STATION CARTIER</title></use>
-    <use href="#star" transform="translate(261.7 791.8) scale(0.5100)"><title>STATION DE LA CONCORDE</title></use>
-    <use href="#star" transform="translate(2520.7 783.4) scale(0.5100)"><title>STATION VIAU</title></use>
-    <use href="#star" transform="translate(2523.1 621.1) scale(0.5100)"><title>STATION DE L&#x27;ASSOMPTION</title></use>
-    <use href="#star" transform="translate(2525.2 468.7) scale(0.5100)"><title>STATION CADILLAC</title></use>
-    <use href="#star" transform="translate(2575 351.3) scale(0.5100)"><title>STATION LANGELIER</title></use>
-    <use href="#star" transform="translate(2621.4 215.9) scale(0.5100)"><title>STATION RADISSON</title></use>
-    <use href="#star" transform="translate(2686.7 79.5) scale(0.5100)"><title>STATION HONORÉ-BEAUGRAND</title></use>
-    <use href="#star" transform="translate(2057.5 2323.3) scale(0.6900)"><title>STATION LIONEL-GROULX</title></use>
-    <use href="#star" transform="translate(1387.4 2275.4) scale(0.6900)"><title>STATION SNOWDON</title></use>
-    <use href="#star" transform="translate(2330.4 1688.5) scale(0.6900)"><title>STATION BERRI-UQAM</title></use>
-    <use href="#star" transform="translate(1582.3 1208.9) scale(0.6900)"><title>STATION JEAN-TALON</title></use>
+    <use href="#star" transform="translate(1732.2 3048.1) scale(0.6300)"><title>STATION ANGRIGNON</title></use>
+    <use href="#star" transform="translate(1872 2953.5) scale(0.6300)"><title>STATION MONK</title></use>
+    <use href="#star" transform="translate(2029.2 2842.2) scale(0.6300)"><title>STATION JOLICOEUR</title></use>
+    <use href="#star" transform="translate(2173.3 2789.6) scale(0.6300)"><title>STATION VERDUN</title></use>
+    <use href="#star" transform="translate(2236.6 2740.5) scale(0.6300)"><title>STATION DE L&#x27;ÉGLISE</title></use>
+    <use href="#star" transform="translate(2248 2567.7) scale(0.6300)"><title>STATION LASALLE</title></use>
+    <use href="#star" transform="translate(1724.1 2503.9) scale(0.6300)"><title>STATION VENDÔME</title></use>
+    <use href="#star" transform="translate(1967.3 2434.5) scale(0.6300)"><title>STATION PLACE ST-HENRI</title></use>
+    <use href="#star" transform="translate(2204.9 2412.5) scale(0.6300)"><title>STATION CHARLEVOIX</title></use>
+    <use href="#star" transform="translate(1502.1 2391.1) scale(0.6300)"><title>STATION VILLA-MARIA</title></use>
+    <use href="#star" transform="translate(2106.3 2204.6) scale(0.6300)"><title>STATION GEORGES-VANIER</title></use>
+    <use href="#star" transform="translate(1976.7 2183.3) scale(0.6300)"><title>STATION ATWATER</title></use>
+    <use href="#star" transform="translate(1316 2137.4) scale(0.6300)"><title>STATION CÔTE-STE-CATHERINE</title></use>
+    <use href="#star" transform="translate(1246 2092.8) scale(0.6300)"><title>STATION PLAMONDON</title></use>
+    <use href="#star" transform="translate(1042.7 2092.2) scale(0.6300)"><title>STATION NAMUR</title></use>
+    <use href="#star" transform="translate(2178.9 2088.6) scale(0.6300)"><title>STATION LUCIEN-L&#x27;ALLIER</title></use>
+    <use href="#star" transform="translate(2067 2071.3) scale(0.6300)"><title>STATION GUY-CONCORDIA</title></use>
+    <use href="#star" transform="translate(1451.9 2049.3) scale(0.6300)"><title>STATION CÔTE-DES-NEIGES</title></use>
+    <use href="#star" transform="translate(2235.8 2024.4) scale(0.6300)"><title>STATION BONAVENTURE</title></use>
+    <use href="#star" transform="translate(920.4 1979.4) scale(0.6300)"><title>STATION DE LA SAVANE</title></use>
+    <use href="#star" transform="translate(2130.2 1968.1) scale(0.6300)"><title>STATION PEEL</title></use>
+    <use href="#star" transform="translate(2290.7 1948.6) scale(0.6300)"><title>STATION SQUARE VICTORIA-OACI</title></use>
+    <use href="#star" transform="translate(1520.3 1913.3) scale(0.6300)"><title>STATION UNIVERSITÉ DE MONTREAL</title></use>
+    <use href="#star" transform="translate(2170.8 1903.9) scale(0.6300)"><title>STATION MCGILL</title></use>
+    <use href="#star" transform="translate(2341.9 1861.3) scale(0.6300)"><title>STATION PLACE D&#x27;ARMES</title></use>
+    <use href="#star" transform="translate(2219.2 1823.9) scale(0.6300)"><title>STATION PLACE DES ARTS</title></use>
+    <use href="#star" transform="translate(756.9 1820.3) scale(0.6300)"><title>STATION DU COLLÈGE</title></use>
+    <use href="#star" transform="translate(2384.3 1786.9) scale(0.6300)"><title>STATION CHAMPS DE MARS</title></use>
+    <use href="#star" transform="translate(1605.8 1783.6) scale(0.6300)"><title>STATION ÉDOUARD-MONTPETIT</title></use>
+    <use href="#star" transform="translate(2260.6 1776) scale(0.6300)"><title>STATION ST-LAURENT</title></use>
+    <use href="#star" transform="translate(2715.2 1741) scale(0.6300)"><title>STATION JEAN-DRAPEAU</title></use>
+    <use href="#star" transform="translate(624.8 1703.5) scale(0.6300)"><title>STATION CÔTE-VERTU</title></use>
+    <use href="#star" transform="translate(2219.8 1621.1) scale(0.6300)"><title>STATION SHERBROOKE</title></use>
+    <use href="#star" transform="translate(2391.8 1609.8) scale(0.6300)"><title>STATION BEAUDRY</title></use>
+    <use href="#star" transform="translate(1568.6 1582.6) scale(0.6300)"><title>STATION OUTREMONT</title></use>
+    <use href="#star" transform="translate(1454.4 1521.1) scale(0.6300)"><title>STATION ACADIE</title></use>
+    <use href="#star" transform="translate(2445.2 1515.7) scale(0.6300)"><title>STATION PAPINEAU</title></use>
+    <use href="#star" transform="translate(2863.5 1498.3) scale(0.6300)"><title>STATION LONGUEUIL- U. de SHERBROOKE</title></use>
+    <use href="#star" transform="translate(2025.1 1496.2) scale(0.6300)"><title>STATION MONT-ROYAL</title></use>
+    <use href="#star" transform="translate(1960.7 1443.3) scale(0.6300)"><title>STATION LAURIER</title></use>
+    <use href="#star" transform="translate(1435.3 1387.8) scale(0.6300)"><title>STATION  DU PARC</title></use>
+    <use href="#star" transform="translate(1798.6 1371.3) scale(0.6300)"><title>STATION ROSEMONT</title></use>
+    <use href="#star" transform="translate(2443.8 1329.2) scale(0.6300)"><title>STATION FRONTENAC</title></use>
+    <use href="#star" transform="translate(1716.4 1287.9) scale(0.6300)"><title>STATION BEAUBIEN</title></use>
+    <use href="#star" transform="translate(1500.9 1283) scale(0.6300)"><title>STATION DE CASTELNAU</title></use>
+    <use href="#star" transform="translate(2410.5 1158.1) scale(0.6300)"><title>STATION PRÉFONTAINE</title></use>
+    <use href="#star" transform="translate(1378.4 1125.4) scale(0.6300)"><title>STATION JARRY</title></use>
+    <use href="#star" transform="translate(1236.4 1075.2) scale(0.6300)"><title>STATION CRÉMAZIE</title></use>
+    <use href="#star" transform="translate(2453.8 1058) scale(0.6300)"><title>STATION JOLIETTE</title></use>
+    <use href="#star" transform="translate(1679.3 1036.6) scale(0.6300)"><title>STATION FABRE</title></use>
+    <use href="#star" transform="translate(998.9 979.1) scale(0.6300)"><title>STATION SAUVÉ</title></use>
+    <use href="#star" transform="translate(1749.1 923.8) scale(0.6300)"><title>STATION IBERVILLE</title></use>
+    <use href="#star" transform="translate(2449.9 922.5) scale(0.6300)"><title>STATION PIE IX</title></use>
+    <use href="#star" transform="translate(828.2 891.8) scale(0.6300)"><title>STATION HENRI-BOURASSA</title></use>
+    <use href="#star" transform="translate(73.5 827.4) scale(0.6300)"><title>STATION MONTMORENCY</title></use>
+    <use href="#star" transform="translate(1775.2 803) scale(0.6300)"><title>STATION SAINT-MICHEL</title></use>
+    <use href="#star" transform="translate(640.1 789.1) scale(0.6300)"><title>STATION CARTIER</title></use>
+    <use href="#star" transform="translate(255.7 785.8) scale(0.6300)"><title>STATION DE LA CONCORDE</title></use>
+    <use href="#star" transform="translate(2514.7 777.4) scale(0.6300)"><title>STATION VIAU</title></use>
+    <use href="#star" transform="translate(2517.1 615.1) scale(0.6300)"><title>STATION DE L&#x27;ASSOMPTION</title></use>
+    <use href="#star" transform="translate(2519.2 462.7) scale(0.6300)"><title>STATION CADILLAC</title></use>
+    <use href="#star" transform="translate(2569 345.3) scale(0.6300)"><title>STATION LANGELIER</title></use>
+    <use href="#star" transform="translate(2615.4 209.9) scale(0.6300)"><title>STATION RADISSON</title></use>
+    <use href="#star" transform="translate(2680.7 73.5) scale(0.6300)"><title>STATION HONORÉ-BEAUGRAND</title></use>
+    <use href="#star" transform="translate(2043.2 2309) scale(0.9765)"><title>STATION LIONEL-GROULX</title></use>
+    <use href="#star" transform="translate(1373 2261.1) scale(0.9765)"><title>STATION SNOWDON</title></use>
+    <use href="#star" transform="translate(2316.1 1674.1) scale(0.9765)"><title>STATION BERRI-UQAM</title></use>
+    <use href="#star" transform="translate(1567.9 1194.5) scale(0.9765)"><title>STATION JEAN-TALON</title></use>
   </g>
 </svg>

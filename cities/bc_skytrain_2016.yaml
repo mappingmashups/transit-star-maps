@@ -7,3 +7,5 @@ source:
   stations: legacy/data/bc_translink/skytrain_stations.geojson
   stations_query: Name != 'Broadway Station'
   lines: legacy/data/bc_translink/skytrain_lines.geojson
+style:
+  line_style: curved  # match the TileMill-era renders

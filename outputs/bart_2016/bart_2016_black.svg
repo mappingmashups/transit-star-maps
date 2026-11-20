@@ -47,8 +47,8 @@
     <use href="#star" transform="translate(2237.3 388) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(2258.9 206.2) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(2645.5 109.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1046.1 1426) scale(0.6900)" stroke-width="30.43"/>
-    <use href="#star" transform="translate(1067.6 1273.8) scale(0.6900)" stroke-width="30.43"/>
+    <use href="#star" transform="translate(1041 1421) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(1062.5 1268.7) scale(0.7905)" stroke-width="26.57"/>
       </g>
     </mask>
   </defs>
@@ -143,7 +143,7 @@
     <use href="#star" transform="translate(2237.3 388) scale(0.5100)"><title>Concord (CONC)</title></use>
     <use href="#star" transform="translate(2258.9 206.2) scale(0.5100)"><title>North Concord/Martinez (NCON)</title></use>
     <use href="#star" transform="translate(2645.5 109.2) scale(0.5100)"><title>Pittsburg/Bay Point (PITT)</title></use>
-    <use href="#star" transform="translate(1046.1 1426) scale(0.6900)"><title>12th St. Oakland City Center (12TH)</title></use>
-    <use href="#star" transform="translate(1067.6 1273.8) scale(0.6900)"><title>MacArthur (MCAR)</title></use>
+    <use href="#star" transform="translate(1041 1421) scale(0.7905)"><title>12th St. Oakland City Center (12TH)</title></use>
+    <use href="#star" transform="translate(1062.5 1268.7) scale(0.7905)"><title>MacArthur (MCAR)</title></use>
   </g>
 </svg>

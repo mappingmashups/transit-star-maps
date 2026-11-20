@@ -6,5 +6,5 @@ source:
   stations: legacy/data/toronto/toronto_stations_osm.geojson
   lines: legacy/data/toronto/toronto_tracks_osm.geojson
 style:
+  line_style: curved  # match the TileMill-era renders
   star_size_in: 0.15
-  large_star_size_in: 0.2

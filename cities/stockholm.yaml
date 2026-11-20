@@ -1,0 +1,11 @@
+# Stockholm Tunnelbana: green (T17, T18, T19), red (T13, T14) and blue (T10,
+# T11) lines. SL's feed comes from Trafiklab and needs a free API key
+# (https://www.trafiklab.se, "GTFS Regional" for SL):
+#   export TRAFIKLAB_API_KEY=...
+# SL uses GTFS extended route types (401 = metro).
+name: Stockholm Tunnelbana
+source:
+  type: gtfs
+  url: https://opendata.samtrafiken.se/gtfs/sl/sl.zip?key=${TRAFIKLAB_API_KEY}
+  route_types: [1, 401]
+  include_routes: ["^(10|11|13|14|17|18|19)$"]

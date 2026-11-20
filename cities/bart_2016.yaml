@@ -5,3 +5,5 @@ source:
   type: linework
   stations: legacy/data/bart/bart_stations.geojson
   lines: legacy/data/bart/bart_tracks.geojson
+style:
+  line_style: curved  # match the TileMill-era renders

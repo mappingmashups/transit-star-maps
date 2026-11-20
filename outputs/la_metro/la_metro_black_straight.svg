@@ -63,7 +63,6 @@
     <use href="#star" transform="translate(790.8 571.8) scale(0.3600)" stroke-width="58.33"/>
     <use href="#star" transform="translate(646.1 569.3) scale(0.3600)" stroke-width="58.33"/>
     <use href="#star" transform="translate(579.3 565.7) scale(0.3600)" stroke-width="58.33"/>
-    <use href="#star" transform="translate(1052.2 562.5) scale(0.3600)" stroke-width="58.33"/>
     <use href="#star" transform="translate(528.2 557.1) scale(0.3600)" stroke-width="58.33"/>
     <use href="#star" transform="translate(841.6 504.8) scale(0.3600)" stroke-width="58.33"/>
     <use href="#star" transform="translate(1110.5 485.1) scale(0.3600)" stroke-width="58.33"/>
@@ -93,14 +92,13 @@
     <use href="#star" transform="translate(1446.5 163.9) scale(0.3600)" stroke-width="58.33"/>
     <use href="#star" transform="translate(1510.7 161.2) scale(0.3600)" stroke-width="58.33"/>
     <use href="#star" transform="translate(521.4 87) scale(0.3600)" stroke-width="58.33"/>
-    <use href="#star" transform="translate(1037.6 1170.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(504.4 1080.2) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(670.3 742.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(930.3 659.7) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(957.9 624) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1033.7 623.1) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1050.7 589.8) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(840 560) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(1035.2 1168.4) scale(0.5580)" stroke-width="37.63"/>
+    <use href="#star" transform="translate(502 1077.8) scale(0.5580)" stroke-width="37.63"/>
+    <use href="#star" transform="translate(667.9 740.3) scale(0.5580)" stroke-width="37.63"/>
+    <use href="#star" transform="translate(941.7 639.5) scale(0.5580)" stroke-width="37.63"/>
+    <use href="#star" transform="translate(1031.3 620.7) scale(0.5580)" stroke-width="37.63"/>
+    <use href="#star" transform="translate(1045.3 570) scale(0.5580)" stroke-width="37.63"/>
+    <use href="#star" transform="translate(837.6 557.6) scale(0.5580)" stroke-width="37.63"/>
       </g>
     </mask>
   </defs>
@@ -128,12 +126,11 @@
     <path d="M1041.7 856.8 L1042.7 780.9"/>
     <path d="M1042.7 780.9 L995.8 748.4"/>
     <path d="M995.8 748.4 L935.6 728.7"/>
-    <path d="M935.6 728.7 L955.8 685.2"/>
-    <path d="M955.8 685.2 L983.4 649.5"/>
-    <path d="M955.8 685.2 L935.6 728.7"/>
-    <path d="M983.4 649.5 L922.9 614.3"/>
-    <path d="M983.4 649.5 L1021.3 630.7"/>
-    <path d="M983.4 649.5 L1021.3 630.7"/>
+    <path d="M935.6 728.7 L969.6 667.4"/>
+    <path d="M969.6 667.4 L935.6 728.7"/>
+    <path d="M969.6 667.4 L922.9 614.3"/>
+    <path d="M969.6 667.4 L1021.3 630.7"/>
+    <path d="M969.6 667.4 L1021.3 630.7"/>
     <path d="M935.6 728.7 L910.4 769.5"/>
     <path d="M910.4 769.5 L870.6 787.1"/>
     <path d="M870.6 787.1 L794.1 786.5"/>
@@ -160,8 +157,7 @@
     <path d="M859.6 522.8 L865.5 585.5"/>
     <path d="M865.5 585.5 L922.9 614.3"/>
     <path d="M865.5 585.5 L808.8 589.8"/>
-    <path d="M1021.3 630.7 L1076.2 615.3"/>
-    <path d="M1076.2 615.3 L1070.2 580.5"/>
+    <path d="M1021.3 630.7 L1073.2 597.9"/>
     <path d="M808.8 589.8 L664.1 587.3"/>
     <path d="M664.1 587.3 L597.3 583.7"/>
     <path d="M597.3 583.7 L546.2 575.1"/>
@@ -180,7 +176,7 @@
     <path d="M1325.7 719.2 L1234.9 714.7"/>
     <path d="M1234.9 714.7 L1167.5 671.8"/>
     <path d="M1167.5 671.8 L1119.4 655.1"/>
-    <path d="M1070.2 580.5 L1128.5 503.1"/>
+    <path d="M1073.2 597.9 L1128.5 503.1"/>
     <path d="M1128.5 503.1 L1155.7 474.6"/>
     <path d="M1155.7 474.6 L1180.3 424.7"/>
     <path d="M1180.3 424.7 L1233.6 366.1"/>
@@ -204,7 +200,7 @@
     <path d="M691.1 981.7 L711.1 923.1"/>
     <path d="M711.1 923.1 L700.4 838.9"/>
     <path d="M1021.3 630.7 L1059.2 648.6"/>
-    <path d="M1076.2 615.3 L1059.2 648.6"/>
+    <path d="M1073.2 597.9 L1059.2 648.6"/>
     <path d="M1119.4 655.1 L1059.2 648.6"/>
   </g>
   <g fill="#ffffaa">
@@ -266,7 +262,6 @@
     <use href="#star" transform="translate(790.8 571.8) scale(0.3600)"><title>Wilshire / Normandie Station</title></use>
     <use href="#star" transform="translate(646.1 569.3) scale(0.3600)"><title>Wilshire / La Brea Station</title></use>
     <use href="#star" transform="translate(579.3 565.7) scale(0.3600)"><title>Wilshire / Fairfax Station</title></use>
-    <use href="#star" transform="translate(1052.2 562.5) scale(0.3600)"><title>Chinatown Station</title></use>
     <use href="#star" transform="translate(528.2 557.1) scale(0.3600)"><title>Wilshire / La Cienega Station</title></use>
     <use href="#star" transform="translate(841.6 504.8) scale(0.3600)"><title>Vermont / Beverly Station</title></use>
     <use href="#star" transform="translate(1110.5 485.1) scale(0.3600)"><title>Lincoln Heights / Cypress Park Station</title></use>
@@ -296,13 +291,12 @@
     <use href="#star" transform="translate(1446.5 163.9) scale(0.3600)"><title>Lake Station</title></use>
     <use href="#star" transform="translate(1510.7 161.2) scale(0.3600)"><title>Allen Station</title></use>
     <use href="#star" transform="translate(521.4 87) scale(0.3600)"><title>North Hollywood Station</title></use>
-    <use href="#star" transform="translate(1037.6 1170.8) scale(0.5100)"><title>Willowbrook - Rosa Parks Station</title></use>
-    <use href="#star" transform="translate(504.4 1080.2) scale(0.5100)"><title>Aviation / Century Station</title></use>
-    <use href="#star" transform="translate(670.3 742.7) scale(0.5100)"><title>Expo / Crenshaw E-Line Station</title></use>
-    <use href="#star" transform="translate(930.3 659.7) scale(0.5100)"><title>Pico Station</title></use>
-    <use href="#star" transform="translate(957.9 624) scale(0.5100)"><title>7th Street / Metro Center Station</title></use>
-    <use href="#star" transform="translate(1033.7 623.1) scale(0.5100)"><title>Little Tokyo / Arts District Station</title></use>
-    <use href="#star" transform="translate(1050.7 589.8) scale(0.5100)"><title>Union Station</title></use>
-    <use href="#star" transform="translate(840 560) scale(0.5100)"><title>Wilshire / Vermont Station</title></use>
+    <use href="#star" transform="translate(1035.2 1168.4) scale(0.5580)"><title>Willowbrook - Rosa Parks Station</title></use>
+    <use href="#star" transform="translate(502 1077.8) scale(0.5580)"><title>Aviation / Century Station</title></use>
+    <use href="#star" transform="translate(667.9 740.3) scale(0.5580)"><title>Expo / Crenshaw E-Line Station</title></use>
+    <use href="#star" transform="translate(941.7 639.5) scale(0.5580)"><title>7th Street / Metro Center Station</title></use>
+    <use href="#star" transform="translate(1031.3 620.7) scale(0.5580)"><title>Little Tokyo / Arts District Station</title></use>
+    <use href="#star" transform="translate(1045.3 570) scale(0.5580)"><title>Union Station</title></use>
+    <use href="#star" transform="translate(837.6 557.6) scale(0.5580)"><title>Wilshire / Vermont Station</title></use>
   </g>
 </svg>

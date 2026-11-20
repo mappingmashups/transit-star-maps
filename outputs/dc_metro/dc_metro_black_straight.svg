@@ -17,12 +17,10 @@
     <use href="#star" transform="translate(2253.9 1598.2) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(2391.4 1568) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(1999.5 1543.5) scale(0.4200)" stroke-width="50.00"/>
-    <use href="#star" transform="translate(1946.7 1509.5) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(2223 1501.1) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(2127.8 1428.5) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(2178.3 1428.3) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(1027.1 1422.6) scale(0.4200)" stroke-width="50.00"/>
-    <use href="#star" transform="translate(2265.9 1401.7) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(1714.7 1396.9) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(1222.4 1389.2) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(1931.1 1383.9) scale(0.4200)" stroke-width="50.00"/>
@@ -30,7 +28,6 @@
     <use href="#star" transform="translate(1775.1 1381.3) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(2181 1380.8) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(2660.6 1370.5) scale(0.4200)" stroke-width="50.00"/>
-    <use href="#star" transform="translate(2079.9 1362) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(2584.2 1355.8) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(1827.3 1353.2) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(2468.5 1347.1) scale(0.4200)" stroke-width="50.00"/>
@@ -85,21 +82,20 @@
     <use href="#star" transform="translate(1679.7 400.1) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(1572.1 281) scale(0.4200)" stroke-width="50.00"/>
     <use href="#star" transform="translate(1492.5 84) scale(0.4200)" stroke-width="50.00"/>
-    <use href="#star" transform="translate(1933.3 1807.1) scale(0.5700)" stroke-width="36.84"/>
-    <use href="#star" transform="translate(1962.5 1461.4) scale(0.5700)" stroke-width="36.84"/>
-    <use href="#star" transform="translate(2114.3 1373.9) scale(0.5700)" stroke-width="36.84"/>
-    <use href="#star" transform="translate(1518.4 1368.7) scale(0.5700)" stroke-width="36.84"/>
-    <use href="#star" transform="translate(2295 1362.8) scale(0.5700)" stroke-width="36.84"/>
-    <use href="#star" transform="translate(1890.1 1313.2) scale(0.5700)" stroke-width="36.84"/>
-    <use href="#star" transform="translate(2094.3 1313.1) scale(0.5700)" stroke-width="36.84"/>
-    <use href="#star" transform="translate(2185.5 1004.8) scale(0.5700)" stroke-width="36.84"/>
+    <use href="#star" transform="translate(1929.2 1803.1) scale(0.6510)" stroke-width="32.26"/>
+    <use href="#star" transform="translate(1946.8 1477.6) scale(0.6510)" stroke-width="32.26"/>
+    <use href="#star" transform="translate(2272.6 1374.5) scale(0.6510)" stroke-width="32.26"/>
+    <use href="#star" transform="translate(1514.4 1364.6) scale(0.6510)" stroke-width="32.26"/>
+    <use href="#star" transform="translate(2092.5 1329.4) scale(0.6510)" stroke-width="32.26"/>
+    <use href="#star" transform="translate(1886.1 1309.1) scale(0.6510)" stroke-width="32.26"/>
+    <use href="#star" transform="translate(2181.4 1000.7) scale(0.6510)" stroke-width="32.26"/>
       </g>
     </mask>
   </defs>
   <rect width="3000" height="2162" fill="#000000"/>
   <g mask="url(#gaps)" fill="none" stroke="#d3d3d3" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M2122.8 1341.6 L2061 1308.8"/>
-    <path d="M2122.8 1341.6 L2061 1308.8"/>
+    <path d="M2125.1 1362 L2061 1308.8"/>
+    <path d="M2125.1 1362 L2061 1308.8"/>
     <path d="M2061 1308.8 L2036.1 1264.9"/>
     <path d="M2036.1 1264.9 L1996.8 1178.5"/>
     <path d="M1996.8 1178.5 L1973.2 1126.8"/>
@@ -113,8 +109,8 @@
     <path d="M1735.8 499.3 L1700.7 421.1"/>
     <path d="M1700.7 421.1 L1593.1 302"/>
     <path d="M1593.1 302 L1513.5 105"/>
-    <path d="M2122.8 1341.6 L2129.7 1283.1"/>
-    <path d="M2122.8 1341.6 L2192.2 1333.2"/>
+    <path d="M2125.1 1362 L2129.7 1283.1"/>
+    <path d="M2125.1 1362 L2192.2 1333.2"/>
     <path d="M2192.2 1333.2 L2210 1282.8"/>
     <path d="M2241.7 1203.7 L2247.6 1136.3"/>
     <path d="M2247.6 1136.3 L2214 1033.3"/>
@@ -129,25 +125,20 @@
     <path d="M2008.1 1315.8 L1918.6 1341.7"/>
     <path d="M1918.6 1341.7 L1952.1 1404.9"/>
     <path d="M1918.6 1341.7 L1848.3 1374.2"/>
-    <path d="M1952.1 1404.9 L1991 1489.9"/>
-    <path d="M1991 1489.9 L1967.7 1530.5"/>
-    <path d="M1991 1489.9 L2142.8 1402.4"/>
-    <path d="M1967.7 1530.5 L2020.5 1564.5"/>
+    <path d="M1952.1 1404.9 L1979.4 1510.2"/>
+    <path d="M1979.4 1510.2 L2125.1 1362"/>
+    <path d="M1979.4 1510.2 L2020.5 1564.5"/>
     <path d="M2020.5 1564.5 L2024.5 1688.7"/>
     <path d="M2024.5 1688.7 L1993.1 1794.3"/>
     <path d="M1993.1 1794.3 L1961.8 1835.6"/>
     <path d="M1961.8 1835.6 L1917.8 1870.2"/>
     <path d="M1961.8 1835.6 L1666.6 1876.3"/>
     <path d="M1917.8 1870.2 L1899.9 1906.3"/>
-    <path d="M2122.8 1341.6 L2100.9 1383"/>
-    <path d="M2100.9 1383 L2142.8 1402.4"/>
-    <path d="M2142.8 1402.4 L2122.8 1341.6"/>
-    <path d="M2142.8 1402.4 L2148.8 1449.5"/>
-    <path d="M2142.8 1402.4 L2202 1401.8"/>
+    <path d="M2125.1 1362 L2148.8 1449.5"/>
+    <path d="M2125.1 1362 L2202 1401.8"/>
     <path d="M2202 1401.8 L2241.5 1404.2"/>
-    <path d="M2241.5 1404.2 L2286.9 1422.7"/>
-    <path d="M2286.9 1422.7 L2323.5 1391.3"/>
-    <path d="M2323.5 1391.3 L2454.3 1323.4"/>
+    <path d="M2241.5 1404.2 L2305.2 1407"/>
+    <path d="M2305.2 1407 L2454.3 1323.4"/>
     <path d="M2454.3 1323.4 L2504.2 1273.3"/>
     <path d="M2504.2 1273.3 L2583.9 1226.6"/>
     <path d="M2583.9 1226.6 L2693.2 1133.1"/>
@@ -166,7 +157,7 @@
     <path d="M2332.1 1645.3 L2412.4 1589"/>
     <path d="M2412.4 1589 L2515 1624.4"/>
     <path d="M2515 1624.4 L2606.2 1723.3"/>
-    <path d="M2323.5 1391.3 L2489.5 1368.1"/>
+    <path d="M2305.2 1407 L2489.5 1368.1"/>
     <path d="M2489.5 1368.1 L2605.2 1376.8"/>
     <path d="M2605.2 1376.8 L2681.6 1391.5"/>
     <path d="M2681.6 1391.5 L2795.6 1351"/>
@@ -203,12 +194,10 @@
     <use href="#star" transform="translate(2253.9 1598.2) scale(0.4200)"><title>Congress Heights</title></use>
     <use href="#star" transform="translate(2391.4 1568) scale(0.4200)"><title>Naylor Rd</title></use>
     <use href="#star" transform="translate(1999.5 1543.5) scale(0.4200)"><title>Crystal City</title></use>
-    <use href="#star" transform="translate(1946.7 1509.5) scale(0.4200)"><title>Pentagon City</title></use>
     <use href="#star" transform="translate(2223 1501.1) scale(0.4200)"><title>Anacostia</title></use>
     <use href="#star" transform="translate(2127.8 1428.5) scale(0.4200)"><title>Waterfront</title></use>
     <use href="#star" transform="translate(2178.3 1428.3) scale(0.4200)"><title>Navy Yard-Ballpark</title></use>
     <use href="#star" transform="translate(1027.1 1422.6) scale(0.4200)"><title>Vienna</title></use>
-    <use href="#star" transform="translate(2265.9 1401.7) scale(0.4200)"><title>Potomac Av</title></use>
     <use href="#star" transform="translate(1714.7 1396.9) scale(0.4200)"><title>Ballston-MU</title></use>
     <use href="#star" transform="translate(1222.4 1389.2) scale(0.4200)"><title>Dunn Loring</title></use>
     <use href="#star" transform="translate(1931.1 1383.9) scale(0.4200)"><title>Arlington Cemetery</title></use>
@@ -216,7 +205,6 @@
     <use href="#star" transform="translate(1775.1 1381.3) scale(0.4200)"><title>Clarendon</title></use>
     <use href="#star" transform="translate(2181 1380.8) scale(0.4200)"><title>Capitol South</title></use>
     <use href="#star" transform="translate(2660.6 1370.5) scale(0.4200)"><title>Addison Rd</title></use>
-    <use href="#star" transform="translate(2079.9 1362) scale(0.4200)"><title>Smithsonian</title></use>
     <use href="#star" transform="translate(2584.2 1355.8) scale(0.4200)"><title>Capitol Heights</title></use>
     <use href="#star" transform="translate(1827.3 1353.2) scale(0.4200)"><title>Court House</title></use>
     <use href="#star" transform="translate(2468.5 1347.1) scale(0.4200)"><title>Benning Rd</title></use>
@@ -271,13 +259,12 @@
     <use href="#star" transform="translate(1679.7 400.1) scale(0.4200)"><title>Twinbrook</title></use>
     <use href="#star" transform="translate(1572.1 281) scale(0.4200)"><title>Rockville</title></use>
     <use href="#star" transform="translate(1492.5 84) scale(0.4200)"><title>Shady Grove</title></use>
-    <use href="#star" transform="translate(1933.3 1807.1) scale(0.5700)"><title>King St-Old Town</title></use>
-    <use href="#star" transform="translate(1962.5 1461.4) scale(0.5700)"><title>Pentagon</title></use>
-    <use href="#star" transform="translate(2114.3 1373.9) scale(0.5700)"><title>L&#x27;Enfant Plaza</title></use>
-    <use href="#star" transform="translate(1518.4 1368.7) scale(0.5700)"><title>East Falls Church</title></use>
-    <use href="#star" transform="translate(2295 1362.8) scale(0.5700)"><title>Stadium-Armory</title></use>
-    <use href="#star" transform="translate(1890.1 1313.2) scale(0.5700)"><title>Rosslyn</title></use>
-    <use href="#star" transform="translate(2094.3 1313.1) scale(0.5700)"><title>Metro Center</title></use>
-    <use href="#star" transform="translate(2185.5 1004.8) scale(0.5700)"><title>Fort Totten</title></use>
+    <use href="#star" transform="translate(1929.2 1803.1) scale(0.6510)"><title>King St-Old Town</title></use>
+    <use href="#star" transform="translate(1946.8 1477.6) scale(0.6510)"><title>Pentagon</title></use>
+    <use href="#star" transform="translate(2272.6 1374.5) scale(0.6510)"><title>Stadium-Armory</title></use>
+    <use href="#star" transform="translate(1514.4 1364.6) scale(0.6510)"><title>East Falls Church</title></use>
+    <use href="#star" transform="translate(2092.5 1329.4) scale(0.6510)"><title>L&#x27;Enfant Plaza</title></use>
+    <use href="#star" transform="translate(1886.1 1309.1) scale(0.6510)"><title>Rosslyn</title></use>
+    <use href="#star" transform="translate(2181.4 1000.7) scale(0.6510)"><title>Fort Totten</title></use>
   </g>
 </svg>

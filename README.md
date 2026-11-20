@@ -3,8 +3,7 @@ transit-star-maps
 
 transit maps that look like constellations because trains + stars = &lt;3
 
-Buy t-shirts at [transitstarmaps.com](https://transitstarmaps.com/)
-Follow us at [@transitstarmaps](https://twitter.com/transitstarmaps) and [facebook.com/transitstarmaps](https://facebook.com/transitstarmaps/)
+See the maps at [transitstarmaps.com](https://transitstarmaps.com/), buy shirts at [zazzle.com/transitstarmaps](https://www.zazzle.com/transitstarmaps), and follow us at [facebook.com/transitstarmaps](https://facebook.com/transitstarmaps/).
 
 What makes a good transit star chart?
 -------------------------------------
@@ -26,7 +25,7 @@ A Python pipeline turns a transit agency's GTFS feed into a constellation, in th
    * **Lines** come from the order of stops in each trip. Every trip's shape is cut at its stations and kept once per station pair, so both directions, and every route running on a shared trunk, become a single line.
    * **Express runs** that skip stations are dropped when the local line already connects the same stations.
    * **Smoothing:** lines are simplified and lightly smoothed.
-   * **Star size:** stations where three or more lines meet get a larger star.
+   * **Star size:** stations where three or more lines meet get a larger star. List any other station under `stations.large` in the city config (e.g. line ends or landmark stations) to give it one too; this takes effect at render time, without rebuilding the network.
    * **Dense cores:** in a city with a crowded downtown (Portland, LA), `style.min_star_spacing_in` combines stars that would overlap on the page into one.
 3. **Render** writes `outputs/<city>/<city>_black.svg` and `<city>_transparent.svg`, plus PNGs of each, sized for printing (10 in wide at 300 dpi by default, with the dpi recorded in the PNG). The lines are cut away around every star with an SVG mask rather than a black outline, so the transparent version needs no Photoshop work.
 
@@ -66,6 +65,10 @@ make test
 | `seattle_link` | Sound Transit rail GTFS | Link 1 Line and 2 Line (not the T Line or Sounder) |
 | `boston_mbta` | MBTA GTFS | Red (with Mattapan), Orange, Blue, Green (with the Green Line Extension); no Silver Line |
 | `dc_metro` | WMATA rail GTFS | All six lines. Needs a free API key in `WMATA_API_KEY` |
+| `seattle_st3` | Hand-listed (`cities/seattle_st3/stations.csv`) | Link at full Sound Transit 3 build-out, straight lines; see the config for sources and assumptions |
+| `cahsr` | CA HSR Authority statewide alignment and stations | Phase 1 and Phase 2, with Phase 2 station options chosen in the config |
+| `stockholm` | SL GTFS (Trafiklab) | Tunnelbana. Needs a free API key in `TRAFIKLAB_API_KEY` |
+| `dallas_dart` | DART GTFS | Red, Blue, Green, Orange light rail |
 
 The `*_2016` configs rebuild each map from the data the TileMill project used (in `legacy/data/`; Boston and DC had data but were never rendered back then), through a second input path that reads plain station and line files. This path also works for OpenStreetMap extracts or agency shapefiles when there's no usable GTFS feed.
 
@@ -77,6 +80,8 @@ The site at transitstarmaps.com is a single static page in `docs/`, served by Gi
 ```sh
 .venv/bin/python scripts/build_site.py
 ```
+
+The build also renders `docs/social-card.png` (1200 × 630), the image shown when the site is linked on social media or in chat apps; `card_map` in `site/maps.yaml` picks its map, and `url` sets the address the preview tags point to (switch it to https://transitstarmaps.com/ along with the DNS). The same image can be uploaded as the repository's social preview under Settings → General.
 
 To add a map, render it, add a line to `site/maps.yaml` (place, system name, Zazzle link), and rebuild. Edit `site/index.template.html`, not `docs/index.html`. For the custom domain, point transitstarmaps.com's DNS at GitHub Pages; `docs/CNAME` is already set.
 

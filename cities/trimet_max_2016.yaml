@@ -9,5 +9,5 @@ source:
   lines: legacy/data/trimet/tm_rail_lines/tm_rail_lines.shp
   lines_query: TYPE in ['MAX', 'MAX/SC']
 style:
+  line_style: curved  # match the TileMill-era renders
   star_size_in: 0.13
-  large_star_size_in: 0.18

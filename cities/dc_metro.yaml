@@ -10,5 +10,4 @@ source:
   route_types: [1]
 style:
   star_size_in: 0.14
-  large_star_size_in: 0.19
   min_star_spacing_in: 0.13

@@ -1,0 +1,82 @@
+name,lat,lon,source,detail
+Westlake,47.611572,-122.336720,gtfs,C03
+Symphony,47.607810,-122.336020,gtfs,C05
+Pioneer Square,47.602560,-122.331216,gtfs,C07
+Int'l Dist/Chinatown,47.598355,-122.327992,gtfs,C09
+Stadium,47.591108,-122.327172,gtfs,C13
+SODO,47.581074,-122.327390,gtfs,C15
+Beacon Hill,47.579328,-122.311533,gtfs,C19
+Mount Baker,47.576550,-122.297679,gtfs,C23
+Columbia City,47.559733,-122.292692,gtfs,C25
+Othello,47.537987,-122.281563,gtfs,C27
+Rainier Beach,47.522394,-122.279391,gtfs,C29
+Tukwila Int'l Blvd,47.464031,-122.287996,gtfs,C35
+SeaTac/Airport,47.445381,-122.296898,gtfs,C37
+Judkins Park,47.590299,-122.304508,gtfs,E01
+Mercer Island,47.588198,-122.233232,gtfs,E07
+South Bellevue,47.586556,-122.190396,gtfs,E09
+East Main,47.608188,-122.191147,gtfs,E11
+Bellevue Downtown,47.615223,-122.192084,gtfs,E15
+Wilburton,47.617967,-122.183762,gtfs,E19
+Spring District,47.623773,-122.178573,gtfs,E21
+BelRed,47.624448,-122.165640,gtfs,E23
+Overlake Village,47.636310,-122.138920,gtfs,E25
+Redmond Technology,47.644842,-122.133628,gtfs,E27
+Marymoor Village,47.667263,-122.109800,gtfs,E29
+Downtown Redmond,47.671645,-122.118480,gtfs,E31
+Capitol Hill,47.619060,-122.320195,gtfs,N03
+Univ of Washington,47.649815,-122.303763,gtfs,N05
+U District,47.660301,-122.314132,gtfs,N07
+Roosevelt,47.676595,-122.315976,gtfs,N09
+Northgate,47.703028,-122.328290,gtfs,N11
+Pinehurst,47.724043,-122.323851,gtfs,N13
+Shoreline South/148th,47.736095,-122.325227,gtfs,N15
+Shoreline North/185th,47.764067,-122.322889,gtfs,N17
+Mountlake Terrace,47.785057,-122.314788,gtfs,N19
+Lynnwood City Center,47.815637,-122.294779,gtfs,N23
+Angle Lake,47.422703,-122.297714,gtfs,S01
+Kent Des Moines,47.389552,-122.294399,gtfs,S03
+Star Lake,47.359388,-122.297391,gtfs,S05
+Federal Way Downtown,47.315903,-122.303829,gtfs,S07
+Tacoma Dome,47.239868,-122.428118,gtfs,T01
+S 25th,47.239081,-122.434202,gtfs,T03
+Union Station,47.244865,-122.436623,gtfs,T05
+Convention Center,47.249496,-122.438552,gtfs,T07
+Theater District,47.252534,-122.439239,gtfs,T09
+Old City Hall,47.257746,-122.440421,gtfs,T13
+S 4th,47.261319,-122.442723,gtfs,T15
+Stadium District,47.263869,-122.448999,gtfs,T17
+Tacoma General,47.260083,-122.453564,gtfs,T19
+6th Ave,47.256925,-122.452848,gtfs,T21
+Hilltop District,47.251758,-122.451665,gtfs,T23
+St Joseph,47.245280,-122.450187,gtfs,T25
+Ballard,47.668023,-122.376101,stlayer,Ballard Station
+Interbay,47.648482,-122.379827,stlayer,Interbay Station
+Smith Cove,47.628783,-122.371160,stlayer,Smith Cove Station
+Seattle Center,47.623267,-122.355435,stlayer,Seattle Center Station
+South Lake Union,47.623228,-122.343174,stlayer,South Lake Union Station
+Denny,47.619561,-122.338478,stlayer,Denny Station
+Midtown,47.602663,-122.329490,stlayer,Midtown Station
+Delridge,47.569055,-122.363869,stlayer,Delridge Station
+Alaska Junction,47.561068,-122.384248,stlayer,Alaska Junction Station
+Graham Street,47.546032,-122.285561,stlayer,Graham Street Station
+Boeing Access Road,47.507299,-122.282360,stlayer,Boeing Access Road Station
+Mariner,47.881872,-122.238821,geocode,"128th St SW and 4th Ave W, Everett, WA -> 128th St SW & 4th Ave W, Everett, Washington, 98204 (100)"
+Ash Way,47.849806,-122.260936,geocode,"Ash Way and 164th St SW, Lynnwood, WA -> Ash Way & 164th St SW, Lynnwood, Washington, 98037 (100)"
+West Alderwood,47.831490,-122.264570,geocode,"Alderwood Mall, Lynnwood, WA -> Alderwood Mall (100)"
+SW Everett Industrial Center,47.931044,-122.260814,geocode,"Seaway Blvd and 75th St SW, Everett, WA -> Seaway Blvd & 75th St SW, Everett, Washington, 98203 (100)"
+SR 526/Evergreen,47.923098,-122.227084,geocode,"SR 526 and Evergreen Way, Everett, WA -> WA-526 W & Evergreen Way, Everett, Washington, 98203 (100)"
+Everett Station,47.975514,-122.197739,geocode,"Everett Station, 3201 Smith Ave, Everett, WA -> Everett Bus Station (97)"
+South Federal Way,47.286212,-122.313637,geocode,"S 352nd St and Enchanted Pkwy S, Federal Way, WA -> S 352nd St & Enchanted Pkwy S, Federal Way, Washington, 98003 (100)"
+Fife,47.238974,-122.357114,geocode,"54th Ave E and 20th St E, Fife, WA -> 54th Ave E & 20th St E, Fife, Washington, 98424 (100)"
+Portland Ave,47.241575,-122.411191,geocode,"Portland Ave E and E 25th St, Tacoma, WA -> Portland Ave & E 25th St, Tacoma, Washington, 98421 (100)"
+South Kirkland,47.644629,-122.199212,geocode,"10610 NE 38th Pl, Kirkland, WA -> 10610 NE 38th Pl, Kirkland, Washington, 98033 (100)"
+Richards Road,47.581936,-122.167817,geocode,"Richards Rd SE and SE 32nd St, Bellevue, WA -> Richards Rd & SE 32nd St, Bellevue, Washington, 98005 (100)"
+Eastgate,47.580759,-122.151856,geocode,"14200 SE Eastgate Way, Bellevue, WA -> 14200 SE Eastgate Way, Bellevue, Washington, 98005 (100)"
+Central Issaquah,47.541860,-122.061672,geocode,"1050 17th Ave NW, Issaquah, WA -> 1050 17th Ave NW, Issaquah, Washington, 98027 (100)"
+Ainsworth,47.243001,-122.457017,geocode,"S 19th St and S Ainsworth Ave, Tacoma, WA -> S 19th St & S Ainsworth Ave, Tacoma, Washington, 98405 (100)"
+Union,47.242762,-122.482701,geocode,"S 19th St and S Union Ave, Tacoma, WA -> S 19th St & S Union Ave, Tacoma, Washington, 98405 (100)"
+Sprague,47.242683,-122.462932,geocode,"S 19th St and S Sprague Ave, Tacoma, WA -> S 19th St & S Sprague Ave, Tacoma, Washington, 98405 (100)"
+Stevens,47.242837,-122.494519,geocode,"S 19th St and S Stevens St, Tacoma, WA -> S 19th St & S Stevens St, Tacoma, Washington, 98405 (100)"
+Pearl,47.242801,-122.515928,geocode,"S 19th St and S Pearl St, Tacoma, WA -> S 19th St & S Pearl St, Fircrest, Washington, 98466 (100)"
+Tacoma Community College,47.247129,-122.521423,geocode,"Tacoma Community College, 6501 S 19th St, Tacoma, WA -> Tacoma Community College (100)"

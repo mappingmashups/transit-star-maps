@@ -294,6 +294,53 @@ def from_linework(stars, lines, snap_m, junction_snap_m=800):
     return G
 
 
+def from_routes(stars, routes, lines, snap_m, junction_snap_m=800, max_detour=3.0):
+    """Build the graph from hand-listed station orders.
+
+    `routes` is [{"name", "stations": [star ids in order]}]. Between each pair
+    of neighbors the edge follows the linework (shortest path through the
+    track network) when there is a sensible path, and is a straight line
+    otherwise (planned lines with no drawn alignment yet).
+    """
+    LW = from_linework({k: dict(v) for k, v in stars.items()}, lines, snap_m, junction_snap_m) if lines else None
+    G = nx.Graph()
+    for sid, s in stars.items():
+        G.add_node(sid, kind="station", **s)
+    used, straight = set(), 0
+    for route in routes:
+        seq = route["stations"]
+        used.update(seq)
+        for a, b in zip(seq, seq[1:]):
+            a_xy = (stars[a]["x"], stars[a]["y"])
+            b_xy = (stars[b]["x"], stars[b]["y"])
+            geom = None
+            if LW is not None and a in LW and b in LW:
+                try:
+                    path = nx.shortest_path(LW, a, b, weight=lambda u, v, d: d["geometry"].length)
+                except nx.NetworkXNoPath:
+                    path = None
+                if path:
+                    coords = []
+                    for u, v in zip(path, path[1:]):
+                        g = list(_edge_geom(LW, u, v).coords)
+                        coords += g[1:] if coords else g
+                    cand = LineString(coords)
+                    if cand.length <= max_detour * max(math.dist(a_xy, b_xy), 1):
+                        geom = cand
+            if geom is None:
+                geom = LineString([a_xy, b_xy])
+                straight += 1
+            geom = _pin_ends(geom, a_xy, b_xy)
+            u, v = sorted((a, b))
+            if u != a:
+                geom = LineString(geom.coords[::-1])
+            _add_edge(G, u, v, geom, routes=[route["name"]])
+    G.remove_nodes_from([n for n in list(G.nodes) if n not in used])
+    if straight:
+        print(f"  {straight} segments have no track drawn and are straight")
+    return G
+
+
 def _absorb(G, j, st):
     """Fold junction j into station st, rerouting j's other edges."""
     sxy = (G.nodes[st]["x"], G.nodes[st]["y"])

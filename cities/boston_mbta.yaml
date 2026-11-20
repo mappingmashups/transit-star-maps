@@ -8,7 +8,6 @@ source:
   route_types: [0, 1]
 style:
   star_size_in: 0.13
-  large_star_size_in: 0.18
   min_star_spacing_in: 0.1
 stations:
   # The B, C and E branches run in the street with small median stops (MBTA

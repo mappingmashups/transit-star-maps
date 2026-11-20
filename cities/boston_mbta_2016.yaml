@@ -8,6 +8,6 @@ source:
   lines: legacy/data/boston_mbta/mbta_routes.geojson
   lines_query: "name not in ['Washington St.', 'Airport Terminals', 'Boston Marine Industrial Park']"
 style:
+  line_style: curved  # match the TileMill-era renders
   star_size_in: 0.13
-  large_star_size_in: 0.18
   min_star_spacing_in: 0.1

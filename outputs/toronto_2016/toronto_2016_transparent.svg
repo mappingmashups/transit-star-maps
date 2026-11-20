@@ -66,12 +66,12 @@
     <use href="#star" transform="translate(2872.5 162.3) scale(0.4500)" stroke-width="46.67"/>
     <use href="#star" transform="translate(1944.5 158.3) scale(0.4500)" stroke-width="46.67"/>
     <use href="#star" transform="translate(1261.2 82.5) scale(0.4500)" stroke-width="46.67"/>
-    <use href="#star" transform="translate(1473.7 1618.8) scale(0.6000)" stroke-width="35.00"/>
-    <use href="#star" transform="translate(1371.1 1614.3) scale(0.6000)" stroke-width="35.00"/>
-    <use href="#star" transform="translate(1418.7 1599.6) scale(0.6000)" stroke-width="35.00"/>
-    <use href="#star" transform="translate(1504.9 1575.3) scale(0.6000)" stroke-width="35.00"/>
-    <use href="#star" transform="translate(1549.4 1567) scale(0.6000)" stroke-width="35.00"/>
-    <use href="#star" transform="translate(1302 337.2) scale(0.6000)" stroke-width="35.00"/>
+    <use href="#star" transform="translate(1468.8 1613.9) scale(0.6975)" stroke-width="30.11"/>
+    <use href="#star" transform="translate(1366.2 1609.5) scale(0.6975)" stroke-width="30.11"/>
+    <use href="#star" transform="translate(1413.8 1594.8) scale(0.6975)" stroke-width="30.11"/>
+    <use href="#star" transform="translate(1500.1 1570.4) scale(0.6975)" stroke-width="30.11"/>
+    <use href="#star" transform="translate(1544.5 1562.1) scale(0.6975)" stroke-width="30.11"/>
+    <use href="#star" transform="translate(1297.2 332.4) scale(0.6975)" stroke-width="30.11"/>
       </g>
     </mask>
   </defs>
@@ -208,11 +208,11 @@
     <use href="#star" transform="translate(2872.5 162.3) scale(0.4500)"><title>McCowan</title></use>
     <use href="#star" transform="translate(1944.5 158.3) scale(0.4500)"><title>Don Mills</title></use>
     <use href="#star" transform="translate(1261.2 82.5) scale(0.4500)"><title>Finch</title></use>
-    <use href="#star" transform="translate(1473.7 1618.8) scale(0.6000)"><title>Museum</title></use>
-    <use href="#star" transform="translate(1371.1 1614.3) scale(0.6000)"><title>Spadina</title></use>
-    <use href="#star" transform="translate(1418.7 1599.6) scale(0.6000)"><title>St. George</title></use>
-    <use href="#star" transform="translate(1504.9 1575.3) scale(0.6000)"><title>Bay</title></use>
-    <use href="#star" transform="translate(1549.4 1567) scale(0.6000)"><title>Bloor-Yonge</title></use>
-    <use href="#star" transform="translate(1302 337.2) scale(0.6000)"><title>Sheppard-Yonge</title></use>
+    <use href="#star" transform="translate(1468.8 1613.9) scale(0.6975)"><title>Museum</title></use>
+    <use href="#star" transform="translate(1366.2 1609.5) scale(0.6975)"><title>Spadina</title></use>
+    <use href="#star" transform="translate(1413.8 1594.8) scale(0.6975)"><title>St. George</title></use>
+    <use href="#star" transform="translate(1500.1 1570.4) scale(0.6975)"><title>Bay</title></use>
+    <use href="#star" transform="translate(1544.5 1562.1) scale(0.6975)"><title>Bloor-Yonge</title></use>
+    <use href="#star" transform="translate(1297.2 332.4) scale(0.6975)"><title>Sheppard-Yonge</title></use>
   </g>
 </svg>
