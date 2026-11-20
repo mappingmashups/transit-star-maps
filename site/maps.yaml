@@ -11,8 +11,8 @@
 
 title: Transit Star Maps
 # The site's public address, used for the social card and link previews.
-# Change to https://transitstarmaps.com/ once the domain points at GitHub Pages.
-url: https://mappingmashups.github.io/transit-star-maps/
+# (GitHub Pages serves the site at this custom domain; see docs/CNAME.)
+url: https://transitstarmaps.com/
 # Old Tumblr post IDs -> map (city) to jump to. Any other old address
 # (/tagged/..., /archive, unlisted maps) goes to the top of the page.
 old_posts:
