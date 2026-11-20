@@ -3,7 +3,7 @@ transit-star-maps
 
 transit maps that look like constellations because trains + stars = &lt;3
 
-See the maps at [transitstarmaps.com](https://transitstarmaps.com/), buy shirts at [zazzle.com/transitstarmaps](https://www.zazzle.com/transitstarmaps), and follow us at [facebook.com/transitstarmaps](https://facebook.com/transitstarmaps/).
+See the maps at [transitstarmaps.com](https://transitstarmaps.com/) and buy shirts at [zazzle.com/transitstarmaps](https://www.zazzle.com/transitstarmaps).
 
 What makes a good transit star chart?
 -------------------------------------
