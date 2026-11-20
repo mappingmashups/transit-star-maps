@@ -30,10 +30,9 @@ about: >
   track between neighboring stations. Bigger stars mark the places where lines
   meet or branch. The result is a city's transit system as it might appear in
   the night sky.
-shop_all: ""  # link to the whole store, e.g. a Zazzle store page
+shop_all: "https://www.zazzle.com/transitstarmaps"  # the whole store
 links:
   - {label: Instagram, url: ""}
-  - {label: Twitter, url: "https://twitter.com/transitstarmaps"}
   - {label: Facebook, url: "https://facebook.com/transitstarmaps/"}
   - {label: GitHub, url: "https://github.com/mappingmashups/transit-star-maps"}
 
