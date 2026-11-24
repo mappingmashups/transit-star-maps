@@ -31,6 +31,10 @@ about: >
   meet or branch. The result is a city's transit system as it might appear in
   the night sky.
 shop_all: "https://www.zazzle.com/transitstarmaps"  # the whole store
+# Footer credit.
+author: Alan McConchie
+author_url: https://mappingmashups.net
+copyright_year: 2026
 links:
   - {label: Instagram, url: ""}
   - {label: GitHub, url: "https://github.com/mappingmashups/transit-star-maps"}

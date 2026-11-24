@@ -64,7 +64,8 @@
   h1 .mark { color: var(--star); font-size: .55em; vertical-align: .35em; margin: 0 .25em; }
   .tagline { font: italic 500 clamp(1.15rem, 2.6vw, 1.45rem)/1.35 var(--serif); color: var(--muted); margin: 0 auto 22px; max-width: 34em; }
   .about { max-width: 40em; margin: 0 auto; color: #c9c6b8; }
-  .shop-all { display: inline-block; margin-top: 24px; }
+  .shop { text-align: center; padding: 8px 0 80px; }
+  .shop p { font: italic 500 1.35rem/1.4 var(--serif); color: var(--muted); margin: 0 0 18px; }
 
   .grid {
     display: grid;
@@ -128,7 +129,6 @@
   <h1><span class="mark">★</span>Transit Star Maps<span class="mark">★</span></h1>
   <p class="tagline">Subway and light rail networks, drawn as constellations.</p>
   <p class="about">Every star is a station, placed where it really is. Every line follows the track between neighboring stations. Bigger stars mark the places where lines meet or branch. The result is a city&#x27;s transit system as it might appear in the night sky.</p>
-  <a class="button shop-all" href="https://www.zazzle.com/transitstarmaps">Shop all shirts</a>
 </header>
 
 <main class="wrap">
@@ -233,11 +233,15 @@
       </div>
     </article>
   </section>
+  <section class="shop" aria-label="Shop">
+    <p>These designs are available as T-shirts.</p>
+    <a class="button" href="https://www.zazzle.com/transitstarmaps">Shop these designs on a T-shirt</a>
+  </section>
 </main>
 
 <footer>
   <div class="wrap">
-    <span>Station locations from the transit agencies' published data. © 2026 Transit Star Maps.</span>
+    <span>Station locations from the transit agencies' published data. © 2026 <a href="https://mappingmashups.net">Alan McConchie</a>.</span>
     <nav aria-label="Links"><a href="https://github.com/mappingmashups/transit-star-maps">GitHub</a></nav>
   </div>
 </footer>

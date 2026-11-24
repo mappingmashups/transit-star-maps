@@ -64,7 +64,8 @@
   h1 .mark { color: var(--star); font-size: .55em; vertical-align: .35em; margin: 0 .25em; }
   .tagline { font: italic 500 clamp(1.15rem, 2.6vw, 1.45rem)/1.35 var(--serif); color: var(--muted); margin: 0 auto 22px; max-width: 34em; }
   .about { max-width: 40em; margin: 0 auto; color: #c9c6b8; }
-  .shop-all { display: inline-block; margin-top: 24px; }
+  .shop { text-align: center; padding: 8px 0 80px; }
+  .shop p { font: italic 500 1.35rem/1.4 var(--serif); color: var(--muted); margin: 0 0 18px; }
 
   .grid {
     display: grid;
@@ -128,18 +129,18 @@
   <h1><span class="mark">★</span>{{title}}<span class="mark">★</span></h1>
   <p class="tagline">{{tagline}}</p>
   <p class="about">{{about}}</p>
-  {{shop_all}}
 </header>
 
 <main class="wrap">
   <section class="grid" aria-label="Maps">
 {{cards}}
   </section>
+{{shop_all}}
 </main>
 
 <footer>
   <div class="wrap">
-    <span>Station locations from the transit agencies' published data. © {{year}} Transit Star Maps.</span>
+    <span>Station locations from the transit agencies' published data. {{copyright}}</span>
     <nav aria-label="Links">{{links}}</nav>
   </div>
 </footer>

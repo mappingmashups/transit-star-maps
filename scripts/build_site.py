@@ -122,7 +122,10 @@ def main():
         f'<a href="{escape(l["url"])}">{escape(l["label"])}</a>' for l in site.get("links", []) if l.get("url")
     )
     shop_all = (
-        f'<a class="button shop-all" href="{escape(site["shop_all"])}">Shop all shirts</a>' if site.get("shop_all") else ""
+        f'''  <section class="shop" aria-label="Shop">
+    <p>These designs are available as T-shirts.</p>
+    <a class="button" href="{escape(site["shop_all"])}">Shop these designs on a T-shirt</a>
+  </section>''' if site.get("shop_all") else ""
     )
     url = site["url"].rstrip("/") + "/"
     card_entry = next((e for e in site["maps"] if e["city"] == site["card_map"]), None)
@@ -146,7 +149,12 @@ def main():
         "shop_all": shop_all,
         "cards": "\n".join(cards),
         "links": links,
-        "year": str(dt.date.today().year),
+        "copyright": (
+            f'© {site.get("copyright_year", dt.date.today().year)} '
+            + (f'<a href="{escape(site["author_url"])}">{escape(site["author"])}</a>'
+               if site.get("author_url") else escape(site.get("author", site["title"])))
+            + "."
+        ),
         "url": escape(url),
         "card_alt": escape(card_alt),
         "stars_small": starfield(260, 1),
