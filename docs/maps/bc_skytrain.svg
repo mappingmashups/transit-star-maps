@@ -50,11 +50,11 @@
     <use href="#star" transform="translate(573.9 171) scale(0.6300)" stroke-width="33.33"/>
     <use href="#star" transform="translate(2846.5 156.8) scale(0.6300)" stroke-width="33.33"/>
     <use href="#star" transform="translate(2863.5 98.4) scale(0.6300)" stroke-width="33.33"/>
-    <use href="#star" transform="translate(433.2 1075.5) scale(0.9765)" stroke-width="21.51"/>
-    <use href="#star" transform="translate(2020.9 973.8) scale(0.9765)" stroke-width="21.51"/>
+    <use href="#star" transform="translate(442.1 1084.4) scale(0.7986)" stroke-width="26.29"/>
+    <use href="#star" transform="translate(2038.2 991.1) scale(0.6300)" stroke-width="33.33"/>
     <use href="#star" transform="translate(2087.9 492.4) scale(0.9765)" stroke-width="21.51"/>
-    <use href="#star" transform="translate(847.7 336.5) scale(0.9765)" stroke-width="21.51"/>
-    <use href="#star" transform="translate(505.2 98.5) scale(0.9765)" stroke-width="21.51"/>
+    <use href="#star" transform="translate(856.4 345.2) scale(0.8025)" stroke-width="26.17"/>
+    <use href="#star" transform="translate(520.7 114) scale(0.6676)" stroke-width="31.46"/>
       </g>
     </mask>
   </defs>
@@ -157,10 +157,10 @@
     <use href="#star" transform="translate(573.9 171) scale(0.6300)"><title>Stadium-Chinatown Station</title></use>
     <use href="#star" transform="translate(2846.5 156.8) scale(0.6300)"><title>Lincoln Station</title></use>
     <use href="#star" transform="translate(2863.5 98.4) scale(0.6300)"><title>Lafarge Lake-Douglas Station</title></use>
-    <use href="#star" transform="translate(433.2 1075.5) scale(0.9765)"><title>Bridgeport Station</title></use>
-    <use href="#star" transform="translate(2020.9 973.8) scale(0.9765)"><title>Columbia Station</title></use>
+    <use href="#star" transform="translate(442.1 1084.4) scale(0.7986)"><title>Bridgeport Station</title></use>
+    <use href="#star" transform="translate(2038.2 991.1) scale(0.6300)"><title>Columbia Station</title></use>
     <use href="#star" transform="translate(2087.9 492.4) scale(0.9765)"><title>Lougheed Town Centre Station</title></use>
-    <use href="#star" transform="translate(847.7 336.5) scale(0.9765)"><title>Commercial-Broadway Station</title></use>
-    <use href="#star" transform="translate(505.2 98.5) scale(0.9765)"><title>Waterfront Station</title></use>
+    <use href="#star" transform="translate(856.4 345.2) scale(0.8025)"><title>Commercial-Broadway Station</title></use>
+    <use href="#star" transform="translate(520.7 114) scale(0.6676)"><title>Waterfront Station</title></use>
   </g>
 </svg>

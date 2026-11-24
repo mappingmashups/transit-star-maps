@@ -118,11 +118,11 @@
     <use href="#star" transform="translate(2025.2 85.5) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(2215.4 1745.4) scale(0.6045)" stroke-width="34.74"/>
     <use href="#star" transform="translate(1758 1338.6) scale(0.6045)" stroke-width="34.74"/>
-    <use href="#star" transform="translate(1947.3 1323.7) scale(0.6045)" stroke-width="34.74"/>
-    <use href="#star" transform="translate(2119.5 1237.4) scale(0.6045)" stroke-width="34.74"/>
-    <use href="#star" transform="translate(2150.7 1188.7) scale(0.6045)" stroke-width="34.74"/>
-    <use href="#star" transform="translate(2151.9 1135.7) scale(0.6045)" stroke-width="34.74"/>
-    <use href="#star" transform="translate(2119.8 1098.9) scale(0.6045)" stroke-width="34.74"/>
+    <use href="#star" transform="translate(1958.1 1334.5) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2130.3 1248.2) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2161.4 1199.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2162.6 1146.4) scale(0.3900)" stroke-width="53.85"/>
+    <use href="#star" transform="translate(2130.5 1109.6) scale(0.3900)" stroke-width="53.85"/>
     <use href="#star" transform="translate(1956.4 1012.6) scale(0.6045)" stroke-width="34.74"/>
       </g>
     </mask>
@@ -367,11 +367,11 @@
     <use href="#star" transform="translate(2025.2 85.5) scale(0.3900)"><title>Oak Grove</title></use>
     <use href="#star" transform="translate(2215.4 1745.4) scale(0.6045)"><title>JFK/UMass</title></use>
     <use href="#star" transform="translate(1758 1338.6) scale(0.6045)"><title>Kenmore</title></use>
-    <use href="#star" transform="translate(1947.3 1323.7) scale(0.6045)"><title>Copley</title></use>
-    <use href="#star" transform="translate(2119.5 1237.4) scale(0.6045)"><title>Downtown Crossing</title></use>
-    <use href="#star" transform="translate(2150.7 1188.7) scale(0.6045)"><title>Government Center</title></use>
-    <use href="#star" transform="translate(2151.9 1135.7) scale(0.6045)"><title>Haymarket</title></use>
-    <use href="#star" transform="translate(2119.8 1098.9) scale(0.6045)"><title>North Station</title></use>
+    <use href="#star" transform="translate(1958.1 1334.5) scale(0.3900)"><title>Copley</title></use>
+    <use href="#star" transform="translate(2130.3 1248.2) scale(0.3900)"><title>Downtown Crossing</title></use>
+    <use href="#star" transform="translate(2161.4 1199.4) scale(0.3900)"><title>Government Center</title></use>
+    <use href="#star" transform="translate(2162.6 1146.4) scale(0.3900)"><title>Haymarket</title></use>
+    <use href="#star" transform="translate(2130.5 1109.6) scale(0.3900)"><title>North Station</title></use>
     <use href="#star" transform="translate(1956.4 1012.6) scale(0.6045)"><title>Lechmere</title></use>
   </g>
 </svg>

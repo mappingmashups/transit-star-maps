@@ -150,7 +150,9 @@ def svg(stations, segments, cfg, variant: str = "black") -> str:
     stations, segments = declutter(
         stations, segments, st["min_star_spacing_in"] * dpi, math.dist(p0, p1) / 1000,
         {0: st["minor_star_size_in"] / st["star_size_in"], 1: 1.0,
-         2: st["large_star_size_in"] / st["star_size_in"]},
+         # Hubs shrink to fit their neighbors (below), so a city that
+         # exaggerates its hubs doesn't need to swallow nearby stations.
+         2: min(st["large_star_size_in"] / st["star_size_in"], 1.55)},
     )
     if st["line_style"] == "straight":
         # Constellation-chart style: a straight stroke from star to star.
@@ -162,9 +164,23 @@ def svg(stations, segments, cfg, variant: str = "black") -> str:
     gap = st["gap_in"] * dpi
     sizes = {0: st["minor_star_size_in"] * dpi, 1: st["star_size_in"] * dpi, 2: st["large_star_size_in"] * dpi}
 
+    # Hub stars grow only as far as they can without touching a neighbor
+    # (keeping one gap between them), but never below a regular star.
+    pos = {id(s): to_px(s["x"], s["y"]) for s in stations}
+    size_of = {id(s): sizes.get(s["rank"], sizes[1]) for s in stations}
+    for s in sorted(stations, key=lambda s: -size_of[id(s)]):
+        if s["rank"] < 2:
+            continue
+        room = min(
+            (2 * (math.dist(pos[id(s)], pos[id(o)]) - size_of[id(o)] / 2 - gap)
+             for o in stations if o is not s),
+            default=size_of[id(s)],
+        )
+        size_of[id(s)] = max(sizes[1], min(size_of[id(s)], room))
+
     def star_transform(s):
-        size = sizes.get(s["rank"], sizes[1])
-        x, y = to_px(s["x"], s["y"])
+        size = size_of[id(s)]
+        x, y = pos[id(s)]
         return size, f"translate({_fmt(x - size / 2)} {_fmt(y - size / 2)}) scale({size / 100:.4f})"
 
     # Big stars last so they sit on top where stars touch.

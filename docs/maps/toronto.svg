@@ -104,10 +104,10 @@
     <use href="#star" transform="translate(736.8 203.8) scale(0.4500)" stroke-width="46.67"/>
     <use href="#star" transform="translate(700.3 82.5) scale(0.4500)" stroke-width="46.67"/>
     <use href="#star" transform="translate(1726.7 1499.2) scale(0.6975)" stroke-width="30.11"/>
-    <use href="#star" transform="translate(1837.1 1476.3) scale(0.6975)" stroke-width="30.11"/>
-    <use href="#star" transform="translate(1442.8 1145.7) scale(0.6975)" stroke-width="30.11"/>
+    <use href="#star" transform="translate(1846.9 1486.1) scale(0.5017)" stroke-width="41.86"/>
+    <use href="#star" transform="translate(1450.9 1153.7) scale(0.5362)" stroke-width="39.16"/>
     <use href="#star" transform="translate(1751.7 1071.2) scale(0.6975)" stroke-width="30.11"/>
-    <use href="#star" transform="translate(2860.1 768.1) scale(0.6975)" stroke-width="30.11"/>
+    <use href="#star" transform="translate(2862.7 770.7) scale(0.6453)" stroke-width="32.54"/>
     <use href="#star" transform="translate(1654.9 442.8) scale(0.6975)" stroke-width="30.11"/>
     <use href="#star" transform="translate(992.2 411.2) scale(0.6975)" stroke-width="30.11"/>
       </g>
@@ -323,10 +323,10 @@
     <use href="#star" transform="translate(736.8 203.8) scale(0.4500)"><title>Highway 407 Station</title></use>
     <use href="#star" transform="translate(700.3 82.5) scale(0.4500)"><title>Vaughan Metropolitan Centre Station</title></use>
     <use href="#star" transform="translate(1726.7 1499.2) scale(0.6975)"><title>Spadina Station</title></use>
-    <use href="#star" transform="translate(1837.1 1476.3) scale(0.6975)"><title>Bloor Station</title></use>
-    <use href="#star" transform="translate(1442.8 1145.7) scale(0.6975)"><title>Cedarvale Station</title></use>
+    <use href="#star" transform="translate(1846.9 1486.1) scale(0.5017)"><title>Bloor Station</title></use>
+    <use href="#star" transform="translate(1450.9 1153.7) scale(0.5362)"><title>Cedarvale Station</title></use>
     <use href="#star" transform="translate(1751.7 1071.2) scale(0.6975)"><title>Eglinton Station</title></use>
-    <use href="#star" transform="translate(2860.1 768.1) scale(0.6975)"><title>Kennedy Station</title></use>
+    <use href="#star" transform="translate(2862.7 770.7) scale(0.6453)"><title>Kennedy Station</title></use>
     <use href="#star" transform="translate(1654.9 442.8) scale(0.6975)"><title>Sheppard-Yonge Station</title></use>
     <use href="#star" transform="translate(992.2 411.2) scale(0.6975)"><title>Finch West Station</title></use>
   </g>

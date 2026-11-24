@@ -48,7 +48,7 @@
     <use href="#star" transform="translate(2201 96.7) scale(0.6600)" stroke-width="31.82"/>
     <use href="#star" transform="translate(1448.5 1719.7) scale(1.0230)" stroke-width="20.53"/>
     <use href="#star" transform="translate(1164.2 1430.9) scale(1.0230)" stroke-width="20.53"/>
-    <use href="#star" transform="translate(345.3 1238.9) scale(1.0230)" stroke-width="20.53"/>
+    <use href="#star" transform="translate(363.5 1257) scale(0.6600)" stroke-width="31.82"/>
     <use href="#star" transform="translate(874.1 1179) scale(1.0230)" stroke-width="20.53"/>
     <use href="#star" transform="translate(880.1 1047.3) scale(1.0230)" stroke-width="20.53"/>
       </g>
@@ -146,7 +146,7 @@
     <use href="#star" transform="translate(2201 96.7) scale(0.6600)"><title>Pittsburg / Bay Point</title></use>
     <use href="#star" transform="translate(1448.5 1719.7) scale(1.0230)"><title>Bay Fair</title></use>
     <use href="#star" transform="translate(1164.2 1430.9) scale(1.0230)"><title>Coliseum</title></use>
-    <use href="#star" transform="translate(345.3 1238.9) scale(1.0230)"><title>Embarcadero</title></use>
+    <use href="#star" transform="translate(363.5 1257) scale(0.6600)"><title>Embarcadero</title></use>
     <use href="#star" transform="translate(874.1 1179) scale(1.0230)"><title>12th Street / Oakland City Center</title></use>
     <use href="#star" transform="translate(880.1 1047.3) scale(1.0230)"><title>MacArthur</title></use>
   </g>
