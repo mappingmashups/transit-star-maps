@@ -57,6 +57,9 @@ stations:
     - Central Issaquah
     - Downtown Redmond
     - Tacoma Dome
+    # Former line ends.
+    - Lynnwood City Center
+    - SeaTac/Airport
   merge_distance_m: 150
 style:
   min_star_spacing_in: 0.12

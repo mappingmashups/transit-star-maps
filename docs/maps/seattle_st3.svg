@@ -19,7 +19,6 @@
     <use href="#star" transform="translate(1458.2 2915.4) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1467.6 2776.6) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1457.2 2624) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1459.8 2519.6) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1487.6 2433.8) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1505.2 2234.7) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1514.4 2165.2) scale(0.5100)" stroke-width="41.18"/>
@@ -53,13 +52,13 @@
     <use href="#star" transform="translate(1371.9 1181.6) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1379.2 1052.9) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1404.4 956.3) scale(0.5100)" stroke-width="41.18"/>
-    <use href="#star" transform="translate(1466.5 815.5) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1560.1 742.6) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1571.3 658.3) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1639.8 510.6) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1675.9 320.9) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1571.6 284.3) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1024.9 3452.9) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(1445.8 2505.6) scale(0.7905)" stroke-width="26.57"/>
     <use href="#star" transform="translate(2178.9 2060.5) scale(0.7905)" stroke-width="26.57"/>
     <use href="#star" transform="translate(1350.9 1881.1) scale(0.7905)" stroke-width="26.57"/>
     <use href="#star" transform="translate(1777.4 1855.7) scale(0.7905)" stroke-width="26.57"/>
@@ -67,6 +66,7 @@
     <use href="#star" transform="translate(1323 1749.4) scale(0.7905)" stroke-width="26.57"/>
     <use href="#star" transform="translate(1781.6 1730.3) scale(0.7905)" stroke-width="26.57"/>
     <use href="#star" transform="translate(2014 1473.7) scale(0.7905)" stroke-width="26.57"/>
+    <use href="#star" transform="translate(1452.5 801.5) scale(0.7905)" stroke-width="26.57"/>
     <use href="#star" transform="translate(1752.4 65.5) scale(0.7905)" stroke-width="26.57"/>
       </g>
     </mask>
@@ -151,7 +151,6 @@
     <use href="#star" transform="translate(1458.2 2915.4) scale(0.5100)"><title>Star Lake</title></use>
     <use href="#star" transform="translate(1467.6 2776.6) scale(0.5100)"><title>Kent Des Moines</title></use>
     <use href="#star" transform="translate(1457.2 2624) scale(0.5100)"><title>Angle Lake</title></use>
-    <use href="#star" transform="translate(1459.8 2519.6) scale(0.5100)"><title>SeaTac/Airport</title></use>
     <use href="#star" transform="translate(1487.6 2433.8) scale(0.5100)"><title>Tukwila Int&#x27;l Blvd</title></use>
     <use href="#star" transform="translate(1505.2 2234.7) scale(0.5100)"><title>Boeing Access Road</title></use>
     <use href="#star" transform="translate(1514.4 2165.2) scale(0.5100)"><title>Rainier Beach</title></use>
@@ -185,13 +184,13 @@
     <use href="#star" transform="translate(1371.9 1181.6) scale(0.5100)"><title>Shoreline South/148th</title></use>
     <use href="#star" transform="translate(1379.2 1052.9) scale(0.5100)"><title>Shoreline North/185th</title></use>
     <use href="#star" transform="translate(1404.4 956.3) scale(0.5100)"><title>Mountlake Terrace</title></use>
-    <use href="#star" transform="translate(1466.5 815.5) scale(0.5100)"><title>Lynnwood City Center</title></use>
     <use href="#star" transform="translate(1560.1 742.6) scale(0.5100)"><title>West Alderwood</title></use>
     <use href="#star" transform="translate(1571.3 658.3) scale(0.5100)"><title>Ash Way</title></use>
     <use href="#star" transform="translate(1639.8 510.6) scale(0.5100)"><title>Mariner</title></use>
     <use href="#star" transform="translate(1675.9 320.9) scale(0.5100)"><title>SR 526/Evergreen</title></use>
     <use href="#star" transform="translate(1571.6 284.3) scale(0.5100)"><title>SW Everett Industrial Center</title></use>
     <use href="#star" transform="translate(1024.9 3452.9) scale(0.7905)"><title>Tacoma Dome</title></use>
+    <use href="#star" transform="translate(1445.8 2505.6) scale(0.7905)"><title>SeaTac/Airport</title></use>
     <use href="#star" transform="translate(2178.9 2060.5) scale(0.7905)"><title>Central Issaquah</title></use>
     <use href="#star" transform="translate(1350.9 1881.1) scale(0.7905)"><title>SODO</title></use>
     <use href="#star" transform="translate(1777.4 1855.7) scale(0.7905)"><title>South Bellevue</title></use>
@@ -199,6 +198,7 @@
     <use href="#star" transform="translate(1323 1749.4) scale(0.7905)"><title>Westlake</title></use>
     <use href="#star" transform="translate(1781.6 1730.3) scale(0.7905)"><title>Wilburton</title></use>
     <use href="#star" transform="translate(2014 1473.7) scale(0.7905)"><title>Downtown Redmond</title></use>
+    <use href="#star" transform="translate(1452.5 801.5) scale(0.7905)"><title>Lynnwood City Center</title></use>
     <use href="#star" transform="translate(1752.4 65.5) scale(0.7905)"><title>Everett Station</title></use>
   </g>
 </svg>
