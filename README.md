@@ -84,6 +84,8 @@ The site at transitstarmaps.com is a single static page in `docs/`, served by Gi
 
 The build also renders `docs/social-card.png` (1200 × 630), the image shown when the site is linked on social media or in chat apps; `card_map` in `site/maps.yaml` picks its map, and `url` sets the address the preview tags and the redirect page use. The same image can be uploaded as the repository's social preview under Settings → General.
 
+The About & FAQ page is written in `site/about.md` (Markdown); each map's data credit on that page comes from `credit:` in its city config. Print-ready files for the maps on the site are collected in `outputs/print/` by `scripts/export_print.py`.
+
 To add a map, render it, add a line to `site/maps.yaml` (place, system name, Zazzle link), and rebuild. Edit `site/index.template.html`, not `docs/index.html`. The custom domain is set in `site/CNAME`, which the build copies to `docs/CNAME`.
 
 `docs/404.html` sends old addresses from the Tumblr-era site home; old map posts (`/post/<id>/...`, listed under `old_posts` in `site/maps.yaml`) open at that map's card.
