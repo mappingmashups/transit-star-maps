@@ -3,6 +3,6 @@
 name: MARTA Rail
 source:
   type: gtfs
-  url: https://www.itsmarta.com/google_transit_feed/google_transit.zip
+  url: https://itsmarta.com/google_transit_feed/google_transit.zip
   route_types: [1, 2]
   exclude_routes: ["streetcar", "^ATLSC"]
