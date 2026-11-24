@@ -5,7 +5,6 @@
     <mask id="gaps" maskUnits="userSpaceOnUse" x="0" y="0" width="3000" height="3600">
       <rect width="3000" height="3600" fill="#fff"/>
       <g fill="#000" stroke="#000" stroke-linejoin="round">
-    <use href="#star" transform="translate(575.6 3469.5) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(551.8 3349.3) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(629.2 3060.2) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(738.1 2805.2) scale(0.5100)" stroke-width="41.18"/>
@@ -40,6 +39,7 @@
     <use href="#star" transform="translate(1525.8 344.1) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1463.6 227.1) scale(0.5100)" stroke-width="41.18"/>
     <use href="#star" transform="translate(1405.7 79.5) scale(0.5100)" stroke-width="41.18"/>
+    <use href="#star" transform="translate(561.5 3455.5) scale(0.7905)" stroke-width="26.57"/>
     <use href="#star" transform="translate(1071.5 2195.6) scale(0.7905)" stroke-width="26.57"/>
     <use href="#star" transform="translate(832.1 2166.7) scale(0.7905)" stroke-width="26.57"/>
     <use href="#star" transform="translate(1277.4 1426.1) scale(0.7905)" stroke-width="26.57"/>
@@ -87,7 +87,6 @@
     <path d="M1149.1 2096.1 L1148 2170.3"/>
   </g>
   <g fill="#ffffaa">
-    <use href="#star" transform="translate(575.6 3469.5) scale(0.5100)"><title>AIRPORT STATION</title></use>
     <use href="#star" transform="translate(551.8 3349.3) scale(0.5100)"><title>COLLEGE PARK STATION</title></use>
     <use href="#star" transform="translate(629.2 3060.2) scale(0.5100)"><title>EAST POINT STATION</title></use>
     <use href="#star" transform="translate(738.1 2805.2) scale(0.5100)"><title>LAKEWOOD-FT MCPHERSON STATION</title></use>
@@ -122,6 +121,7 @@
     <use href="#star" transform="translate(1525.8 344.1) scale(0.5100)"><title>DUNWOODY STATION</title></use>
     <use href="#star" transform="translate(1463.6 227.1) scale(0.5100)"><title>SANDY SPRINGS STATION</title></use>
     <use href="#star" transform="translate(1405.7 79.5) scale(0.5100)"><title>NORTH SPRINGS STATION</title></use>
+    <use href="#star" transform="translate(561.5 3455.5) scale(0.7905)"><title>AIRPORT STATION</title></use>
     <use href="#star" transform="translate(1071.5 2195.6) scale(0.7905)"><title>FIVE POINTS STATION</title></use>
     <use href="#star" transform="translate(832.1 2166.7) scale(0.7905)"><title>ASHBY STATION</title></use>
     <use href="#star" transform="translate(1277.4 1426.1) scale(0.7905)"><title>LINDBERGH CENTER STATION</title></use>

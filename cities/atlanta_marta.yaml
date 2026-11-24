@@ -6,3 +6,6 @@ source:
   url: https://itsmarta.com/google_transit_feed/google_transit.zip
   route_types: [1, 2]
   exclude_routes: ["streetcar", "^ATLSC"]
+stations:
+  large:
+    - AIRPORT STATION
