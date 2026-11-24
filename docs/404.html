@@ -10,7 +10,7 @@
 <meta http-equiv="refresh" content="0; url=/">
 <script>
   // Old Tumblr posts (/post/<id>/...) jump to their map's card.
-  var posts = {"120301591440": "bart", "120301636190": "la_metro", "120301852490": "bc_skytrain", "134840215485": "montreal"};
+  var posts = {"120301591440": "bart", "120301636190": "la_metro", "120301804435": "trimet_max", "120301852490": "bc_skytrain", "134840128565": "toronto", "134840215485": "montreal"};
   var m = location.pathname.match(/\/post\/(\d+)/);
   var anchor = m && posts[m[1]] ? "#" + posts[m[1]] : "";
   location.replace("/" + anchor);

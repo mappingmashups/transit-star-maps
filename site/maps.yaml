@@ -42,6 +42,9 @@ maps:
   - {city: montreal, place: Montréal, system: Métro, shop: ""}
   - {city: bc_skytrain, place: Vancouver, system: SkyTrain, shop: ""}
   - {city: la_metro, place: Los Angeles, system: Metro Rail, shop: ""}
+  - {city: toronto, place: Toronto, system: TTC Subway, shop: ""}
+  - {city: trimet_max, place: Portland, system: MAX Light Rail, shop: ""}
+  - {city: seattle_st3, place: Seattle, system: Link Light Rail, note: "The full Sound Transit 3 build-out", shop: ""}
+  - {city: cahsr, place: California, system: High-Speed Rail, note: "The full Phase 1 and Phase 2 network", shop: ""}
   # Rendered but left off the site for now:
-  # - {city: trimet_max, place: Portland, system: MAX Light Rail, shop: ""}
-  # - {city: seattle_link, place: Seattle, system: Link Light Rail, shop: ""}
+  # - {city: seattle_link, place: Seattle, system: Link Light Rail (today), shop: ""}
