@@ -69,6 +69,7 @@ make test
 | `cahsr` | CA HSR Authority statewide alignment and stations | Phase 1 and Phase 2, with Phase 2 station options chosen in the config |
 | `stockholm` | SL GTFS (Trafiklab) | Tunnelbana. Needs a free API key in `TRAFIKLAB_API_KEY` |
 | `dallas_dart` | DART GTFS | Red, Blue, Green, Orange light rail |
+| `atlanta_marta` | MARTA GTFS | Red, Gold, Blue and Green rail lines (no streetcar) |
 
 The `*_2016` configs rebuild each map from the data the TileMill project used (in `legacy/data/`; Boston and DC had data but were never rendered back then), through a second input path that reads plain station and line files. This path also works for OpenStreetMap extracts or agency shapefiles when there's no usable GTFS feed.
 

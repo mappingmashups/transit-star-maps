@@ -1,0 +1,8 @@
+# MARTA rail: Red, Gold, Blue and Green lines. The Atlanta Streetcar (also
+# in MARTA's feed) and buses are left out.
+name: MARTA Rail
+source:
+  type: gtfs
+  url: https://www.itsmarta.com/google_transit_feed/google_transit.zip
+  route_types: [1, 2]
+  exclude_routes: ["streetcar", "^ATLSC"]
