@@ -56,7 +56,11 @@ def card(entry, svg_path):
     rel = svg_path.relative_to(DOCS).as_posix()
     place, system = escape(entry["place"]), escape(entry["system"])
     shop = entry.get("shop") or ""
-    button = f'<a class="button" href="{escape(shop)}" target="_blank" rel="noopener">Shop</a>' if shop else ""
+    button = (
+        f'<a class="button" href="{escape(shop)}" target="_blank" rel="noopener" '
+        f'aria-label="Buy or customize the {place} design on Zazzle">Buy or customize</a>'
+        if shop else ""
+    )
     note = f'<p class="note">{escape(entry["note"])}</p>' if entry.get("note") else ""
     alt = f"{entry['system']} in {entry['place']} drawn as a constellation"
     return f"""    <article class="card" id="{escape(entry['city'])}">
@@ -164,8 +168,9 @@ def main():
     )
     shop_all = (
         f'''  <section class="shop" aria-label="Shop">
-    <p>These designs are available as T-shirts.</p>
-    <a class="button" href="{escape(site["shop_all"])}">Shop these designs on a T-shirt</a>
+    <p>Every design here is on Zazzle. Buy it as it is, or customize it: pick a
+    different shirt style or cut, or put it on something else entirely, like a tote bag.</p>
+    <a class="button" href="{escape(site["shop_all"])}">See all the designs on Zazzle</a>
   </section>''' if site.get("shop_all") else ""
     )
     url = site["url"].rstrip("/") + "/"

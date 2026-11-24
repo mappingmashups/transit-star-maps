@@ -40,7 +40,7 @@
   .tagline { font: italic 500 clamp(1.15rem, 2.6vw, 1.45rem)/1.35 var(--serif); color: var(--muted); margin: 0 auto 22px; max-width: 34em; }
   .about { max-width: 40em; margin: 0 auto; color: #c9c6b8; }
   .shop { text-align: center; padding: 8px 0 80px; }
-  .shop p { font: italic 500 1.35rem/1.4 var(--serif); color: var(--muted); margin: 0 0 18px; }
+  .shop p { font: italic 500 1.35rem/1.4 var(--serif); color: var(--muted); margin: 0 auto 18px; max-width: 32em; }
 
   .grid {
     display: grid;
