@@ -50,6 +50,11 @@ DEFAULTS = {
         # twice, platforms the agency did not give a parent station, ...).
         "merge_distance_m": 120,
         "merge": [],  # lists of station names/ids to force into one star
+        # For feeds without parent stations: a regex removed from stop names
+        # (e.g. platform suffixes); stops whose remaining names match and that
+        # are within name_merge_m of each other become one star.
+        "name_strip": None,
+        "name_merge_m": 800,
         "drop": [],  # station names/ids to leave out
         "rank": {},  # name -> star rank (0 minor, 1 regular, 2 large) overrides
         "large": [],  # names (or ids) of stations that get a large star anyway

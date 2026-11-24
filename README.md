@@ -60,7 +60,7 @@ make test
 | `la_metro` | LA Metro rail GTFS | A, B, C, D, E, K |
 | `trimet_max` | TriMet GTFS | MAX only (no streetcar or WES) |
 | `bc_skytrain` | TransLink GTFS | Expo, Millennium, Canada |
-| `toronto` | TTC GTFS | Lines 1, 2, 4, 5, 6. Not built yet: in Nov 2026 Toronto Open Data was serving an empty zip for this feed |
+| `toronto` | TTC GTFS | Lines 1, 2, 4, 5 (Eglinton) and 6 (Finch West). The feed has no parent stations, so platforms are merged by name (`stations.name_strip`) |
 | `montreal` | STM GTFS | Métro (green, orange, yellow, blue). STM's route shapes are very coarse, so the lines are nearly straight between stations |
 | `seattle_link` | Sound Transit rail GTFS | Link 1 Line and 2 Line (not the T Line or Sounder) |
 | `boston_mbta` | MBTA GTFS | Red (with Mattapan), Orange, Blue, Green (with the Green Line Extension); no Silver Line |

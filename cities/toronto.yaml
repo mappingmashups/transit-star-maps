@@ -10,4 +10,12 @@ source:
   route_types: [0, 1]
   include_routes: ["^(1|2|4|5|6)$", "^Line [1-6]\\b"]
 style:
+  min_star_spacing_in: 0.12
   star_size_in: 0.15
+stations:
+  # Kennedy is the end of both Line 2 and Line 5.
+  large: [Kennedy Station]
+  # The TTC feed has no parent stations: each platform is its own stop
+  # ("Chester Station - Eastbound Platform"). Strip the platform part and
+  # merge stops with the same station name.
+  name_strip: '(\s*-)?\s*((east|west|north|south)bound |subway |lrt |drop-off )?platform\b.*$'

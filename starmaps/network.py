@@ -106,6 +106,19 @@ def merge_stations(stations: dict, cfg: dict, proj: LocalProjection):
                 if m != n and math.dist(pts[i], pts[ids[m]]) <= d:
                     union(i, ids[m])
 
+    if scfg.get("name_strip"):
+        strip = re.compile(scfg["name_strip"], re.IGNORECASE)
+        base = {i: strip.sub("", stations[i]["name"]).strip() for i in ids}
+        groups = defaultdict(list)
+        for i in ids:
+            groups[_key(base[i])].append(i)
+        for members in groups.values():
+            for a in members:
+                for b in members:
+                    if a < b and math.dist(pts[a], pts[b]) <= scfg["name_merge_m"]:
+                        union(a, b)
+        stations = {i: {**stations[i], "name": base[i]} for i in ids}
+
     by_key = defaultdict(list)
     for i in ids:
         by_key[_key(i)].append(i)
