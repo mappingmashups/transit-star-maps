@@ -40,16 +40,16 @@ links:
   - {label: GitHub, url: "https://github.com/mappingmashups/transit-star-maps"}
 
 maps:
-  - {city: bart, place: San Francisco Bay Area, system: BART, shop: ""}
-  - {city: dc_metro, place: "Washington, D.C.", system: Metrorail, shop: ""}
-  - {city: boston_mbta, place: Boston, system: MBTA Subway, shop: ""}
-  - {city: montreal, place: Montréal, system: Métro, shop: ""}
-  - {city: bc_skytrain, place: Vancouver, system: SkyTrain, shop: ""}
-  - {city: la_metro, place: Los Angeles, system: Metro Rail, shop: ""}
-  - {city: toronto, place: Toronto, system: TTC Subway, shop: ""}
-  - {city: trimet_max, place: Portland, system: MAX Light Rail, shop: ""}
-  - {city: seattle_st3, place: Seattle, system: Link Light Rail, note: "The full Sound Transit 3 build-out", shop: ""}
-  - {city: cahsr, place: California, system: High-Speed Rail, note: "The full Phase 1 and Phase 2 network", shop: ""}
+  - {city: bart, place: San Francisco Bay Area, system: BART, shop: "https://www.zazzle.com/transit_star_map_bart_san_francisco_bay_area_tri_blend_shirt-256699507135343451"}
+  - {city: dc_metro, place: "Washington, D.C.", system: Metrorail, shop: "https://www.zazzle.com/transit_star_map_metrorail_washington_dc_metro_t_shirt-256322410464767884"}
+  - {city: boston_mbta, place: Boston, system: MBTA Subway, shop: "https://www.zazzle.com/transit_star_map_mbta_boston_massachusetts_t_shirt-256898959148321639"}
+  - {city: montreal, place: Montréal, system: Métro, shop: "https://www.zazzle.com/transit_star_map_metro_montreal_quebec_canada_t_shirt-256906223948445199"}
+  - {city: bc_skytrain, place: Vancouver, system: SkyTrain, shop: "https://www.zazzle.com/transit_star_map_skytrain_vancouver_bc_canada_sweatshirt-256242977583698239"}
+  - {city: la_metro, place: Los Angeles, system: Metro Rail, shop: "https://www.zazzle.com/transit_star_map_metro_rail_los_angeles_ca_tri_blend_shirt-256638913805282668"}
+  - {city: toronto, place: Toronto, system: TTC Subway, shop: "https://www.zazzle.com/transit_star_map_ttc_subway_toronto_ontario_t_shirt-256363749577785489"}
+  - {city: trimet_max, place: Portland, system: MAX Light Rail, shop: "https://www.zazzle.com/transit_star_map_max_light_rail_portland_oregon_t_shirt-256334615250484414"}
+  - {city: seattle_st3, place: Seattle, system: Link Light Rail, note: "The full Sound Transit 3 build-out", shop: "https://www.zazzle.com/transit_star_map_link_light_rail_seattle_wa_t_shirt-256596324715105214"}
+  - {city: cahsr, place: California, system: High-Speed Rail, note: "The full Phase 1 and Phase 2 network", shop: "https://www.zazzle.com/transit_star_map_high_speed_rail_california_t_shirt-256587154288484712"}
   - {city: atlanta_marta, place: Atlanta, system: MARTA Rail, shop: "https://www.zazzle.com/transit_star_map_marta_atlanta_georgia_t_shirt-256130499353771034"}
   # Rendered but left off the site for now:
   # - {city: seattle_link, place: Seattle, system: Link Light Rail (today), shop: ""}
