@@ -3,20 +3,23 @@
 # Tacoma Community College.
 #
 # Stations: cities/seattle_st3/stations.csv, from scripts/seattle_st3_stations.py
-# (GTFS for stations in service, Sound Transit's planning layer for Seattle,
-# geocoded street locations elsewhere). Line orders follow Sound Transit's
+# (GTFS for stations in service, the City of Seattle's layer of planned Sound
+# Transit stations inside Seattle, and hand placement elsewhere; see below). Line orders follow Sound Transit's
 # 2026 future service map as listed on Wikipedia. Provisional (unfunded)
 # stations SR 99/Airport Road and Lakemont are left out. The May 2026 plan
 # update funds Ballard Link only as far as Seattle Center; this map shows
 # the full line.
 #
-# Assumptions to check: the 4 Line runs South Kirkland–Wilburton–Bellevue
-# Downtown–East Main–South Bellevue before its new track to Issaquah, and the
-# second downtown tunnel's Westlake and International District stations are
-# drawn as one star with today's stations.
+# Planned stations outside Seattle are placed by hand from Sound Transit's
+# environmental and project documents (each row of stations.csv names its
+# source); where Sound Transit hasn't chosen a site, the star sits between
+# the options it is studying. The 4 Line follows Sound Transit's description:
+# from South Kirkland through Wilburton, Bellevue Downtown and East Main, then
+# along I-405 and I-90 to Issaquah. The second downtown tunnel's Westlake and
+# International District stations are drawn as one star with today's.
 name: Link Light Rail (ST3 build-out)
 # Data credit shown on the website's About page (HTML allowed).
-credit: 'Sound Transit GTFS feed and station layer; planned station names and lines from Wikipedia&#8217;s <a href="https://en.wikipedia.org/wiki/List_of_Link_light_rail_stations">List of Link light rail stations</a> (CC BY-SA), following Sound Transit&#8217;s future service map. Planned station locations are approximate.'
+credit: 'Sound Transit GTFS feed; planned stations in Seattle from the City of Seattle&#8217;s layer of Sound Transit stations; planned station names and lines from Wikipedia&#8217;s <a href="https://en.wikipedia.org/wiki/List_of_Link_light_rail_stations">List of Link light rail stations</a> (CC BY-SA), following Sound Transit&#8217;s future service map. Planned stations placed from Sound Transit&#8217;s project documents, with street locations from OpenStreetMap (&copy; OpenStreetMap contributors, ODbL); they are approximate.'
 source:
   type: routes
   stations: cities/seattle_st3/stations.csv
@@ -45,7 +48,7 @@ source:
                  Pioneer Square, "Int'l Dist/Chinatown", Stadium, SODO, Delridge,
                  Alaska Junction]
     - name: 4 Line
-      stations: [South Kirkland, Wilburton, Bellevue Downtown, East Main, South Bellevue,
+      stations: [South Kirkland, Wilburton, Bellevue Downtown, East Main,
                  Richards Road, Eastgate, Central Issaquah]
     - name: T Line
       stations: [Tacoma Dome, S 25th, Union Station, Convention Center, Theater District,
