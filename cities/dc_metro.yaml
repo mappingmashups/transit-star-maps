@@ -2,6 +2,8 @@
 # WMATA's feed needs a free API key from https://developer.wmata.com:
 #   export WMATA_API_KEY=...
 name: Metrorail
+# Data credit shown on the website's About page (HTML allowed).
+credit: 'WMATA rail GTFS feed, from the <a href="https://developer.wmata.com/">WMATA developer API</a>.'
 source:
   type: gtfs
   url: https://api.wmata.com/gtfs/rail-gtfs-static.zip

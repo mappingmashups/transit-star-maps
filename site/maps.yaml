@@ -26,9 +26,9 @@ old_posts:
 card_map: bart
 tagline: Subway and light rail networks, drawn as constellations.
 about: >
-  Every star is a station, placed where it really is. Every line follows the
-  track between neighboring stations. Bigger stars mark the places where lines
-  meet or branch. The result is a city's transit system as it might appear in
+  Every star is a station, placed where it really is, and lines join
+  neighboring stations the way star charts draw constellations. Bigger stars
+  mark the places where lines meet or branch. The result is a city's transit system as it might appear in
   the night sky.
 shop_all: "https://www.zazzle.com/transitstarmaps"  # the whole store
 # Footer credit.

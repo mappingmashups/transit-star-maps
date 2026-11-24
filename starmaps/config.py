@@ -16,6 +16,7 @@ STAR_SVG = ROOT / "assets" / "star.svg"
 
 DEFAULTS = {
     "name": None,
+    "credit": None,  # data credit for the website (HTML allowed)
     "source": {
         "type": "gtfs",  # gtfs | linework
         "url": None,

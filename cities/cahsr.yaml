@@ -9,6 +9,8 @@
 # West Covina or Corona stops. Lines follow the drawn alignment where it
 # exists and are straight where it doesn't.
 name: California High-Speed Rail
+# Data credit shown on the website's About page (HTML allowed).
+credit: 'California High-Speed Rail Authority, <a href="https://gis.data.ca.gov/content/7210a9f57f16407f8fdd4949ac90daea">HSR Statewide Alignment and Stations</a>, provided “as is”. Phase 2 station sites are still being decided; the map shows one option for each.'
 source:
   type: routes
   downloads:

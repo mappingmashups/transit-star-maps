@@ -1,6 +1,8 @@
 # MAX light rail only: TriMet's feed also has the Portland Streetcar (also
 # route_type 0) and WES commuter rail.
 name: TriMet MAX
+# Data credit shown on the website's About page (HTML allowed).
+credit: 'TriMet GTFS feed, from <a href="https://developer.trimet.org/">developer.trimet.org</a>.'
 source:
   type: gtfs
   url: https://developer.trimet.org/schedule/gtfs.zip

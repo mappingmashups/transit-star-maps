@@ -12,7 +12,8 @@ import random
 import shutil
 import urllib.parse
 import sys
-from html import escape
+import re
+from html import escape, unescape
 from pathlib import Path
 
 import yaml
@@ -111,6 +112,46 @@ def social_card(site, entry):
             browser.close()
 
 
+def about_page(site, url, values):
+    """Render site/about.md into docs/about/index.html, with FAQ structured data."""
+    import markdown
+
+    rows = []
+    for e in site["maps"]:
+        credit = config.load(e["city"]).get("credit") or ""
+        rows.append(f"| {escape(e['place'])} · {escape(e['system'])} | {credit} |")
+    credits = "| Map | Data |\n|---|---|\n" + "\n".join(rows)
+    text = (SITE / "about.md").read_text().replace("{{credits}}", credits)
+    html = markdown.markdown(text, extensions=["tables"])
+
+    # Questions are the level-2 headings; answers are the text up to the next one.
+    faq = []
+    for section in text.split("\n## ")[1:]:
+        question, _, answer = section.partition("\n")
+        plain = re.sub(r"<[^>]+>", "", markdown.markdown(answer, extensions=["tables"]))
+        plain = re.sub(r"\s+", " ", unescape(plain)).strip()
+        faq.append({"@type": "Question", "name": question.strip(),
+                    "acceptedAnswer": {"@type": "Answer", "text": plain}})
+    faq_json = json.dumps({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": faq},
+                          ensure_ascii=False).replace("</", "<\\/")
+
+    page = (SITE / "about.template.html").read_text()
+    fill = {
+        "title": values["title"],
+        "description": escape("How the Transit Star Maps are made, why these cities, and where the data comes from."),
+        "url": values["url"],
+        "page_url": escape(url + "about/"),
+        "faq_json": faq_json,
+        "content": html,
+        "copyright": values["copyright"],
+        "links": values["links"],
+    }
+    for key, value in fill.items():
+        page = page.replace("{{" + key + "}}", value)
+    (DOCS / "about").mkdir(exist_ok=True)
+    (DOCS / "about" / "index.html").write_text(page)
+
+
 def main():
     site = yaml.safe_load((SITE / "maps.yaml").read_text())
     DOCS.mkdir(exist_ok=True)
@@ -133,6 +174,7 @@ def main():
         raise SystemExit(f"card_map {site['card_map']!r} must be one of the maps listed")
     card_alt = f"{site['title']}: {card_entry['system']} in {card_entry['place']} drawn as a constellation"
     social_card(site, card_entry)
+
     # GitHub Pages serves 404.html for any missing address, including old
     # Tumblr URLs (/post/..., /tagged/..., /archive); send them home.
     home = urllib.parse.urlparse(url).path or "/"
@@ -164,6 +206,10 @@ def main():
     for key, value in values.items():
         html = html.replace("{{" + key + "}}", value)
     (DOCS / "index.html").write_text(html)
+    css = (SITE / "style.css").read_text()
+    css = css.replace("{{stars_small}}", values["stars_small"]).replace("{{stars_big}}", values["stars_big"])
+    (DOCS / "style.css").write_text(css)
+    about_page(site, url, values)
     shutil.copyfile(SITE / "favicon.svg", DOCS / "favicon.svg")
     (DOCS / ".nojekyll").write_text("")
     shutil.copyfile(SITE / "CNAME", DOCS / "CNAME")

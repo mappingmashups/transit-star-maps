@@ -1,5 +1,7 @@
 # Expo, Millennium and Canada lines; West Coast Express and SeaBus left out.
 name: SkyTrain
+# Data credit shown on the website's About page (HTML allowed).
+credit: 'TransLink GTFS feed, from <a href="https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources">translink.ca</a>.'
 source:
   type: gtfs
   url: https://gtfs-static.translink.ca/gtfs/google_transit.zip

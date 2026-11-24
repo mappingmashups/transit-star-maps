@@ -15,6 +15,8 @@
 # second downtown tunnel's Westlake and International District stations are
 # drawn as one star with today's stations.
 name: Link Light Rail (ST3 build-out)
+# Data credit shown on the website's About page (HTML allowed).
+credit: 'Sound Transit GTFS feed and station layer; planned station names and lines from Wikipedia&#8217;s <a href="https://en.wikipedia.org/wiki/List_of_Link_light_rail_stations">List of Link light rail stations</a> (CC BY-SA), following Sound Transit&#8217;s future service map. Planned station locations are approximate.'
 source:
   type: routes
   stations: cities/seattle_st3/stations.csv

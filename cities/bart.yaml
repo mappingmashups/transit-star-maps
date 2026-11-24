@@ -1,4 +1,6 @@
 name: BART
+# Data credit shown on the website's About page (HTML allowed).
+credit: 'BART GTFS feed, from <a href="https://www.bart.gov/schedules/developers">bart.gov</a>.'
 source:
   type: gtfs
   url: https://www.bart.gov/dev/schedules/google_transit.zip

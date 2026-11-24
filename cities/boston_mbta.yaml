@@ -2,6 +2,8 @@
 # including the Green Line Extension. The Silver Line (bus) and commuter rail
 # stay out.
 name: MBTA Subway
+# Data credit shown on the website's About page (HTML allowed).
+credit: 'MBTA GTFS feed, from <a href="https://www.mbta.com/developers">mbta.com</a>.'
 source:
   type: gtfs
   url: https://cdn.mbta.com/MBTA_GTFS.zip

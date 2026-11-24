@@ -1,6 +1,8 @@
 # Metro Rail only (A, B, C, D, E, K). The G and J busways are in Metro's bus
 # feed, so they stay out.
 name: LA Metro Rail
+# Data credit shown on the website's About page (HTML allowed).
+credit: 'LA Metro rail GTFS feed, from <a href="https://developer.metro.net/">developer.metro.net</a>.'
 source:
   type: gtfs
   url: https://gitlab.com/LACMTA/gtfs_rail/-/raw/master/gtfs_rail.zip
