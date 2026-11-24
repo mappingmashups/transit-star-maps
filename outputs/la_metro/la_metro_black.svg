@@ -94,10 +94,10 @@
     <use href="#star" transform="translate(521.4 87) scale(0.3600)" stroke-width="58.33"/>
     <use href="#star" transform="translate(1035.2 1168.4) scale(0.5580)" stroke-width="37.63"/>
     <use href="#star" transform="translate(502 1077.8) scale(0.5580)" stroke-width="37.63"/>
-    <use href="#star" transform="translate(677.8 750.2) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(667.9 740.3) scale(0.5580)" stroke-width="37.63"/>
     <use href="#star" transform="translate(941.7 639.5) scale(0.5580)" stroke-width="37.63"/>
-    <use href="#star" transform="translate(1041.2 630.6) scale(0.3600)" stroke-width="58.33"/>
-    <use href="#star" transform="translate(1055.2 579.9) scale(0.3600)" stroke-width="58.33"/>
+    <use href="#star" transform="translate(1031.3 620.7) scale(0.5580)" stroke-width="37.63"/>
+    <use href="#star" transform="translate(1045.3 570) scale(0.5580)" stroke-width="37.63"/>
     <use href="#star" transform="translate(837.6 557.6) scale(0.5580)" stroke-width="37.63"/>
       </g>
     </mask>
@@ -293,10 +293,10 @@
     <use href="#star" transform="translate(521.4 87) scale(0.3600)"><title>North Hollywood Station</title></use>
     <use href="#star" transform="translate(1035.2 1168.4) scale(0.5580)"><title>Willowbrook - Rosa Parks Station</title></use>
     <use href="#star" transform="translate(502 1077.8) scale(0.5580)"><title>Aviation / Century Station</title></use>
-    <use href="#star" transform="translate(677.8 750.2) scale(0.3600)"><title>Expo / Crenshaw E-Line Station</title></use>
+    <use href="#star" transform="translate(667.9 740.3) scale(0.5580)"><title>Expo / Crenshaw E-Line Station</title></use>
     <use href="#star" transform="translate(941.7 639.5) scale(0.5580)"><title>7th Street / Metro Center Station</title></use>
-    <use href="#star" transform="translate(1041.2 630.6) scale(0.3600)"><title>Little Tokyo / Arts District Station</title></use>
-    <use href="#star" transform="translate(1055.2 579.9) scale(0.3600)"><title>Union Station</title></use>
+    <use href="#star" transform="translate(1031.3 620.7) scale(0.5580)"><title>Little Tokyo / Arts District Station</title></use>
+    <use href="#star" transform="translate(1045.3 570) scale(0.5580)"><title>Union Station</title></use>
     <use href="#star" transform="translate(837.6 557.6) scale(0.5580)"><title>Wilshire / Vermont Station</title></use>
   </g>
 </svg>
