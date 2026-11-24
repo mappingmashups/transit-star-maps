@@ -58,6 +58,10 @@ stations:
     - San Diego Intl Airport
     - San Jose Diridon Station
   merge_distance_m: 300
+  rank:
+    # Madera sits at the Central Valley wye, so it counts as a junction;
+    # draw it as a regular station.
+    Madera Stop: 1
 map:
   max_height_in: 12
 style:
